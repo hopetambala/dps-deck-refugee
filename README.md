@@ -9,13 +9,23 @@
 ## Demos
 [Map](https://hopetambala.github.io/dps-deck-refugee/)
 
-<p align="middle">
-    <img src="images/thumbnail.png">
-</p>
+
 
 ## Description
+<p align="middle">
+    <img src="images/explain.png">
+</p>
+
+First Viz (Departures)
+- Top ten countries of origin
+- Country of Asylum in the Americas
+- All Countries for resettlement
+
+
 
 ## Resources 
+
+### Data
 [UNHCR](https://www.unhcr.org/en-us/data.html)
 
 ## Libraries

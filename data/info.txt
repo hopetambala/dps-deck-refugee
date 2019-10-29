@@ -1,0 +1,9 @@
+Extracted:	United Nations High Commissioner for Refugees															
+Date extracted:	29/10/2019 13:36:20															
+Last updated:	29/10/2019 13:36:20															
+																
+Data table contains the following:	UNHCR resettlement submissions (demographics)															
+Years selected:	2019, 2018, 2017															
+2019 data (if included) as of:	 July 2019															
+Country of origin:	AFG,BTN,COD,ERI,IRN,IRQ,MMR,SOM,SDN,SYR															
+Resettlement country:	ALB,ARG,AUS,AUT,BLR,BEL,BRA,BGR,CAN,CHL,HRV,CYP,CZE,DNK,EST,FIN,FRA,DEU,HUN,ISL,IRL,ITA,JPN,LVA,LIE,LTU,LUX,MLT,MEX,MCO,NLD,NZL,NOR,PRY,POL,PRT,KOR,ROU,SVK,SVN,ESP,SWE,CHE,GBR,USA,URY															
