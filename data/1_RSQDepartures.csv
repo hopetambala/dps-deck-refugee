@@ -1,123 +1,110 @@
-Extracted:,United Nations High Commissioner for Refugees
-Date extracted:,29/10/2019 13:50:36
-Last updated:,29/10/2019 13:50:36
-
-Data table contains the following:,UNHCR resettlement departures
-Years selected:,"2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019"
-2019 data (if included) as of:, July 2019
-Country of origin:,"AFG,BTN,COD,ERI,IRN,IRQ,MMR,SOM,SDN,SYR"
-Country of asylum:,"ATG,ARG,ABW,BHS,BRB,BLZ,BOL,VGB,CYM,CHL,COL,CRI,CUB,CUW,DOM,ECU,SLV,GRD,GTM,GUY,HTI,HND,JAM,MEX,NIC,PAN,PER,KNA,LCA,SUR,TTO,TCA,VEN"
-Resettlement country:,"ALB,ARG,AUS,AUT,BLR,BEL,BRA,BGR,CAN,CHL,HRV,CYP,CZE,DNK,EST,FIN,FRA,DEU,HUN,ISL,IRL,ITA,JPN,LVA,LIE,LTU,LUX,MLT,MEX,MCO,NLD,NZL,NOR,PRY,POL,PRT,KOR,ROU,SVK,SVN,ESP,SWE,CHE,GBR,USA,URY"
-
-Year,Country of Origin (ISO),Country of Origin,Country of Asylum,Country of Asylum (ISO),Country of Resettlement (ISO),Country of Resettlement,Total departures (persons)
-2003,SDN,"Sudan",CUB,"Cuba",CAN,"Canada",2
-2003,IRQ,"Iraq",CUB,"Cuba",NLD,"Netherlands",1
-2003,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",SWE,"Sweden",3
-2003,SDN,"Sudan",CUB,"Cuba",SWE,"Sweden",1
-2004,SDN,"Sudan",CUB,"Cuba",CAN,"Canada",2
-2004,SDN,"Sudan",CUB,"Cuba",SWE,"Sweden",1
-2005,AFG,"Afghanistan",CUB,"Cuba",SWE,"Sweden",2
-2005,ERI,"Eritrea",CUB,"Cuba",USA,"United States of America",1
-2005,IRQ,"Iraq",VEN,"Venezuela (Bolivarian Republic of)",AUS,"Australia",2
-2005,AFG,"Afghanistan",CUB,"Cuba",FIN,"Finland",5
-2005,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",FIN,"Finland",5
-2005,AFG,"Afghanistan",CUB,"Cuba",GBR,"United Kingdom of Great Britain and Northern Ireland",1
-2006,IRN,"Iran (Islamic Rep. of)",COL,"Colombia",CAN,"Canada",2
-2006,AFG,"Afghanistan",CUB,"Cuba",USA,"United States of America",8
-2006,ERI,"Eritrea",CUB,"Cuba",USA,"United States of America",1
-2006,IRQ,"Iraq",TTO,"Trinidad and Tobago",NZL,"New Zealand",1
-2007,IRN,"Iran (Islamic Rep. of)",ECU,"Ecuador",NLD,"Netherlands",1
-2007,ERI,"Eritrea",CUB,"Cuba",SWE,"Sweden",1
-2007,AFG,"Afghanistan",CUB,"Cuba",USA,"United States of America",1
-2007,MMR,"Myanmar",CUB,"Cuba",USA,"United States of America",1
-2008,IRQ,"Iraq",ECU,"Ecuador",NLD,"Netherlands",1
-2008,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",3
-2008,AFG,"Afghanistan",ECU,"Ecuador",CAN,"Canada",4
-2008,IRQ,"Iraq",VEN,"Venezuela (Bolivarian Republic of)",CAN,"Canada",4
-2008,IRQ,"Iraq",ECU,"Ecuador",USA,"United States of America",1
-2008,IRQ,"Iraq",PER,"Peru",USA,"United States of America",1
-2009,IRQ,"Iraq",CRI,"Costa Rica",USA,"United States of America",3
-2009,ERI,"Eritrea",CUB,"Cuba",USA,"United States of America",1
-2009,IRQ,"Iraq",CUB,"Cuba",USA,"United States of America",2
-2009,IRQ,"Iraq",PER,"Peru",USA,"United States of America",10
-2009,ERI,"Eritrea",CUB,"Cuba",CAN,"Canada",6
-2009,IRN,"Iran (Islamic Rep. of)",VEN,"Venezuela (Bolivarian Republic of)",CAN,"Canada",3
-2010,ERI,"Eritrea",CUB,"Cuba",USA,"United States of America",1
-2010,IRQ,"Iraq",HTI,"Haiti",USA,"United States of America",2
-2010,MMR,"Myanmar",JAM,"Jamaica",USA,"United States of America",4
-2010,SOM,"Somalia",CUB,"Cuba",CAN,"Canada",1
-2011,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",1
-2011,SDN,"Sudan",DOM,"Dominican Rep.",NLD,"Netherlands",4
-2011,IRN,"Iran (Islamic Rep. of)",VEN,"Venezuela (Bolivarian Republic of)",NLD,"Netherlands",4
-2011,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",SWE,"Sweden",1
-2011,IRN,"Iran (Islamic Rep. of)",TTO,"Trinidad and Tobago",SWE,"Sweden",4
-2011,IRQ,"Iraq",CRI,"Costa Rica",USA,"United States of America",4
-2011,IRN,"Iran (Islamic Rep. of)",CRI,"Costa Rica",CAN,"Canada",1
-2011,ERI,"Eritrea",CUB,"Cuba",CAN,"Canada",1
-2012,SOM,"Somalia",TTO,"Trinidad and Tobago",USA,"United States of America",2
-2012,IRN,"Iran (Islamic Rep. of)",GRD,"Grenada",SWE,"Sweden",3
-2012,ERI,"Eritrea",CUB,"Cuba",SWE,"Sweden",1
-2012,SYR,"Syrian Arab Rep.",CUB,"Cuba",SWE,"Sweden",48
-2012,IRN,"Iran (Islamic Rep. of)",CRI,"Costa Rica",USA,"United States of America",1
-2012,SDN,"Sudan",CUB,"Cuba",USA,"United States of America",2
-2013,IRN,"Iran (Islamic Rep. of)",BHS,"Bahamas",USA,"United States of America",1
-2013,SYR,"Syrian Arab Rep.",CUB,"Cuba",CAN,"Canada",2
-2013,IRN,"Iran (Islamic Rep. of)",CRI,"Costa Rica",USA,"United States of America",1
-2013,SYR,"Syrian Arab Rep.",CUB,"Cuba",USA,"United States of America",9
-2013,ERI,"Eritrea",SLV,"El Salvador",USA,"United States of America",15
-2013,IRQ,"Iraq",SLV,"El Salvador",USA,"United States of America",12
-2013,ERI,"Eritrea",CUB,"Cuba",NLD,"Netherlands",4
-2013,ERI,"Eritrea",CUB,"Cuba",SWE,"Sweden",4
-2013,ERI,"Eritrea",SLV,"El Salvador",SWE,"Sweden",7
-2013,SOM,"Somalia",SLV,"El Salvador",USA,"United States of America",64
-2013,SDN,"Sudan",SLV,"El Salvador",SWE,"Sweden",13
-2013,SDN,"Sudan",SLV,"El Salvador",USA,"United States of America",882
-2014,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",1
-2014,SOM,"Somalia",CUB,"Cuba",CAN,"Canada",1
-2014,IRN,"Iran (Islamic Rep. of)",ECU,"Ecuador",NLD,"Netherlands",2
-2014,SYR,"Syrian Arab Rep.",CUB,"Cuba",BRA,"Brazil",1
-2014,IRN,"Iran (Islamic Rep. of)",VEN,"Venezuela (Bolivarian Republic of)",SWE,"Sweden",4
-2014,SYR,"Syrian Arab Rep.",CUB,"Cuba",USA,"United States of America",4
-2014,AFG,"Afghanistan",ECU,"Ecuador",BRA,"Brazil",1
-2014,COD,"Dem. Rep. of the Congo",TTO,"Trinidad and Tobago",USA,"United States of America",1
-2015,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",USA,"United States of America",1
-2015,SYR,"Syrian Arab Rep.",TTO,"Trinidad and Tobago",USA,"United States of America",5
-2015,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",1
-2015,IRN,"Iran (Islamic Rep. of)",VEN,"Venezuela (Bolivarian Republic of)",SWE,"Sweden",2
-2015,SYR,"Syrian Arab Rep.",CUB,"Cuba",BRA,"Brazil",1
-2015,SYR,"Syrian Arab Rep.",BRB,"Barbados",USA,"United States of America",1
-2016,SYR,"Syrian Arab Rep.",ATG,"Antigua and Barbuda",USA,"United States of America",7
-2016,AFG,"Afghanistan",CUB,"Cuba",USA,"United States of America",1
-2016,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",USA,"United States of America",1
-2016,SYR,"Syrian Arab Rep.",CUB,"Cuba",USA,"United States of America",4
-2016,AFG,"Afghanistan",CUB,"Cuba",CAN,"Canada",4
-2016,AFG,"Afghanistan",ECU,"Ecuador",USA,"United States of America",5
-2016,IRQ,"Iraq",ECU,"Ecuador",USA,"United States of America",1
-2016,ERI,"Eritrea",CUB,"Cuba",NOR,"Norway",1
-2016,SYR,"Syrian Arab Rep.",LCA,"Saint Lucia",USA,"United States of America",1
-2016,SYR,"Syrian Arab Rep.",TTO,"Trinidad and Tobago",USA,"United States of America",4
-2017,SYR,"Syrian Arab Rep.",TTO,"Trinidad and Tobago",CAN,"Canada",4
-2017,SYR,"Syrian Arab Rep.",JAM,"Jamaica",CAN,"Canada",3
-2017,ERI,"Eritrea",CUB,"Cuba",CAN,"Canada",1
-2017,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",1
-2017,SOM,"Somalia",CUB,"Cuba",CAN,"Canada",1
-2017,SYR,"Syrian Arab Rep.",ATG,"Antigua and Barbuda",USA,"United States of America",7
-2018,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",SWE,"Sweden",5
-2018,COD,"Dem. Rep. of the Congo",TTO,"Trinidad and Tobago",CAN,"Canada",1
-2018,SYR,"Syrian Arab Rep.",TTO,"Trinidad and Tobago",CAN,"Canada",7
-2018,AFG,"Afghanistan",CUB,"Cuba",CAN,"Canada",3
-2018,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",1
-2018,IRN,"Iran (Islamic Rep. of)",BHS,"Bahamas",CAN,"Canada",1
-2018,ERI,"Eritrea",CUB,"Cuba",NOR,"Norway",2
-2018,ERI,"Eritrea",CUB,"Cuba",SWE,"Sweden",1
-2019,AFG,"Afghanistan",ECU,"Ecuador",USA,"United States of America",6
-2019,ERI,"Eritrea",CUB,"Cuba",SWE,"Sweden",3
-2019,IRQ,"Iraq",ECU,"Ecuador",USA,"United States of America",1
-2019,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",SWE,"Sweden",1
-2019,IRN,"Iran (Islamic Rep. of)",ECU,"Ecuador",USA,"United States of America",1
-2019,SYR,"Syrian Arab Rep.",CUB,"Cuba",SWE,"Sweden",2
-2019,SYR,"Syrian Arab Rep.",TTO,"Trinidad and Tobago",CAN,"Canada",1
-2019,IRN,"Iran (Islamic Rep. of)",CUB,"Cuba",CAN,"Canada",7
-2019,IRQ,"Iraq",CUB,"Cuba",NLD,"Netherlands",1
-
-"Some data presented may differ from statistics published previously due to retroactive changes or the inclusion of previously unavailable data. In addition, resettlement departure figures reported by UNHCR may not match resettlement statistics published by States as Government figures may include individuals who were resettled outside of UNHCR processes. More information about UNHCR's resettlement programe can be found at http://www.unhcr.org/resettlement.html."
+Year,Country of Origin (ISO),Country of Origin,Latitude - Country of Origin,Longitude - Country of Origin,Country of Asylum (ISO),Country of Asylum,Latitude - Country of Asylum,Longitude - Country of Asylum,Country of Resettlement (ISO),Country of Resettlement,Latitude - Country of Resettlement,Longitude - Country of Resettlement,Total departures (persons)
+2005,IRQ,Iraq,33,44,VEN,"Venezuela, Bolivarian Republic of",8,-66,AUS,Australia,-27,133,2
+2014,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,BRA,Brazil,-10,-55,1
+2015,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,BRA,Brazil,-10,-55,1
+2014,AFG,Afghanistan,33,65,ECU,Ecuador,-2,-77.5,BRA,Brazil,-10,-55,1
+2018,IRN,Iran,32,53,BHS,Bahamas,24.25,-76,CAN,Canada,60,-95,1
+2006,IRN,Iran,32,53,COL,Colombia,4,-72,CAN,Canada,60,-95,2
+2011,IRN,Iran,32,53,CRI,Costa Rica,10,-84,CAN,Canada,60,-95,1
+2016,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,4
+2018,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,3
+2009,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,6
+2011,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2017,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2008,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,3
+2011,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2014,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2015,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2017,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2018,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2019,IRN,Iran,32,53,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,7
+2010,SOM,Somalia,10,49,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2014,SOM,Somalia,10,49,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2017,SOM,Somalia,10,49,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,1
+2003,SDN,Sudan,15,30,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,2
+2004,SDN,Sudan,15,30,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,2
+2013,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,CAN,Canada,60,-95,2
+2008,AFG,Afghanistan,33,65,ECU,Ecuador,-2,-77.5,CAN,Canada,60,-95,4
+2017,SYR,Syrian Arab Republic,35,38,JAM,Jamaica,18.25,-77.5,CAN,Canada,60,-95,3
+2018,COD,Dem. Rep. of the Congo,0,25,TTO,Trinidad and Tobago,11,-61,CAN,Canada,60,-95,1
+2017,SYR,Syrian Arab Republic,35,38,TTO,Trinidad and Tobago,11,-61,CAN,Canada,60,-95,4
+2018,SYR,Syrian Arab Republic,35,38,TTO,Trinidad and Tobago,11,-61,CAN,Canada,60,-95,7
+2019,SYR,Syrian Arab Republic,35,38,TTO,Trinidad and Tobago,11,-61,CAN,Canada,60,-95,1
+2009,IRN,Iran,32,53,VEN,"Venezuela, Bolivarian Republic of",8,-66,CAN,Canada,60,-95,3
+2008,IRQ,Iraq,33,44,VEN,"Venezuela, Bolivarian Republic of",8,-66,CAN,Canada,60,-95,4
+2005,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,FIN,Finland,64,26,5
+2005,IRN,Iran,32,53,CUB,Cuba,21.5,-80,FIN,Finland,64,26,5
+2013,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,NLD,Netherlands,52.5,5.75,4
+2003,IRQ,Iraq,33,44,CUB,Cuba,21.5,-80,NLD,Netherlands,52.5,5.75,1
+2019,IRQ,Iraq,33,44,CUB,Cuba,21.5,-80,NLD,Netherlands,52.5,5.75,1
+2011,SDN,Sudan,15,30,DOM,Dominican Republic,19,-70.6667,NLD,Netherlands,52.5,5.75,4
+2007,IRN,Iran,32,53,ECU,Ecuador,-2,-77.5,NLD,Netherlands,52.5,5.75,1
+2014,IRN,Iran,32,53,ECU,Ecuador,-2,-77.5,NLD,Netherlands,52.5,5.75,2
+2008,IRQ,Iraq,33,44,ECU,Ecuador,-2,-77.5,NLD,Netherlands,52.5,5.75,1
+2011,IRN,Iran,32,53,VEN,"Venezuela, Bolivarian Republic of",8,-66,NLD,Netherlands,52.5,5.75,4
+2006,IRQ,Iraq,33,44,TTO,Trinidad and Tobago,11,-61,NZL,New Zealand,-41,174,1
+2016,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,NOR,Norway,62,10,1
+2018,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,NOR,Norway,62,10,2
+2005,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,2
+2007,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2012,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2013,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,4
+2018,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2019,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,3
+2003,IRN,Iran,32,53,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,3
+2011,IRN,Iran,32,53,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2018,IRN,Iran,32,53,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,5
+2019,IRN,Iran,32,53,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2003,SDN,Sudan,15,30,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2004,SDN,Sudan,15,30,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,1
+2012,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,48
+2019,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,SWE,Sweden,62,15,2
+2013,ERI,Eritrea,15,39,SLV,El Salvador,13.8333,-88.9167,SWE,Sweden,62,15,7
+2013,SDN,Sudan,15,30,SLV,El Salvador,13.8333,-88.9167,SWE,Sweden,62,15,13
+2012,IRN,Iran,32,53,GRD,Grenada,12.1167,-61.6667,SWE,Sweden,62,15,3
+2011,IRN,Iran,32,53,TTO,Trinidad and Tobago,11,-61,SWE,Sweden,62,15,4
+2014,IRN,Iran,32,53,VEN,"Venezuela, Bolivarian Republic of",8,-66,SWE,Sweden,62,15,4
+2015,IRN,Iran,32,53,VEN,"Venezuela, Bolivarian Republic of",8,-66,SWE,Sweden,62,15,2
+2005,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,GBR,United Kingdom,54,-2,1
+2016,SYR,Syrian Arab Republic,35,38,ATG,Antigua and Barbuda,17.05,-61.8,USA,United States of America,38,-97,7
+2017,SYR,Syrian Arab Republic,35,38,ATG,Antigua and Barbuda,17.05,-61.8,USA,United States of America,38,-97,7
+2013,IRN,Iran,32,53,BHS,Bahamas,24.25,-76,USA,United States of America,38,-97,1
+2015,SYR,Syrian Arab Republic,35,38,BRB,Barbados,13.1667,-59.5333,USA,United States of America,38,-97,1
+2012,IRN,Iran,32,53,CRI,Costa Rica,10,-84,USA,United States of America,38,-97,1
+2013,IRN,Iran,32,53,CRI,Costa Rica,10,-84,USA,United States of America,38,-97,1
+2009,IRQ,Iraq,33,44,CRI,Costa Rica,10,-84,USA,United States of America,38,-97,3
+2011,IRQ,Iraq,33,44,CRI,Costa Rica,10,-84,USA,United States of America,38,-97,4
+2006,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,8
+2007,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2016,AFG,Afghanistan,33,65,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2005,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2006,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2009,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2010,ERI,Eritrea,15,39,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2015,IRN,Iran,32,53,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2016,IRN,Iran,32,53,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2009,IRQ,Iraq,33,44,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,2
+2007,MMR,Myanmar,22,98,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,1
+2012,SDN,Sudan,15,30,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,2
+2013,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,9
+2014,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,4
+2016,SYR,Syrian Arab Republic,35,38,CUB,Cuba,21.5,-80,USA,United States of America,38,-97,4
+2016,AFG,Afghanistan,33,65,ECU,Ecuador,-2,-77.5,USA,United States of America,38,-97,5
+2019,AFG,Afghanistan,33,65,ECU,Ecuador,-2,-77.5,USA,United States of America,38,-97,6
+2019,IRN,Iran,32,53,ECU,Ecuador,-2,-77.5,USA,United States of America,38,-97,1
+2008,IRQ,Iraq,33,44,ECU,Ecuador,-2,-77.5,USA,United States of America,38,-97,1
+2016,IRQ,Iraq,33,44,ECU,Ecuador,-2,-77.5,USA,United States of America,38,-97,1
+2019,IRQ,Iraq,33,44,ECU,Ecuador,-2,-77.5,USA,United States of America,38,-97,1
+2013,ERI,Eritrea,15,39,SLV,El Salvador,13.8333,-88.9167,USA,United States of America,38,-97,15
+2013,IRQ,Iraq,33,44,SLV,El Salvador,13.8333,-88.9167,USA,United States of America,38,-97,12
+2013,SOM,Somalia,10,49,SLV,El Salvador,13.8333,-88.9167,USA,United States of America,38,-97,64
+2013,SDN,Sudan,15,30,SLV,El Salvador,13.8333,-88.9167,USA,United States of America,38,-97,882
+2010,IRQ,Iraq,33,44,HTI,Haiti,19,-72.4167,USA,United States of America,38,-97,2
+2010,MMR,Myanmar,22,98,JAM,Jamaica,18.25,-77.5,USA,United States of America,38,-97,4
+2008,IRQ,Iraq,33,44,PER,Peru,-10,-76,USA,United States of America,38,-97,1
+2009,IRQ,Iraq,33,44,PER,Peru,-10,-76,USA,United States of America,38,-97,10
+2016,SYR,Syrian Arab Republic,35,38,LCA,Saint Lucia,13.8833,-61.1333,USA,United States of America,38,-97,1
+2014,COD,Dem. Rep. of the Congo,0,25,TTO,Trinidad and Tobago,11,-61,USA,United States of America,38,-97,1
+2012,SOM,Somalia,10,49,TTO,Trinidad and Tobago,11,-61,USA,United States of America,38,-97,2
+2015,SYR,Syrian Arab Republic,35,38,TTO,Trinidad and Tobago,11,-61,USA,United States of America,38,-97,5
+2016,SYR,Syrian Arab Republic,35,38,TTO,Trinidad and Tobago,11,-61,USA,United States of America,38,-97,4

@@ -1,4 +1,4 @@
-# Kepler/Deck, Javascript, and Refugee Data
+# Deck.gl, React.js and Refugee Data
 
 [![Build Status](https://travis-ci.org/hopetambala/dps-deck-refugee.svg?branch=master)](https://travis-ci.org/hopetambala/dps-deck-refugee)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fccd6dec0e2a4488963b94722eee7a07)](https://www.codacy.com/manual/hopetambala/dps-deck-refugee?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hopetambala/dps-deck-refugee&amp;utm_campaign=Badge_Grade)
