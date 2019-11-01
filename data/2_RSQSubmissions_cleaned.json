@@ -9,9 +9,9 @@
    "Country of Resettlement (ISO)": "AUS",
    "Country of Resettlement": "Australia",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-10.0, -76.0]",
-   "Country of Resettlement Coordinates": "[-27.0, 133.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-10.0, -76.0],
+   "Country of Resettlement Coordinates": [-27.0, 133.0]
  },
  {
    "FIELD1": 1,
@@ -23,9 +23,9 @@
    "Country of Resettlement (ISO)": "AUS",
    "Country of Resettlement": "Australia",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[-27.0, 133.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [-27.0, 133.0]
  },
  {
    "FIELD1": 2,
@@ -37,9 +37,9 @@
    "Country of Resettlement (ISO)": "BRA",
    "Country of Resettlement": "Brazil",
    "Total submissions (persons)": 7,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[-10.0, -55.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [-10.0, -55.0]
  },
  {
    "FIELD1": 3,
@@ -51,9 +51,9 @@
    "Country of Resettlement (ISO)": "BRA",
    "Country of Resettlement": "Brazil",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[-10.0, -55.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [-10.0, -55.0]
  },
  {
    "FIELD1": 4,
@@ -65,9 +65,9 @@
    "Country of Resettlement (ISO)": "BRA",
    "Country of Resettlement": "Brazil",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[-10.0, -55.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [-10.0, -55.0]
  },
  {
    "FIELD1": 5,
@@ -79,9 +79,9 @@
    "Country of Resettlement (ISO)": "BRA",
    "Country of Resettlement": "Brazil",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[23.0, -102.0]",
-   "Country of Resettlement Coordinates": "[-10.0, -55.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [23.0, -102.0],
+   "Country of Resettlement Coordinates": [-10.0, -55.0]
  },
  {
    "FIELD1": 6,
@@ -93,9 +93,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[24.25, -76.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [24.25, -76.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 7,
@@ -107,9 +107,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 8,
@@ -121,9 +121,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 12,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 9,
@@ -135,9 +135,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 10,
@@ -149,9 +149,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 11,
@@ -163,9 +163,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 12,
@@ -177,9 +177,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 13,
@@ -191,9 +191,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 6,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 14,
@@ -205,9 +205,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 15,
@@ -219,9 +219,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 16,
@@ -233,9 +233,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 17,
@@ -247,9 +247,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 18,
@@ -261,9 +261,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 9,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 19,
@@ -275,9 +275,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 20,
@@ -289,9 +289,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 21,
@@ -303,9 +303,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 22,
@@ -317,9 +317,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 23,
@@ -331,9 +331,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 24,
@@ -345,9 +345,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 25,
@@ -359,9 +359,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 26,
@@ -373,9 +373,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
+   "Country of Origin Coordinates": [35.0, 38.0],
    "Country of Asylum Coordinates": "",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 27,
@@ -387,9 +387,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[19.0, -70.6667]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [19.0, -70.6667],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 28,
@@ -401,9 +401,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 29,
@@ -415,9 +415,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[19.0, -72.4167]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [19.0, -72.4167],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 30,
@@ -429,9 +429,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[18.25, -77.5]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [18.25, -77.5],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 31,
@@ -443,9 +443,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[0.0, 25.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [0.0, 25.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 32,
@@ -457,9 +457,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 7,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 33,
@@ -471,9 +471,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 9,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 34,
@@ -485,9 +485,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 35,
@@ -499,9 +499,9 @@
    "Country of Resettlement (ISO)": "CAN",
    "Country of Resettlement": "Canada",
    "Total submissions (persons)": 14,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[60.0, -95.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [60.0, -95.0]
  },
  {
    "FIELD1": 36,
@@ -513,9 +513,9 @@
    "Country of Resettlement (ISO)": "DNK",
    "Country of Resettlement": "Denmark",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[56.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [56.0, 10.0]
  },
  {
    "FIELD1": 37,
@@ -527,9 +527,9 @@
    "Country of Resettlement (ISO)": "DNK",
    "Country of Resettlement": "Denmark",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[56.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [56.0, 10.0]
  },
  {
    "FIELD1": 38,
@@ -541,9 +541,9 @@
    "Country of Resettlement (ISO)": "DNK",
    "Country of Resettlement": "Denmark",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[23.0, -102.0]",
-   "Country of Resettlement Coordinates": "[56.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [23.0, -102.0],
+   "Country of Resettlement Coordinates": [56.0, 10.0]
  },
  {
    "FIELD1": 39,
@@ -555,9 +555,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[17.05, -61.8]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [17.05, -61.8],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 40,
@@ -569,9 +569,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 41,
@@ -583,9 +583,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 42,
@@ -597,9 +597,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 43,
@@ -611,9 +611,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 44,
@@ -625,9 +625,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 45,
@@ -639,9 +639,9 @@
    "Country of Resettlement (ISO)": "FIN",
    "Country of Resettlement": "Finland",
    "Total submissions (persons)": 36,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[64.0, 26.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [64.0, 26.0]
  },
  {
    "FIELD1": 46,
@@ -653,9 +653,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 47,
@@ -667,9 +667,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 48,
@@ -681,9 +681,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 49,
@@ -695,9 +695,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 50,
@@ -709,9 +709,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 51,
@@ -723,9 +723,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 52,
@@ -737,9 +737,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 53,
@@ -751,9 +751,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 8,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 54,
@@ -765,9 +765,9 @@
    "Country of Resettlement (ISO)": "FRA",
    "Country of Resettlement": "France",
    "Total submissions (persons)": 13,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[46.0, 2.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [46.0, 2.0]
  },
  {
    "FIELD1": 55,
@@ -779,9 +779,9 @@
    "Country of Resettlement (ISO)": "ISL",
    "Country of Resettlement": "Iceland",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[65.0, -18.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [65.0, -18.0]
  },
  {
    "FIELD1": 56,
@@ -793,9 +793,9 @@
    "Country of Resettlement (ISO)": "ISL",
    "Country of Resettlement": "Iceland",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[65.0, -18.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [65.0, -18.0]
  },
  {
    "FIELD1": 57,
@@ -807,9 +807,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 58,
@@ -821,9 +821,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 59,
@@ -835,9 +835,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 60,
@@ -849,9 +849,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 61,
@@ -863,9 +863,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 62,
@@ -877,9 +877,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 63,
@@ -891,9 +891,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 64,
@@ -905,9 +905,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[19.0, -70.6667]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [19.0, -70.6667],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 65,
@@ -919,9 +919,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 66,
@@ -933,9 +933,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 67,
@@ -947,9 +947,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[12.1167, -61.6667]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [12.1167, -61.6667],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 68,
@@ -961,9 +961,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[23.0, -102.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [23.0, -102.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 69,
@@ -975,9 +975,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 70,
@@ -989,9 +989,9 @@
    "Country of Resettlement (ISO)": "NLD",
    "Country of Resettlement": "Netherlands",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[52.5, 5.75]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [52.5, 5.75]
  },
  {
    "FIELD1": 71,
@@ -1003,9 +1003,9 @@
    "Country of Resettlement (ISO)": "NZL",
    "Country of Resettlement": "New Zealand",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[-41.0, 174.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [-41.0, 174.0]
  },
  {
    "FIELD1": 72,
@@ -1017,9 +1017,9 @@
    "Country of Resettlement (ISO)": "NZL",
    "Country of Resettlement": "New Zealand",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[-41.0, 174.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [-41.0, 174.0]
  },
  {
    "FIELD1": 73,
@@ -1031,9 +1031,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[19.5, -80.5]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [19.5, -80.5],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 74,
@@ -1045,9 +1045,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 75,
@@ -1059,9 +1059,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 76,
@@ -1073,9 +1073,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 77,
@@ -1087,9 +1087,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 78,
@@ -1101,9 +1101,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 79,
@@ -1115,9 +1115,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 80,
@@ -1129,9 +1129,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 81,
@@ -1143,9 +1143,9 @@
    "Country of Resettlement (ISO)": "NOR",
    "Country of Resettlement": "Norway",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[23.0, -102.0]",
-   "Country of Resettlement Coordinates": "[62.0, 10.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [23.0, -102.0],
+   "Country of Resettlement Coordinates": [62.0, 10.0]
  },
  {
    "FIELD1": 82,
@@ -1157,9 +1157,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[19.5, -80.5]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [19.5, -80.5],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 83,
@@ -1171,9 +1171,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 7,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 84,
@@ -1185,9 +1185,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 6,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 85,
@@ -1199,9 +1199,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 86,
@@ -1213,9 +1213,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 87,
@@ -1227,9 +1227,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 88,
@@ -1241,9 +1241,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 89,
@@ -1255,9 +1255,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 90,
@@ -1269,9 +1269,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 91,
@@ -1283,9 +1283,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 6,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 92,
@@ -1297,9 +1297,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 93,
@@ -1311,9 +1311,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 94,
@@ -1325,9 +1325,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 48,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 95,
@@ -1339,9 +1339,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 96,
@@ -1353,9 +1353,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 97,
@@ -1367,9 +1367,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 98,
@@ -1381,9 +1381,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 99,
@@ -1395,9 +1395,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 100,
@@ -1409,9 +1409,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 101,
@@ -1423,9 +1423,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 15,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 102,
@@ -1437,9 +1437,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[12.1167, -61.6667]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [12.1167, -61.6667],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 103,
@@ -1451,9 +1451,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[23.0, -102.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [23.0, -102.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 104,
@@ -1465,9 +1465,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-10.0, -76.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-10.0, -76.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 105,
@@ -1479,9 +1479,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 106,
@@ -1493,9 +1493,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 107,
@@ -1507,9 +1507,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 108,
@@ -1521,9 +1521,9 @@
    "Country of Resettlement (ISO)": "SWE",
    "Country of Resettlement": "Sweden",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[8.0, -66.0]",
-   "Country of Resettlement Coordinates": "[62.0, 15.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [8.0, -66.0],
+   "Country of Resettlement Coordinates": [62.0, 15.0]
  },
  {
    "FIELD1": 109,
@@ -1535,9 +1535,9 @@
    "Country of Resettlement (ISO)": "GBR",
    "Country of Resettlement": "United Kingdom",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[54.0, -2.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [54.0, -2.0]
  },
  {
    "FIELD1": 110,
@@ -1549,9 +1549,9 @@
    "Country of Resettlement (ISO)": "GBR",
    "Country of Resettlement": "United Kingdom",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[54.0, -2.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [54.0, -2.0]
  },
  {
    "FIELD1": 111,
@@ -1563,9 +1563,9 @@
    "Country of Resettlement (ISO)": "GBR",
    "Country of Resettlement": "United Kingdom",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[54.0, -2.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [54.0, -2.0]
  },
  {
    "FIELD1": 112,
@@ -1577,9 +1577,9 @@
    "Country of Resettlement (ISO)": "GBR",
    "Country of Resettlement": "United Kingdom",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[54.0, -2.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [54.0, -2.0]
  },
  {
    "FIELD1": 113,
@@ -1591,9 +1591,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 15,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[17.05, -61.8]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [17.05, -61.8],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 114,
@@ -1605,9 +1605,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[-34.0, -64.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [-34.0, -64.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 115,
@@ -1619,9 +1619,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[24.25, -76.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [24.25, -76.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 116,
@@ -1633,9 +1633,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[13.1667, -59.5333]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [13.1667, -59.5333],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 117,
@@ -1647,9 +1647,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[19.5, -80.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [19.5, -80.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 118,
@@ -1661,9 +1661,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[10.0, -84.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [10.0, -84.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 119,
@@ -1675,9 +1675,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[10.0, -84.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [10.0, -84.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 120,
@@ -1689,9 +1689,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[10.0, -84.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [10.0, -84.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 121,
@@ -1703,9 +1703,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[10.0, -84.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [10.0, -84.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 122,
@@ -1717,9 +1717,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[10.0, -84.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [10.0, -84.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 123,
@@ -1731,9 +1731,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 8,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 124,
@@ -1745,9 +1745,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 125,
@@ -1759,9 +1759,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 126,
@@ -1773,9 +1773,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 127,
@@ -1787,9 +1787,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 128,
@@ -1801,9 +1801,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 129,
@@ -1815,9 +1815,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 130,
@@ -1829,9 +1829,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 131,
@@ -1843,9 +1843,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 132,
@@ -1857,9 +1857,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 133,
@@ -1871,9 +1871,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 134,
@@ -1885,9 +1885,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[22.0, 98.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [22.0, 98.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 135,
@@ -1899,9 +1899,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 136,
@@ -1913,9 +1913,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 137,
@@ -1927,9 +1927,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 11,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 138,
@@ -1941,9 +1941,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 139,
@@ -1955,9 +1955,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 8,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[21.5, -80.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [21.5, -80.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 140,
@@ -1969,9 +1969,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
+   "Country of Origin Coordinates": [35.0, 38.0],
    "Country of Asylum Coordinates": "",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 141,
@@ -1983,9 +1983,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 23,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 142,
@@ -1997,9 +1997,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 16,
-   "Country of Origin Coordinates": "[33.0, 65.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 65.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 143,
@@ -2011,9 +2011,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[32.0, 53.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [32.0, 53.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 144,
@@ -2025,9 +2025,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 145,
@@ -2039,9 +2039,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 11,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 146,
@@ -2053,9 +2053,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 147,
@@ -2067,9 +2067,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[-2.0, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [-2.0, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 148,
@@ -2081,9 +2081,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[15.0, 39.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 39.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 149,
@@ -2095,9 +2095,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 150,
@@ -2109,9 +2109,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 70,
-   "Country of Origin Coordinates": "[15.0, 30.0]",
-   "Country of Asylum Coordinates": "[13.8333, -88.9167]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [15.0, 30.0],
+   "Country of Asylum Coordinates": [13.8333, -88.9167],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 151,
@@ -2123,9 +2123,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[12.1167, -61.6667]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [12.1167, -61.6667],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 152,
@@ -2137,9 +2137,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[19.0, -72.4167]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [19.0, -72.4167],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 153,
@@ -2151,9 +2151,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 2,
-   "Country of Origin Coordinates": "[22.0, 98.0]",
-   "Country of Asylum Coordinates": "[18.25, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [22.0, 98.0],
+   "Country of Asylum Coordinates": [18.25, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 154,
@@ -2165,9 +2165,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[22.0, 98.0]",
-   "Country of Asylum Coordinates": "[18.25, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [22.0, 98.0],
+   "Country of Asylum Coordinates": [18.25, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 155,
@@ -2179,9 +2179,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 3,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[18.25, -77.5]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [18.25, -77.5],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 156,
@@ -2193,9 +2193,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 14,
-   "Country of Origin Coordinates": "[33.0, 44.0]",
-   "Country of Asylum Coordinates": "[-10.0, -76.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [33.0, 44.0],
+   "Country of Asylum Coordinates": [-10.0, -76.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 157,
@@ -2207,9 +2207,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[13.8833, -61.1333]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [13.8833, -61.1333],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 158,
@@ -2221,9 +2221,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[0.0, 25.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [0.0, 25.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 159,
@@ -2235,9 +2235,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 1,
-   "Country of Origin Coordinates": "[10.0, 49.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [10.0, 49.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 160,
@@ -2249,9 +2249,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 161,
@@ -2263,9 +2263,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 162,
@@ -2277,9 +2277,9 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 4,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  },
  {
    "FIELD1": 163,
@@ -2291,8 +2291,8 @@
    "Country of Resettlement (ISO)": "USA",
    "Country of Resettlement": "United States",
    "Total submissions (persons)": 5,
-   "Country of Origin Coordinates": "[35.0, 38.0]",
-   "Country of Asylum Coordinates": "[11.0, -61.0]",
-   "Country of Resettlement Coordinates": "[38.0, -97.0]"
+   "Country of Origin Coordinates": [35.0, 38.0],
+   "Country of Asylum Coordinates": [11.0, -61.0],
+   "Country of Resettlement Coordinates": [38.0, -97.0]
  }
 ]
