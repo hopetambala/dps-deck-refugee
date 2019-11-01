@@ -23,10 +23,10 @@ export class ControlPanelComponent extends Component {
             <Div id="control-panel">
 
                 <div>
-                    <h3>United Kingdom Road Safety</h3>
-                    <p>Personal injury road accidents in GB from 1979</p>
-                    <p>The layer aggregates data within the boundary of each hexagon cell</p>
-                    <div><div>Accidents<b>140.1K</b></div></div>
+                    <h3>United Nations Refugee Resettlement</h3>
+                    <p>Asylum seeking to Resettlement from 2001 to 2019</p>
+                    <p>The layer creates an arc from the country of orign to the asylum</p>
+                    {/* <div><div>Accidents<b>140.1K</b></div></div> */}
                 </div>
                 {/* <div>
                     <label>Radius</label>
