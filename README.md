@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/deck-✓-blueviolet.svg)
 
 ## Demos
-[Map](https://hopetambala.github.io/dps-deck-refugee/)
+[Map](https://un-refugee-asylum-resettlement.herokuapp.com/)
 
 
 
@@ -20,7 +20,6 @@ First Viz (Departures)
 - Top ten countries of origin
 - Country of Asylum in the Americas
 - All Countries for resettlement
-
 
 
 ## Resources 
@@ -40,7 +39,7 @@ npm install
 ```
 ### Run
 ```
-npm run start
+npm run start-local
 ```
 ## Tutorial & Development
 
