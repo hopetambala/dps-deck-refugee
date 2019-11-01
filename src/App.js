@@ -1,14 +1,9 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { render } from 'react-dom';
 import { StaticMap } from 'react-map-gl';
-import { PhongMaterial } from '@luma.gl/core';
 import { AmbientLight, PointLight, LightingEffect } from '@deck.gl/core';
-import { HexagonLayer } from '@deck.gl/aggregation-layers';
+import {ArcLayer} from '@deck.gl/layers';
 import DeckGL from '@deck.gl/react';
-import * as d3 from "d3";
-
 
 import { ControlPanelComponent } from "./components/control-panel";
 
@@ -16,41 +11,16 @@ import { ControlPanelComponent } from "./components/control-panel";
 const MAPBOX_TOKEN = "pk.eyJ1IjoiaHBiYWxhIiwiYSI6ImNrMXZyNWFscjB2N2szY3FmMHdodXZ2NjMifQ.PZQEuVD4WAHGTPd4yT5YFQ"; // eslint-disable-line
 
 // Source data CSV
-//const DATA_URL ='https://raw.githubusercontent.com/uber-common/deck.gl-data/master/examples/3d-heatmap/heatmap-data.csv'; // eslint-disable-line
-const REST_URL = "https://puente-api.herokuapp.com/records/"
-
-const ambientLight = new AmbientLight({
-  color: [255, 255, 255],
-  intensity: 1.0
-});
-
-const pointLight1 = new PointLight({
-  color: [255, 255, 255],
-  intensity: 0.8,
-  position: [-0.144528, 49.739968, 80000]
-});
-
-const pointLight2 = new PointLight({
-  color: [255, 255, 255],
-  intensity: 0.8,
-  position: [-3.807751, 54.104682, 8000]
-});
-
-const lightingEffect = new LightingEffect({ambientLight, pointLight1, pointLight2});
-
-const material = new PhongMaterial({
-  ambient: 0.64,
-  diffuse: 0.6,
-  shininess: 32,
-  specularColor: [51, 51, 51]
-});
+const DATA_URL ='https://raw.githubusercontent.com/hopetambala/dps-deck-refugee/master/data/2_RSQSubmissions_cleaned.json'; // eslint-disable-line
 
 const INITIAL_VIEW_STATE = {
-  longitude: -70.1627,
-  latitude: 18.7357,
-  zoom: 6.6,
-  minZoom: 5,
-  maxZoom: 15,
+  //longitude: -70.1627,
+  //latitude: 18.7357,
+  latitude: -10.0,
+  longitude: 0.0,
+  zoom: 4,
+  minZoom: 3,
+  maxZoom: 20,
   pitch: 40.5,
   bearing: -27.396674584323023
 };
@@ -66,6 +36,27 @@ const colorRange = [
 
 const elevationScale = {min: 1, max: 50};
 
+export const inFlowColors = [
+  [255, 255, 204],
+  [199, 233, 180],
+  [127, 205, 187],
+  [65, 182, 196],
+  [29, 145, 192],
+  [34, 94, 168],
+  [12, 44, 132]
+];
+
+export const outFlowColors = [
+  [255, 255, 178],
+  [254, 217, 118],
+  [254, 178, 76],
+  [253, 141, 60],
+  [252, 78, 42],
+  [227, 26, 28],
+  [177, 0, 38]
+];
+
+
 class App extends Component {
   static get defaultColorRange() {
     return colorRange;
@@ -75,45 +66,37 @@ class App extends Component {
     super(props);
     this.state = {
       data:null,
-      elevationScale: elevationScale.min
+      elevationScale: elevationScale.max
     };
   }
 
   _renderLayers() {
     const data = this.state.data;
-    const {radius = 1000, upperPercentile = 100, coverage = 1} = this.props;
-
-    return [
-      new HexagonLayer({
-        id: 'heatmap',
-        colorRange,
-        coverage,
-        data,
-        elevationRange: [0, 3000],
-        elevationScale: data && data.length ? 50 : 0,
-        extruded: true,
-        getPosition: d => [d.longitude,d.latitude],
-        onHover: this.props.onHover,
-        opacity: 1,
-        pickable: Boolean(this.props.onHover),
-        radius,
-        upperPercentile,
-        material,
-
-        transitions: {
-          elevationScale: 3000
-        }
-      })
-    ];
-  }
+    const strokeWidth = 2;
+    const strokeHeight = .5;
+  
+      return [
+        new ArcLayer({
+          id: 'arc',
+          data: data,
+          getSourcePosition: d => d["Country of Asylum Coordinates"],
+          getTargetPosition: d => d["Country of Resettlement Coordinates"],
+          // getSourceColor: d => (d.gain > 0 ? inFlowColors : outFlowColors)[d.quantile],
+          getSourceColor: inFlowColors[0],
+          // getTargetColor: d => (d.gain > 0 ? outFlowColors : inFlowColors)[d.quantile],
+          getTargetColor: outFlowColors[0],
+          getWidth: strokeWidth,
+          getHeight: strokeHeight
+        })
+      ];
+    }
   componentDidMount = () =>{
     this.fetchData()
   }
   
   async fetchData(){
-    const response = await fetch(REST_URL);
-    const myJson = await response.json();
-    const records = myJson.records;
+    const response = await fetch(DATA_URL);
+    const records = await response.json();
     
     console.log(records)
 
@@ -130,7 +113,7 @@ class App extends Component {
       <div>
         <DeckGL
           layers={this._renderLayers()}
-          effects={[lightingEffect]}
+          //effects={[lightingEffect]}
           initialViewState={INITIAL_VIEW_STATE}
           controller={true}
         >
