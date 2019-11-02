@@ -82,9 +82,9 @@ class App extends Component {
           getSourcePosition: d => d["Country of Asylum Coordinates"],
           getTargetPosition: d => d["Country of Resettlement Coordinates"],
           // getSourceColor: d => (d.gain > 0 ? inFlowColors : outFlowColors)[d.quantile],
-          getSourceColor: inFlowColors[0],
+          getSourceColor: colorRange[0],
           // getTargetColor: d => (d.gain > 0 ? outFlowColors : inFlowColors)[d.quantile],
-          getTargetColor: outFlowColors[0],
+          getTargetColor: colorRange[4],
           getWidth: strokeWidth,
           getHeight: strokeHeight
         })
