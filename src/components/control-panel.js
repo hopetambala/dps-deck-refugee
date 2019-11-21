@@ -23,9 +23,21 @@ export class ControlPanelComponent extends Component {
             <Div id="control-panel">
 
                 <div>
-                    <h3>United Nations Refugee Resettlement</h3>
-                    <p>Asylum seeking to Resettlement from 2001 to 2019</p>
-                    <p>The layer creates an arc from the country of orign to the asylum</p>
+                    <h3>United Nations Refugee Resettlement Data</h3>
+                    <p>Submissions for Asylum seeking to Resettlement from 2001 to 2019</p>
+                    {/* <p>The layer creates an arc from the country of orign to the asylum</p> */}
+                    <table style={{width:"100%", borderSpacing: "0px"}}>
+                        <tr style={{height:"6px"}}>
+                            <th style={{backgroundColor:"rgb(255, 66, 5)"}}></th>
+                            <th style={{backgroundColor:"rgb(255, 168, 7)"}}></th>
+                            <th style={{backgroundColor:"rgb(255, 244, 23)"}}></th>
+                        </tr>
+                        <tr>
+                            <td>Country of Origin</td>
+                            <td>Country of Asylum</td>
+                            <td>Country of Resettlement</td>
+                        </tr>
+                    </table>
                     {/* <div><div>Accidents<b>140.1K</b></div></div> */}
                 </div>
                 {/* <div>
