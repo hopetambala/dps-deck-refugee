@@ -18,43 +18,40 @@ const INITIAL_VIEW_STATE = {
   //latitude: 18.7357,
   latitude: -10.0,
   longitude: 0.0,
-  zoom: 4,
-  minZoom: 3,
-  maxZoom: 20,
+  zoom: 2,
+  minZoom: 1,
+  maxZoom: 40,
   pitch: 40.5,
   bearing: -27.396674584323023
 };
 
 const colorRange = [
-  [1, 152, 189],
-  [73, 227, 206],
-  [216, 254, 181],
-  [254, 237, 177],
-  [254, 173, 84],
-  [209, 55, 78]
+  [255, 66, 5],
+  [255, 168, 7],
+  [255, 244, 23],
 ];
 
 const elevationScale = {min: 1, max: 50};
 
-export const inFlowColors = [
-  [255, 255, 204],
-  [199, 233, 180],
-  [127, 205, 187],
-  [65, 182, 196],
-  [29, 145, 192],
-  [34, 94, 168],
-  [12, 44, 132]
-];
+// export const inFlowColors = [
+//   [255, 255, 204],
+//   [199, 233, 180],
+//   [127, 205, 187],
+//   [65, 182, 196],
+//   [29, 145, 192],
+//   [34, 94, 168],
+//   [12, 44, 132]
+// ];
 
-export const outFlowColors = [
-  [255, 255, 178],
-  [254, 217, 118],
-  [254, 178, 76],
-  [253, 141, 60],
-  [252, 78, 42],
-  [227, 26, 28],
-  [177, 0, 38]
-];
+// export const outFlowColors = [
+//   [255, 255, 178],
+//   [254, 217, 118],
+//   [254, 178, 76],
+//   [253, 141, 60],
+//   [252, 78, 42],
+//   [227, 26, 28],
+//   [177, 0, 38]
+// ];
 
 
 class App extends Component {
@@ -73,18 +70,26 @@ class App extends Component {
   _renderLayers() {
     const data = this.state.data;
     const strokeWidth = 2;
-    const strokeHeight = .5;
+    const strokeHeight = .25;
   
       return [
         new ArcLayer({
           id: 'arc',
           data: data,
+          getSourcePosition: d => d["Country of Origin Coordinates"],
+          getTargetPosition: d => d["Country of Asylum Coordinates"],
+          getSourceColor: colorRange[0],
+          getTargetColor: colorRange[1],
+          getWidth: strokeWidth,
+          getHeight: strokeHeight
+        }),
+        new ArcLayer({
+          id: 'arc',
+          data: data,
           getSourcePosition: d => d["Country of Asylum Coordinates"],
           getTargetPosition: d => d["Country of Resettlement Coordinates"],
-          // getSourceColor: d => (d.gain > 0 ? inFlowColors : outFlowColors)[d.quantile],
-          getSourceColor: colorRange[0],
-          // getTargetColor: d => (d.gain > 0 ? outFlowColors : inFlowColors)[d.quantile],
-          getTargetColor: colorRange[4],
+          getSourceColor: colorRange[1],
+          getTargetColor: colorRange[2],
           getWidth: strokeWidth,
           getHeight: strokeHeight
         })
