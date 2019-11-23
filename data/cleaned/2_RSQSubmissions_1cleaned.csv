@@ -1,0 +1,1471 @@
+,Year,Country of Origin (ISO),Country of Origin,Country of Asylum (ISO),Country of Asylum,Country of Resettlement (ISO),Country of Resettlement,Total submissions (persons),Country of Origin Coordinates,Country of Asylum Coordinates,Country of Resettlement Coordinates
+0,2003,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,17,0.0,[38.  1.],0.0
+1,2003,SOM,Somalia,TZA,United Rep. of Tanzania,CAN,Canada,7,[49. 10.],0.0,[-95.  60.]
+2,2003,SDN,Sudan,UGA,Uganda,AUS,Australia,76,[30. 15.],[32.  1.],[133. -27.]
+3,2003,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,7,,[32.  1.],[10. 62.]
+4,2003,SOM,Somalia,KEN,Kenya,NZL,New Zealand,12,[49. 10.],[38.  1.],[174. -41.]
+5,2003,ERI,Eritrea,KEN,Kenya,USA,United States of America,8,[39. 15.],[38.  1.],
+6,2003,SDN,Sudan,TZA,United Rep. of Tanzania,CAN,Canada,5,[30. 15.],,[-95.  60.]
+7,2003,SDN,Sudan,KEN,Kenya,NZL,New Zealand,64,[30. 15.],[38.  1.],[174. -41.]
+8,2003,SOM,Somalia,KEN,Kenya,USA,United States of America,1437,[49. 10.],[38.  1.],
+9,2003,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,130,,[32.  1.],[-95.  60.]
+10,2003,COD,Dem. Rep. of the Congo,COG,Congo,NLD,Netherlands,1,,[15. -1.],[ 5.75 52.5 ]
+11,2003,ERI,Eritrea,SDN,Sudan,DNK,Denmark,18,[39. 15.],[30. 15.],[10. 56.]
+12,2003,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,28,[39. 15.],[30. 15.],[174. -41.]
+13,2003,SDN,Sudan,KEN,Kenya,USA,United States of America,93,[30. 15.],[38.  1.],
+14,2003,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,30,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+15,2003,SOM,Somalia,UGA,Uganda,CAN,Canada,13,[49. 10.],[32.  1.],[-95.  60.]
+16,2003,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,6,,[38.  1.],[133. -27.]
+17,2003,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,224,,,
+18,2003,SDN,Sudan,UGA,Uganda,CAN,Canada,48,[30. 15.],[32.  1.],[-95.  60.]
+19,2003,SOM,Somalia,KEN,Kenya,AUS,Australia,238,[49. 10.],[38.  1.],[133. -27.]
+20,2003,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,23,,[32.  1.],
+21,2003,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,2,,[38.  1.],[-95.  60.]
+22,2003,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,1,[39. 15.],[30. 15.],
+23,2003,ERI,Eritrea,KEN,Kenya,CAN,Canada,7,[39. 15.],[38.  1.],[-95.  60.]
+24,2003,SDN,Sudan,KEN,Kenya,AUS,Australia,293,[30. 15.],[38.  1.],[133. -27.]
+25,2003,SOM,Somalia,UGA,Uganda,USA,United States of America,54,[49. 10.],[32.  1.],
+26,2003,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,7,,[15. -1.],[15. 62.]
+27,2003,SOM,Somalia,KEN,Kenya,CAN,Canada,523,[49. 10.],[38.  1.],[-95.  60.]
+28,2003,ERI,Eritrea,SDN,Sudan,AUS,Australia,24,[39. 15.],[30. 15.],[133. -27.]
+29,2003,SDN,Sudan,UGA,Uganda,USA,United States of America,11,[30. 15.],[32.  1.],
+30,2003,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,5,,[38.  1.],[15. 62.]
+31,2003,SDN,Sudan,KEN,Kenya,CAN,Canada,557,[30. 15.],[38.  1.],[-95.  60.]
+32,2003,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,12,,,[133. -27.]
+33,2003,ERI,Eritrea,KEN,Kenya,SWE,Sweden,1,[39. 15.],[38.  1.],[15. 62.]
+34,2003,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,5,,[15. -1.],
+35,2003,ERI,Eritrea,SDN,Sudan,CAN,Canada,18,[39. 15.],[30. 15.],[-95.  60.]
+36,2003,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,31,,[32.  1.],[133. -27.]
+37,2003,COD,Dem. Rep. of the Congo,COG,Congo,FIN,Finland,13,,[15. -1.],[26. 64.]
+38,2003,ERI,Eritrea,SDN,Sudan,SWE,Sweden,55,[39. 15.],[30. 15.],[15. 62.]
+39,2003,SDN,Sudan,COD,Dem. Rep. of the Congo,USA,United States of America,3,[30. 15.],,
+40,2003,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,95,,,[-95.  60.]
+41,2003,SOM,Somalia,UGA,Uganda,AUS,Australia,17,[49. 10.],[32.  1.],[133. -27.]
+42,2003,ERI,Eritrea,SDN,Sudan,FIN,Finland,56,[39. 15.],[30. 15.],[26. 64.]
+43,2003,ERI,Eritrea,SDN,Sudan,NOR,Norway,81,[39. 15.],[30. 15.],[10. 62.]
+44,2003,COD,Dem. Rep. of the Congo,KEN,Kenya,NZL,New Zealand,3,,[38.  1.],[174. -41.]
+45,2004,SDN,Sudan,KEN,Kenya,USA,United States of America,232,[30. 15.],[38.  1.],
+46,2004,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,7,,[15. -1.],[15. 62.]
+47,2004,SOM,Somalia,ETH,Ethiopia,USA,United States of America,33,[49. 10.],[38.  8.],
+48,2004,SDN,Sudan,ERI,Eritrea,FIN,Finland,2,[30. 15.],[39. 15.],[26. 64.]
+49,2004,SOM,Somalia,KEN,Kenya,CAN,Canada,400,[49. 10.],[38.  1.],[-95.  60.]
+50,2004,SDN,Sudan,UGA,Uganda,AUS,Australia,33,[30. 15.],[32.  1.],[133. -27.]
+51,2004,ERI,Eritrea,SDN,Sudan,USA,United States of America,1,[39. 15.],[30. 15.],
+52,2004,SDN,Sudan,ERI,Eritrea,SWE,Sweden,2,[30. 15.],[39. 15.],[15. 62.]
+53,2004,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,6,[39. 15.],[38.  8.],[133. -27.]
+54,2004,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,13,,[30.  -3.5],[10. 62.]
+55,2004,SDN,Sudan,KEN,Kenya,CAN,Canada,80,[30. 15.],[38.  1.],[-95.  60.]
+56,2004,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,66,,,
+57,2004,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,38,[49. 10.],[38.  8.],[15. 62.]
+58,2004,SOM,Somalia,ETH,Ethiopia,AUS,Australia,10,[49. 10.],[38.  8.],[133. -27.]
+59,2004,COD,Dem. Rep. of the Congo,COG,Congo,NOR,Norway,11,,[15. -1.],[10. 62.]
+60,2004,ERI,Eritrea,SDN,Sudan,CAN,Canada,21,[39. 15.],[30. 15.],[-95.  60.]
+61,2004,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,8,,[32.  1.],
+62,2004,SDN,Sudan,ETH,Ethiopia,SWE,Sweden,3,[30. 15.],[38.  8.],[15. 62.]
+63,2004,SDN,Sudan,ETH,Ethiopia,AUS,Australia,8,[30. 15.],[38.  8.],[133. -27.]
+64,2004,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,3,[39. 15.],[38.  8.],[10. 62.]
+65,2004,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,141,,,[-95.  60.]
+66,2004,SOM,Somalia,ERI,Eritrea,DNK,Denmark,3,[49. 10.],[39. 15.],[10. 56.]
+67,2004,ERI,Eritrea,ETH,Ethiopia,NZL,New Zealand,1,[39. 15.],[38.  8.],[174. -41.]
+68,2004,SOM,Somalia,UGA,Uganda,USA,United States of America,68,[49. 10.],[32.  1.],
+69,2004,ERI,Eritrea,SDN,Sudan,SWE,Sweden,9,[39. 15.],[30. 15.],[15. 62.]
+70,2004,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,13,,[30.  -3.5],[ 5.75 52.5 ]
+71,2004,ERI,Eritrea,KEN,Kenya,AUS,Australia,3,[39. 15.],[38.  1.],[133. -27.]
+72,2004,SOM,Somalia,ETH,Ethiopia,NOR,Norway,7,[49. 10.],[38.  8.],[10. 62.]
+73,2004,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,134,,[32.  1.],[-95.  60.]
+74,2004,ERI,Eritrea,ETH,Ethiopia,DNK,Denmark,7,[39. 15.],[38.  8.],[10. 56.]
+75,2004,IRQ,Iraq,ETH,Ethiopia,NZL,New Zealand,4,[44. 33.],[38.  8.],[174. -41.]
+76,2004,SDN,Sudan,UGA,Uganda,USA,United States of America,15,[30. 15.],[32.  1.],
+77,2004,SDN,Sudan,UGA,Uganda,SWE,Sweden,5,[30. 15.],[32.  1.],[15. 62.]
+78,2004,COD,Dem. Rep. of the Congo,COG,Congo,NLD,Netherlands,12,,[15. -1.],[ 5.75 52.5 ]
+79,2004,SDN,Sudan,COD,Dem. Rep. of the Congo,CAN,Canada,3,[30. 15.],,[-95.  60.]
+80,2004,SOM,Somalia,KEN,Kenya,AUS,Australia,231,[49. 10.],[38.  1.],[133. -27.]
+81,2004,SDN,Sudan,ETH,Ethiopia,NOR,Norway,2,[30. 15.],[38.  8.],[10. 62.]
+82,2004,SOM,Somalia,UGA,Uganda,CAN,Canada,17,[49. 10.],[32.  1.],[-95.  60.]
+83,2004,ERI,Eritrea,SDN,Sudan,DNK,Denmark,18,[39. 15.],[30. 15.],[10. 56.]
+84,2004,SOM,Somalia,ETH,Ethiopia,NZL,New Zealand,10,[49. 10.],[38.  8.],[174. -41.]
+85,2004,SDN,Sudan,KEN,Kenya,AUS,Australia,37,[30. 15.],[38.  1.],[133. -27.]
+86,2004,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,2,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+87,2004,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,195,[39. 15.],[38.  8.],[-95.  60.]
+88,2004,SOM,Somalia,ETH,Ethiopia,FIN,Finland,1,[49. 10.],[38.  8.],[26. 64.]
+89,2004,ERI,Eritrea,SDN,Sudan,NOR,Norway,12,[39. 15.],[30. 15.],[10. 62.]
+90,2004,SDN,Sudan,UGA,Uganda,CAN,Canada,65,[30. 15.],[32.  1.],[-95.  60.]
+91,2004,ERI,Eritrea,ETH,Ethiopia,GBR,United Kingdom of Great Britain and Northern Ireland,1,[39. 15.],[38.  8.],
+92,2004,SDN,Sudan,UGA,Uganda,DNK,Denmark,4,[30. 15.],[32.  1.],[10. 56.]
+93,2004,SOM,Somalia,KEN,Kenya,NZL,New Zealand,28,[49. 10.],[38.  1.],[174. -41.]
+94,2004,SDN,Sudan,ETH,Ethiopia,USA,United States of America,191,[30. 15.],[38.  8.],
+95,2004,ERI,Eritrea,SDN,Sudan,AUS,Australia,52,[39. 15.],[30. 15.],[133. -27.]
+96,2004,SOM,Somalia,ETH,Ethiopia,NLD,Netherlands,16,[49. 10.],[38.  8.],[ 5.75 52.5 ]
+97,2004,SOM,Somalia,ETH,Ethiopia,CAN,Canada,86,[49. 10.],[38.  8.],[-95.  60.]
+98,2004,SDN,Sudan,UGA,Uganda,FIN,Finland,4,[30. 15.],[32.  1.],[26. 64.]
+99,2004,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,15,,[32.  1.],[10. 62.]
+100,2004,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,1,[39. 15.],[30. 15.],
+101,2004,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,1,,[38.  1.],
+102,2004,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,27,,[15. -1.],
+103,2004,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,112,,,[133. -27.]
+104,2004,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,5,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+105,2004,SDN,Sudan,ETH,Ethiopia,CAN,Canada,62,[30. 15.],[38.  8.],[-95.  60.]
+106,2004,ERI,Eritrea,KEN,Kenya,USA,United States of America,6,[39. 15.],[38.  1.],
+107,2004,SDN,Sudan,UGA,Uganda,NOR,Norway,4,[30. 15.],[32.  1.],[10. 62.]
+108,2004,COD,Dem. Rep. of the Congo,UGA,Uganda,GBR,United Kingdom of Great Britain and Northern Ireland,29,,[32.  1.],
+109,2004,AFG,Afghanistan,ETH,Ethiopia,USA,United States of America,4,[65. 33.],[38.  8.],
+110,2004,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,24,,[38.  1.],[-95.  60.]
+111,2004,SOM,Somalia,TZA,United Rep. of Tanzania,AUS,Australia,7,[49. 10.],,[133. -27.]
+112,2004,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,90,,[32.  1.],[ 5.75 52.5 ]
+113,2004,SOM,Somalia,KEN,Kenya,USA,United States of America,1798,[49. 10.],[38.  1.],
+114,2004,SDN,Sudan,UGA,Uganda,GBR,United Kingdom of Great Britain and Northern Ireland,62,[30. 15.],[32.  1.],
+115,2004,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,207,[39. 15.],[38.  8.],
+116,2004,ERI,Eritrea,KEN,Kenya,CAN,Canada,7,[39. 15.],[38.  1.],[-95.  60.]
+117,2004,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,28,,[32.  1.],[133. -27.]
+118,2004,SDN,Sudan,UGA,Uganda,NLD,Netherlands,44,[30. 15.],[32.  1.],[ 5.75 52.5 ]
+119,2005,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,2,[39. 15.],[30. 15.],
+120,2005,SDN,Sudan,ETH,Ethiopia,DNK,Denmark,9,[30. 15.],[38.  8.],[10. 56.]
+121,2005,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,9,,[32.  1.],[ 5.75 52.5 ]
+122,2005,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NOR,Norway,5,,[38.  8.],[10. 62.]
+123,2005,SDN,Sudan,ETH,Ethiopia,CAN,Canada,16,[30. 15.],[38.  8.],[-95.  60.]
+124,2005,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,1,,[32.  1.],[15. 62.]
+125,2005,SDN,Sudan,UGA,Uganda,CAN,Canada,102,[30. 15.],[32.  1.],[-95.  60.]
+126,2005,SOM,Somalia,KEN,Kenya,USA,United States of America,3291,[49. 10.],[38.  1.],
+127,2005,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,5,,[30.  -3.5],[ 5.75 52.5 ]
+128,2005,SDN,Sudan,UGA,Uganda,GBR,United Kingdom of Great Britain and Northern Ireland,17,[30. 15.],[32.  1.],
+129,2005,SOM,Somalia,KEN,Kenya,DNK,Denmark,15,[49. 10.],[38.  1.],[10. 56.]
+130,2005,COD,Dem. Rep. of the Congo,COG,Congo,IRL,Ireland,7,,[15. -1.],[-8. 53.]
+131,2005,SDN,Sudan,UGA,Uganda,NLD,Netherlands,35,[30. 15.],[32.  1.],[ 5.75 52.5 ]
+132,2005,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,1,[39. 15.],[38.  8.],[10. 62.]
+133,2005,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,33,,[38.  1.],[-95.  60.]
+134,2005,SDN,Sudan,KEN,Kenya,USA,United States of America,166,[30. 15.],[38.  1.],
+135,2005,SOM,Somalia,UGA,Uganda,SWE,Sweden,1,[49. 10.],[32.  1.],[15. 62.]
+136,2005,SDN,Sudan,ETH,Ethiopia,AUS,Australia,4,[30. 15.],[38.  8.],[133. -27.]
+137,2005,SOM,Somalia,ERI,Eritrea,NLD,Netherlands,14,[49. 10.],[39. 15.],[ 5.75 52.5 ]
+138,2005,SOM,Somalia,ETH,Ethiopia,NOR,Norway,16,[49. 10.],[38.  8.],[10. 62.]
+139,2005,ERI,Eritrea,KEN,Kenya,CAN,Canada,7,[39. 15.],[38.  1.],[-95.  60.]
+140,2005,ERI,Eritrea,SDN,Sudan,DNK,Denmark,1,[39. 15.],[30. 15.],[10. 56.]
+141,2005,ERI,Eritrea,SDN,Sudan,IRL,Ireland,1,[39. 15.],[30. 15.],[-8. 53.]
+142,2005,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,100,,,
+143,2005,SDN,Sudan,UGA,Uganda,SWE,Sweden,3,[30. 15.],[32.  1.],[15. 62.]
+144,2005,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,4,,[38.  1.],[133. -27.]
+145,2005,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NLD,Netherlands,5,,[38.  8.],[ 5.75 52.5 ]
+146,2005,SDN,Sudan,ETH,Ethiopia,NOR,Norway,12,[30. 15.],[38.  8.],[10. 62.]
+147,2005,SOM,Somalia,KEN,Kenya,CAN,Canada,371,[49. 10.],[38.  1.],[-95.  60.]
+148,2005,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,84,,[32.  1.],[10. 56.]
+149,2005,SOM,Somalia,TZA,United Rep. of Tanzania,USA,United States of America,10,[49. 10.],,
+150,2005,ERI,Eritrea,KEN,Kenya,AUS,Australia,14,[39. 15.],[38.  1.],[133. -27.]
+151,2005,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,1,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+152,2005,SOM,Somalia,KEN,Kenya,NOR,Norway,14,[49. 10.],[38.  1.],[10. 62.]
+153,2005,SDN,Sudan,KEN,Kenya,CAN,Canada,25,[30. 15.],[38.  1.],[-95.  60.]
+154,2005,SDN,Sudan,UGA,Uganda,DNK,Denmark,52,[30. 15.],[32.  1.],[10. 56.]
+155,2005,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,2,,[32.  1.],
+156,2005,SOM,Somalia,KEN,Kenya,AUS,Australia,133,[49. 10.],[38.  1.],[133. -27.]
+157,2005,SOM,Somalia,ETH,Ethiopia,NLD,Netherlands,7,[49. 10.],[38.  8.],[ 5.75 52.5 ]
+158,2005,SDN,Sudan,KEN,Kenya,NOR,Norway,4,[30. 15.],[38.  1.],[10. 62.]
+159,2005,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,41,,[30. -2.],[-95.  60.]
+160,2005,SOM,Somalia,UGA,Uganda,USA,United States of America,391,[49. 10.],[32.  1.],
+161,2005,SDN,Sudan,KEN,Kenya,AUS,Australia,55,[30. 15.],[38.  1.],[133. -27.]
+162,2005,SDN,Sudan,ETH,Ethiopia,NLD,Netherlands,9,[30. 15.],[38.  8.],[ 5.75 52.5 ]
+163,2005,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,14,,[30.  -3.5],[15. 62.]
+164,2005,ERI,Eritrea,SDN,Sudan,NOR,Norway,7,[39. 15.],[30. 15.],[10. 62.]
+165,2005,SOM,Somalia,RWA,Rwanda,CAN,Canada,2,[49. 10.],[30. -2.],[-95.  60.]
+166,2005,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,387,[39. 15.],[38.  8.],
+167,2005,SDN,Sudan,UGA,Uganda,USA,United States of America,25,[30. 15.],[32.  1.],
+168,2005,SOM,Somalia,KEN,Kenya,NLD,Netherlands,8,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+169,2005,ERI,Eritrea,ETH,Ethiopia,CHE,Switzerland,1,[39. 15.],[38.  8.],[ 8. 47.]
+170,2005,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,27,,[30. -2.],[133. -27.]
+171,2005,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,1,[39. 15.],[38.  8.],[15. 62.]
+172,2005,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,17,,[32.  1.],[10. 62.]
+173,2005,ERI,Eritrea,SDN,Sudan,CAN,Canada,334,[39. 15.],[30. 15.],[-95.  60.]
+174,2005,SOM,Somalia,ETH,Ethiopia,USA,United States of America,45,[49. 10.],[38.  8.],
+175,2005,COD,Dem. Rep. of the Congo,RWA,Rwanda,NLD,Netherlands,15,,[30. -2.],[ 5.75 52.5 ]
+176,2005,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,75,,[30.  -3.5],[-95.  60.]
+177,2005,COD,Dem. Rep. of the Congo,BDI,Burundi,DNK,Denmark,3,,[30.  -3.5],[10. 56.]
+178,2005,ERI,Eritrea,SDN,Sudan,AUS,Australia,162,[39. 15.],[30. 15.],[133. -27.]
+179,2005,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,7,[39. 15.],[30. 15.],[174. -41.]
+180,2005,SDN,Sudan,ETH,Ethiopia,SWE,Sweden,3,[30. 15.],[38.  8.],[15. 62.]
+181,2005,SDN,Sudan,UGA,Uganda,NOR,Norway,19,[30. 15.],[32.  1.],[10. 62.]
+182,2005,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,46,,,[-95.  60.]
+183,2005,SDN,Sudan,ETH,Ethiopia,USA,United States of America,567,[30. 15.],[38.  8.],
+184,2005,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,9,,[30. -2.],[26. 64.]
+185,2005,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,2,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+186,2005,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,44,[39. 15.],[38.  8.],[-95.  60.]
+187,2005,ERI,Eritrea,ETH,Ethiopia,DNK,Denmark,1,[39. 15.],[38.  8.],[10. 56.]
+188,2005,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,126,,,[133. -27.]
+189,2005,IRQ,Iraq,KEN,Kenya,SWE,Sweden,1,[44. 33.],[38.  1.],[15. 62.]
+190,2005,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,105,,[32.  1.],[-95.  60.]
+191,2005,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,8,,[38.  1.],
+192,2005,SDN,Sudan,UGA,Uganda,FIN,Finland,11,[30. 15.],[32.  1.],[26. 64.]
+193,2005,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NLD,Netherlands,21,,,[ 5.75 52.5 ]
+194,2005,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,12,,[30.  -3.5],[10. 62.]
+195,2005,SOM,Somalia,ETH,Ethiopia,CAN,Canada,2,[49. 10.],[38.  8.],[-95.  60.]
+196,2005,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,14,[49. 10.],[38.  8.],[10. 56.]
+197,2005,ERI,Eritrea,SDN,Sudan,SWE,Sweden,25,[39. 15.],[30. 15.],[15. 62.]
+198,2005,SOM,Somalia,UGA,Uganda,CAN,Canada,11,[49. 10.],[32.  1.],[-95.  60.]
+199,2005,ERI,Eritrea,KEN,Kenya,USA,United States of America,35,[39. 15.],[38.  1.],
+200,2006,SDN,Sudan,ERI,Eritrea,AUS,Australia,20,[30. 15.],[39. 15.],[133. -27.]
+201,2006,SDN,Sudan,ERI,Eritrea,NZL,New Zealand,1,[30. 15.],[39. 15.],[174. -41.]
+202,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,16,,[30.  -3.5],[26. 64.]
+203,2006,SOM,Somalia,UGA,Uganda,USA,United States of America,1,[49. 10.],[32.  1.],
+204,2006,ERI,Eritrea,KEN,Kenya,CAN,Canada,5,[39. 15.],[38.  1.],[-95.  60.]
+205,2006,COD,Dem. Rep. of the Congo,RWA,Rwanda,NLD,Netherlands,21,,[30. -2.],[ 5.75 52.5 ]
+206,2006,SOM,Somalia,UGA,Uganda,CAN,Canada,12,[49. 10.],[32.  1.],[-95.  60.]
+207,2006,SOM,Somalia,ERI,Eritrea,NOR,Norway,8,[49. 10.],[39. 15.],[10. 62.]
+208,2006,SDN,Sudan,UGA,Uganda,AUS,Australia,72,[30. 15.],[32.  1.],[133. -27.]
+209,2006,SDN,Sudan,ETH,Ethiopia,USA,United States of America,58,[30. 15.],[38.  8.],
+210,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,9,,[32.  1.],[ 5.75 52.5 ]
+211,2006,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,6,,[38.  8.],[133. -27.]
+212,2006,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NZL,New Zealand,7,,[38.  8.],[174. -41.]
+213,2006,COD,Dem. Rep. of the Congo,COG,Congo,FIN,Finland,32,,[15. -1.],[26. 64.]
+214,2006,SDN,Sudan,UGA,Uganda,USA,United States of America,17,[30. 15.],[32.  1.],
+215,2006,SOM,Somalia,KEN,Kenya,CAN,Canada,111,[49. 10.],[38.  1.],[-95.  60.]
+216,2006,SDN,Sudan,UGA,Uganda,CAN,Canada,51,[30. 15.],[32.  1.],[-95.  60.]
+217,2006,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,2,[39. 15.],[38.  8.],[10. 62.]
+218,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,79,,[30.  -3.5],[-95.  60.]
+219,2006,SOM,Somalia,UGA,Uganda,NLD,Netherlands,12,[49. 10.],[32.  1.],[ 5.75 52.5 ]
+220,2006,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,74,,[38.  1.],
+221,2006,SOM,Somalia,TZA,United Rep. of Tanzania,GBR,United Kingdom of Great Britain and Northern Ireland,18,[49. 10.],,
+222,2006,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,2,[39. 15.],[38.  8.],[133. -27.]
+223,2006,SOM,Somalia,ETH,Ethiopia,NZL,New Zealand,6,[49. 10.],[38.  8.],[174. -41.]
+224,2006,SOM,Somalia,ERI,Eritrea,FIN,Finland,8,[49. 10.],[39. 15.],[26. 64.]
+225,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,5,,[30.  -3.5],[ 5.75 52.5 ]
+226,2006,SDN,Sudan,KEN,Kenya,CAN,Canada,29,[30. 15.],[38.  1.],[-95.  60.]
+227,2006,SOM,Somalia,ETH,Ethiopia,NOR,Norway,24,[49. 10.],[38.  8.],[10. 62.]
+228,2006,COD,Dem. Rep. of the Congo,COG,Congo,CAN,Canada,43,,[15. -1.],[-95.  60.]
+229,2006,SDN,Sudan,UGA,Uganda,NLD,Netherlands,7,[30. 15.],[32.  1.],[ 5.75 52.5 ]
+230,2006,ERI,Eritrea,KEN,Kenya,USA,United States of America,23,[39. 15.],[38.  1.],
+231,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,IRL,Ireland,9,,[30.  -3.5],[-8. 53.]
+232,2006,SDN,Sudan,ETH,Ethiopia,AUS,Australia,38,[30. 15.],[38.  8.],[133. -27.]
+233,2006,SDN,Sudan,KEN,Kenya,NZL,New Zealand,3,[30. 15.],[38.  1.],[174. -41.]
+234,2006,SOM,Somalia,ETH,Ethiopia,FIN,Finland,5,[49. 10.],[38.  8.],[26. 64.]
+235,2006,COD,Dem. Rep. of the Congo,COG,Congo,NLD,Netherlands,7,,[15. -1.],[ 5.75 52.5 ]
+236,2006,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,99,,[30. -2.],[-95.  60.]
+237,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,6,,[30.  -3.5],[15. 62.]
+238,2006,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,15,,[30. -2.],[10. 62.]
+239,2006,ERI,Eritrea,DJI,Djibouti,CAN,Canada,5,[39. 15.],[43.  11.5],[-95.  60.]
+240,2006,IRQ,Iraq,KEN,Kenya,USA,United States of America,2,[44. 33.],[38.  1.],
+241,2006,COD,Dem. Rep. of the Congo,SOM,Somalia,SWE,Sweden,1,,[49. 10.],[15. 62.]
+242,2006,COD,Dem. Rep. of the Congo,COG,Congo,IRL,Ireland,1,,[15. -1.],[-8. 53.]
+243,2006,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,33,,[38.  1.],[133. -27.]
+244,2006,SDN,Sudan,ETH,Ethiopia,FIN,Finland,10,[30. 15.],[38.  8.],[26. 64.]
+245,2006,SOM,Somalia,ERI,Eritrea,NLD,Netherlands,15,[49. 10.],[39. 15.],[ 5.75 52.5 ]
+246,2006,SOM,Somalia,RWA,Rwanda,CAN,Canada,1,[49. 10.],[30. -2.],[-95.  60.]
+247,2006,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,5,,[15. -1.],[15. 62.]
+248,2006,COD,Dem. Rep. of the Congo,SOM,Somalia,NOR,Norway,3,,[49. 10.],[10. 62.]
+249,2006,SOM,Somalia,DJI,Djibouti,CAN,Canada,6,[49. 10.],[43.  11.5],[-95.  60.]
+250,2006,SOM,Somalia,KEN,Kenya,USA,United States of America,2976,[49. 10.],[38.  1.],
+251,2006,COD,Dem. Rep. of the Congo,SOM,Somalia,CAN,Canada,3,,[49. 10.],[-95.  60.]
+252,2006,ERI,Eritrea,SDN,Sudan,SWE,Sweden,2,[39. 15.],[30. 15.],[15. 62.]
+253,2006,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,4,[49. 10.],[38.  8.],[10. 56.]
+254,2006,SOM,Somalia,KEN,Kenya,AUS,Australia,148,[49. 10.],[38.  1.],[133. -27.]
+255,2006,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,20,,[30. -2.],[26. 64.]
+256,2006,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NLD,Netherlands,4,,[38.  8.],[ 5.75 52.5 ]
+257,2006,ERI,Eritrea,SDN,Sudan,NOR,Norway,1,[39. 15.],[30. 15.],[10. 62.]
+258,2006,SDN,Sudan,DJI,Djibouti,CAN,Canada,1,[30. 15.],[43.  11.5],[-95.  60.]
+259,2006,ERI,Eritrea,DJI,Djibouti,SWE,Sweden,1,[39. 15.],[43.  11.5],[15. 62.]
+260,2006,SDN,Sudan,KEN,Kenya,USA,United States of America,30,[30. 15.],[38.  1.],
+261,2006,ERI,Eritrea,SOM,Somalia,CAN,Canada,2,[39. 15.],[49. 10.],[-95.  60.]
+262,2006,COD,Dem. Rep. of the Congo,RWA,Rwanda,DNK,Denmark,17,,[30. -2.],[10. 56.]
+263,2006,SDN,Sudan,KEN,Kenya,AUS,Australia,20,[30. 15.],[38.  1.],[133. -27.]
+264,2006,COD,Dem. Rep. of the Congo,SOM,Somalia,FIN,Finland,3,,[49. 10.],[26. 64.]
+265,2006,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,2,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+266,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,16,,[32.  1.],[10. 62.]
+267,2006,SOM,Somalia,ERI,Eritrea,CAN,Canada,37,[49. 10.],[39. 15.],[-95.  60.]
+268,2006,SDN,Sudan,ERI,Eritrea,SWE,Sweden,1,[30. 15.],[39. 15.],[15. 62.]
+269,2006,SOM,Somalia,RWA,Rwanda,USA,United States of America,1,[49. 10.],[30. -2.],
+270,2006,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,43,[39. 15.],[38.  8.],[-95.  60.]
+271,2006,ERI,Eritrea,SDN,Sudan,CAN,Canada,90,[39. 15.],[30. 15.],[-95.  60.]
+272,2006,ERI,Eritrea,SDN,Sudan,DNK,Denmark,1,[39. 15.],[30. 15.],[10. 56.]
+273,2006,ERI,Eritrea,SDN,Sudan,AUS,Australia,287,[39. 15.],[30. 15.],[133. -27.]
+274,2006,ERI,Eritrea,SDN,Sudan,FIN,Finland,9,[39. 15.],[30. 15.],[26. 64.]
+275,2006,SOM,Somalia,ETH,Ethiopia,NLD,Netherlands,22,[49. 10.],[38.  8.],[ 5.75 52.5 ]
+276,2006,SOM,Somalia,UGA,Uganda,NOR,Norway,16,[49. 10.],[32.  1.],[10. 62.]
+277,2006,SDN,Sudan,ERI,Eritrea,CAN,Canada,16,[30. 15.],[39. 15.],[-95.  60.]
+278,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,660,,[30.  -3.5],
+279,2006,SDN,Sudan,ETH,Ethiopia,SWE,Sweden,7,[30. 15.],[38.  8.],[15. 62.]
+280,2006,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,10,,,
+281,2006,SOM,Somalia,ETH,Ethiopia,CAN,Canada,31,[49. 10.],[38.  8.],[-95.  60.]
+282,2006,SOM,Somalia,SDN,Sudan,CAN,Canada,23,[49. 10.],[30. 15.],[-95.  60.]
+283,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,110,,[32.  1.],[10. 56.]
+284,2006,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,81,,,[133. -27.]
+285,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,FIN,Finland,8,,[32.  1.],[26. 64.]
+286,2006,COD,Dem. Rep. of the Congo,KEN,Kenya,NLD,Netherlands,30,,[38.  1.],[ 5.75 52.5 ]
+287,2006,SDN,Sudan,UGA,Uganda,NOR,Norway,7,[30. 15.],[32.  1.],[10. 62.]
+288,2006,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,35,,[38.  8.],[-95.  60.]
+289,2006,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,50,,[15. -1.],
+290,2006,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,26,,[30. -2.],[15. 62.]
+291,2006,COD,Dem. Rep. of the Congo,COG,Congo,NZL,New Zealand,8,,[15. -1.],[174. -41.]
+292,2006,SOM,Somalia,TZA,United Rep. of Tanzania,USA,United States of America,36,[49. 10.],,
+293,2006,SDN,Sudan,ETH,Ethiopia,CAN,Canada,78,[30. 15.],[38.  8.],[-95.  60.]
+294,2006,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,10,,,[-95.  60.]
+295,2006,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,16,,[30.  -3.5],[10. 62.]
+296,2006,SDN,Sudan,UGA,Uganda,DNK,Denmark,39,[30. 15.],[32.  1.],[10. 56.]
+297,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,212,,[32.  1.],[133. -27.]
+298,2006,SOM,Somalia,UGA,Uganda,FIN,Finland,12,[49. 10.],[32.  1.],[26. 64.]
+299,2006,SOM,Somalia,KEN,Kenya,NLD,Netherlands,8,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+300,2006,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,1281,[39. 15.],[38.  8.],
+301,2006,COD,Dem. Rep. of the Congo,SOM,Somalia,NLD,Netherlands,3,,[49. 10.],[ 5.75 52.5 ]
+302,2006,COD,Dem. Rep. of the Congo,COG,Congo,AUS,Australia,101,,[15. -1.],[133. -27.]
+303,2006,SOM,Somalia,ERI,Eritrea,NZL,New Zealand,4,[49. 10.],[39. 15.],[174. -41.]
+304,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,35,,[32.  1.],
+305,2006,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,67,,[38.  1.],[-95.  60.]
+306,2006,SDN,Sudan,KEN,Kenya,NLD,Netherlands,33,[30. 15.],[38.  1.],[ 5.75 52.5 ]
+307,2006,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,64,,[32.  1.],[-95.  60.]
+308,2006,COD,Dem. Rep. of the Congo,COG,Congo,NOR,Norway,38,,[15. -1.],[10. 62.]
+309,2006,SOM,Somalia,UGA,Uganda,AUS,Australia,2,[49. 10.],[32.  1.],[133. -27.]
+310,2006,SDN,Sudan,UGA,Uganda,FIN,Finland,5,[30. 15.],[32.  1.],[26. 64.]
+311,2006,SOM,Somalia,ETH,Ethiopia,USA,United States of America,101,[49. 10.],[38.  8.],
+312,2006,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,8,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+313,2007,SOM,Somalia,KEN,Kenya,NLD,Netherlands,3,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+314,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,195,,[32.  1.],[-95.  60.]
+315,2007,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,6,,[30.  -3.5],[26. 64.]
+316,2007,SDN,Sudan,KEN,Kenya,USA,United States of America,31,[30. 15.],[38.  1.],
+317,2007,COD,Dem. Rep. of the Congo,RWA,Rwanda,DNK,Denmark,8,,[30. -2.],[10. 56.]
+318,2007,SDN,Sudan,UGA,Uganda,NOR,Norway,5,[30. 15.],[32.  1.],[10. 62.]
+319,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,74,,[32.  1.],[10. 56.]
+320,2007,ERI,Eritrea,KEN,Kenya,CAN,Canada,5,[39. 15.],[38.  1.],[-95.  60.]
+321,2007,SOM,Somalia,ERI,Eritrea,NOR,Norway,7,[49. 10.],[39. 15.],[10. 62.]
+322,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,PRT,Portugal,25,,,[-8.  39.5]
+323,2007,SOM,Somalia,UGA,Uganda,CAN,Canada,44,[49. 10.],[32.  1.],[-95.  60.]
+324,2007,COD,Dem. Rep. of the Congo,RWA,Rwanda,NLD,Netherlands,14,,[30. -2.],[ 5.75 52.5 ]
+325,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,FIN,Finland,3,,[38.  8.],[26. 64.]
+326,2007,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,129,,[30. -2.],
+327,2007,COD,Dem. Rep. of the Congo,COG,Congo,AUS,Australia,97,,[15. -1.],[133. -27.]
+328,2007,SDN,Sudan,UGA,Uganda,DNK,Denmark,46,[30. 15.],[32.  1.],[10. 56.]
+329,2007,SOM,Somalia,KEN,Kenya,CAN,Canada,151,[49. 10.],[38.  1.],[-95.  60.]
+330,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NOR,Norway,5,,[38.  8.],[10. 62.]
+331,2007,SDN,Sudan,UGA,Uganda,CAN,Canada,16,[30. 15.],[32.  1.],[-95.  60.]
+332,2007,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,3,,[30.  -3.5],
+333,2007,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,8,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+334,2007,ERI,Eritrea,KEN,Kenya,AUS,Australia,1,[39. 15.],[38.  1.],[133. -27.]
+335,2007,SOM,Somalia,ETH,Ethiopia,FIN,Finland,13,[49. 10.],[38.  8.],[26. 64.]
+336,2007,SOM,Somalia,RWA,Rwanda,USA,United States of America,1,[49. 10.],[30. -2.],
+337,2007,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,95,,[30.  -3.5],[-95.  60.]
+338,2007,SDN,Sudan,KEN,Kenya,CAN,Canada,7,[30. 15.],[38.  1.],[-95.  60.]
+339,2007,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,2,[39. 15.],[38.  8.],[10. 62.]
+340,2007,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,1,[49. 10.],[38.  1.],
+341,2007,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,7,,[15. -1.],
+342,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NLD,Netherlands,91,,,[ 5.75 52.5 ]
+343,2007,SOM,Somalia,KEN,Kenya,AUS,Australia,77,[49. 10.],[38.  1.],[133. -27.]
+344,2007,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,188,,[30. -2.],[26. 64.]
+345,2007,ERI,Eritrea,SDN,Sudan,USA,United States of America,41,[39. 15.],[30. 15.],
+346,2007,COD,Dem. Rep. of the Congo,COG,Congo,CAN,Canada,22,,[15. -1.],[-95.  60.]
+347,2007,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,13,,[30.  -3.5],[ 5.75 52.5 ]
+348,2007,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,15,,[30. -2.],[-95.  60.]
+349,2007,SOM,Somalia,ETH,Ethiopia,NOR,Norway,24,[49. 10.],[38.  8.],[10. 62.]
+350,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NZL,New Zealand,7,,[38.  8.],[174. -41.]
+351,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,14,,[38.  8.],
+352,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,4,,[32.  1.],[ 5.75 52.5 ]
+353,2007,SDN,Sudan,KEN,Kenya,AUS,Australia,18,[30. 15.],[38.  1.],[133. -27.]
+354,2007,ERI,Eritrea,SDN,Sudan,FIN,Finland,1,[39. 15.],[30. 15.],[26. 64.]
+355,2007,SOM,Somalia,SDN,Sudan,USA,United States of America,23,[49. 10.],[30. 15.],
+356,2007,SOM,Somalia,ERI,Eritrea,CAN,Canada,218,[49. 10.],[39. 15.],[-95.  60.]
+357,2007,COD,Dem. Rep. of the Congo,COG,Congo,NLD,Netherlands,5,,[15. -1.],[ 5.75 52.5 ]
+358,2007,COD,Dem. Rep. of the Congo,SOM,Somalia,CAN,Canada,1,,[49. 10.],[-95.  60.]
+359,2007,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,22,,[30. -2.],[10. 62.]
+360,2007,SOM,Somalia,UGA,Uganda,NLD,Netherlands,9,[49. 10.],[32.  1.],[ 5.75 52.5 ]
+361,2007,SDN,Sudan,UGA,Uganda,IRL,Ireland,78,[30. 15.],[32.  1.],[-8. 53.]
+362,2007,SOM,Somalia,ETH,Ethiopia,NZL,New Zealand,11,[49. 10.],[38.  8.],[174. -41.]
+363,2007,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,166,[39. 15.],[38.  8.],
+364,2007,ERI,Eritrea,SDN,Sudan,AUS,Australia,185,[39. 15.],[30. 15.],[133. -27.]
+365,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,FIN,Finland,4,,[32.  1.],[26. 64.]
+366,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,22,,,
+367,2007,SDN,Sudan,ERI,Eritrea,CAN,Canada,45,[30. 15.],[39. 15.],[-95.  60.]
+368,2007,SDN,Sudan,COD,Dem. Rep. of the Congo,NLD,Netherlands,2,[30. 15.],,[ 5.75 52.5 ]
+369,2007,ERI,Eritrea,SOM,Somalia,CAN,Canada,2,[39. 15.],[49. 10.],[-95.  60.]
+370,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NOR,Norway,15,,,[10. 62.]
+371,2007,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,24,,[15. -1.],[15. 62.]
+372,2007,SOM,Somalia,KEN,Kenya,NZL,New Zealand,4,[49. 10.],[38.  1.],[174. -41.]
+373,2007,SOM,Somalia,ETH,Ethiopia,USA,United States of America,128,[49. 10.],[38.  8.],
+374,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,90,,,[133. -27.]
+375,2007,SOM,Somalia,UGA,Uganda,FIN,Finland,19,[49. 10.],[32.  1.],[26. 64.]
+376,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,239,,[32.  1.],
+377,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,19,,[38.  8.],[-95.  60.]
+378,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NLD,Netherlands,5,,[38.  8.],[ 5.75 52.5 ]
+379,2007,SDN,Sudan,SOM,Somalia,CAN,Canada,1,[30. 15.],[49. 10.],[-95.  60.]
+380,2007,SDN,Sudan,ERI,Eritrea,SWE,Sweden,2,[30. 15.],[39. 15.],[15. 62.]
+381,2007,SDN,Sudan,KEN,Kenya,NZL,New Zealand,5,[30. 15.],[38.  1.],[174. -41.]
+382,2007,SDN,Sudan,ETH,Ethiopia,USA,United States of America,25,[30. 15.],[38.  8.],
+383,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,7,,[32.  1.],[133. -27.]
+384,2007,SOM,Somalia,UGA,Uganda,USA,United States of America,19,[49. 10.],[32.  1.],
+385,2007,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,24,[39. 15.],[38.  8.],[-95.  60.]
+386,2007,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,5,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+387,2007,ERI,Eritrea,SDN,Sudan,CAN,Canada,179,[39. 15.],[30. 15.],[-95.  60.]
+388,2007,COD,Dem. Rep. of the Congo,ETH,Ethiopia,SWE,Sweden,8,,[38.  8.],[15. 62.]
+389,2007,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,135,[39. 15.],[30. 15.],[174. -41.]
+390,2007,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,20,,[38.  1.],
+391,2007,SOM,Somalia,ETH,Ethiopia,CAN,Canada,25,[49. 10.],[38.  8.],[-95.  60.]
+392,2007,SDN,Sudan,UGA,Uganda,AUS,Australia,52,[30. 15.],[32.  1.],[133. -27.]
+393,2007,SDN,Sudan,UGA,Uganda,USA,United States of America,37,[30. 15.],[32.  1.],
+394,2007,SOM,Somalia,ETH,Ethiopia,NLD,Netherlands,11,[49. 10.],[38.  8.],[ 5.75 52.5 ]
+395,2007,SOM,Somalia,SDN,Sudan,CAN,Canada,12,[49. 10.],[30. 15.],[-95.  60.]
+396,2007,ERI,Eritrea,KEN,Kenya,USA,United States of America,16,[39. 15.],[38.  1.],
+397,2007,COD,Dem. Rep. of the Congo,SOM,Somalia,SWE,Sweden,1,,[49. 10.],[15. 62.]
+398,2007,SOM,Somalia,UGA,Uganda,NZL,New Zealand,8,[49. 10.],[32.  1.],[174. -41.]
+399,2007,SDN,Sudan,ETH,Ethiopia,CAN,Canada,88,[30. 15.],[38.  8.],[-95.  60.]
+400,2007,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,11,,[30.  -3.5],[10. 62.]
+401,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,6,,[32.  1.],[10. 62.]
+402,2007,ERI,Eritrea,SDN,Sudan,DNK,Denmark,2,[39. 15.],[30. 15.],[10. 56.]
+403,2007,ERI,Eritrea,KEN,Kenya,NLD,Netherlands,11,[39. 15.],[38.  1.],[ 5.75 52.5 ]
+404,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,62,,,[-95.  60.]
+405,2007,SOM,Somalia,KEN,Kenya,USA,United States of America,4318,[49. 10.],[38.  1.],
+406,2007,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,5,,[32.  1.],[15. 62.]
+407,2007,COD,Dem. Rep. of the Congo,COG,Congo,DNK,Denmark,7,,[15. -1.],[10. 56.]
+408,2007,SOM,Somalia,UGA,Uganda,NOR,Norway,12,[49. 10.],[32.  1.],[10. 62.]
+409,2007,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,DNK,Denmark,106,,,[10. 56.]
+410,2007,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,11,,[38.  1.],[-95.  60.]
+411,2007,COD,Dem. Rep. of the Congo,COG,Congo,NOR,Norway,17,,[15. -1.],[10. 62.]
+412,2008,SDN,Sudan,ETH,Ethiopia,USA,United States of America,36,[30. 15.],[38.  8.],
+413,2008,SOM,Somalia,UGA,Uganda,USA,United States of America,37,[49. 10.],[32.  1.],
+414,2008,SOM,Somalia,UGA,Uganda,NLD,Netherlands,1,[49. 10.],[32.  1.],[ 5.75 52.5 ]
+415,2008,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,80,,[15. -1.],[15. 62.]
+416,2008,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,23,,[38.  1.],[-95.  60.]
+417,2008,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,2,[39. 15.],[30. 15.],[174. -41.]
+418,2008,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,39,[39. 15.],[38.  8.],[133. -27.]
+419,2008,ERI,Eritrea,SDN,Sudan,FIN,Finland,9,[39. 15.],[30. 15.],[26. 64.]
+420,2008,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,110,,[38.  1.],
+421,2008,SDN,Sudan,UGA,Uganda,USA,United States of America,9,[30. 15.],[32.  1.],
+422,2008,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,4,[39. 15.],[38.  8.],[15. 62.]
+423,2008,ERI,Eritrea,KEN,Kenya,CAN,Canada,7,[39. 15.],[38.  1.],[-95.  60.]
+424,2008,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,2,,[30.  -3.5],[10. 62.]
+425,2008,SOM,Somalia,ETH,Ethiopia,AUS,Australia,20,[49. 10.],[38.  8.],[133. -27.]
+426,2008,SOM,Somalia,UGA,Uganda,FIN,Finland,1,[49. 10.],[32.  1.],[26. 64.]
+427,2008,ERI,Eritrea,KEN,Kenya,USA,United States of America,55,[39. 15.],[38.  1.],
+428,2008,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,8,[49. 10.],[38.  8.],[15. 62.]
+429,2008,SOM,Somalia,KEN,Kenya,CAN,Canada,386,[49. 10.],[38.  1.],[-95.  60.]
+430,2008,SOM,Somalia,ERI,Eritrea,NOR,Norway,6,[49. 10.],[39. 15.],[10. 62.]
+431,2008,SOM,Somalia,KEN,Kenya,DNK,Denmark,1,[49. 10.],[38.  1.],[10. 56.]
+432,2008,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,39,,[38.  1.],[133. -27.]
+433,2008,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,1,,[30.  -3.5],[-95.  60.]
+434,2008,SOM,Somalia,KEN,Kenya,USA,United States of America,5603,[49. 10.],[38.  1.],
+435,2008,SOM,Somalia,KEN,Kenya,SWE,Sweden,7,[49. 10.],[38.  1.],[15. 62.]
+436,2008,SDN,Sudan,KEN,Kenya,CAN,Canada,19,[30. 15.],[38.  1.],[-95.  60.]
+437,2008,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,27,[39. 15.],[38.  8.],[10. 62.]
+438,2008,ERI,Eritrea,KEN,Kenya,AUS,Australia,13,[39. 15.],[38.  1.],[133. -27.]
+439,2008,SDN,Sudan,COD,Dem. Rep. of the Congo,CAN,Canada,2,[30. 15.],,[-95.  60.]
+440,2008,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,8,,,[133. -27.]
+441,2008,SOM,Somalia,ERI,Eritrea,GBR,United Kingdom of Great Britain and Northern Ireland,4,[49. 10.],[39. 15.],
+442,2008,SDN,Sudan,KEN,Kenya,USA,United States of America,83,[30. 15.],[38.  1.],
+443,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,5,,[30. -2.],[15. 62.]
+444,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,6,,[30. -2.],[-95.  60.]
+445,2008,SOM,Somalia,ETH,Ethiopia,NOR,Norway,12,[49. 10.],[38.  8.],[10. 62.]
+446,2008,SOM,Somalia,KEN,Kenya,AUS,Australia,195,[49. 10.],[38.  1.],[133. -27.]
+447,2008,SOM,Somalia,ERI,Eritrea,CAN,Canada,811,[49. 10.],[39. 15.],[-95.  60.]
+448,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,221,,[32.  1.],[133. -27.]
+449,2008,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,GBR,United Kingdom of Great Britain and Northern Ireland,175,,,
+450,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,8,,[30. -2.],
+451,2008,ERI,Eritrea,SDN,Sudan,CAN,Canada,56,[39. 15.],[30. 15.],[-95.  60.]
+452,2008,SOM,Somalia,UGA,Uganda,SWE,Sweden,6,[49. 10.],[32.  1.],[15. 62.]
+453,2008,SDN,Sudan,KEN,Kenya,AUS,Australia,27,[30. 15.],[38.  1.],[133. -27.]
+454,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,9,,[30. -2.],[10. 62.]
+455,2008,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,6,,[30.  -3.5],[ 5.75 52.5 ]
+456,2008,SDN,Sudan,ERI,Eritrea,CAN,Canada,2,[30. 15.],[39. 15.],[-95.  60.]
+457,2008,ERI,Eritrea,UGA,Uganda,AUS,Australia,11,[39. 15.],[32.  1.],[133. -27.]
+458,2008,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,IRL,Ireland,101,,,[-8. 53.]
+459,2008,ERI,Eritrea,SDN,Sudan,USA,United States of America,22,[39. 15.],[30. 15.],
+460,2008,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,10,,,[-95.  60.]
+461,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,NZL,New Zealand,95,,[32.  1.],[174. -41.]
+462,2008,ERI,Eritrea,SDN,Sudan,NOR,Norway,126,[39. 15.],[30. 15.],[10. 62.]
+463,2008,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,142,,[30.  -3.5],
+464,2008,SOM,Somalia,KEN,Kenya,NLD,Netherlands,1,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+465,2008,AFG,Afghanistan,ETH,Ethiopia,CAN,Canada,4,[65. 33.],[38.  8.],[-95.  60.]
+466,2008,SOM,Somalia,UGA,Uganda,AUS,Australia,39,[49. 10.],[32.  1.],[133. -27.]
+467,2008,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,389,,,
+468,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,FRA,France,9,,[30. -2.],[ 2. 46.]
+469,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,95,,[32.  1.],[-95.  60.]
+470,2008,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,2,,[30.  -3.5],[26. 64.]
+471,2008,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,20,,[38.  8.],
+472,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,4,,[32.  1.],[10. 62.]
+473,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,NLD,Netherlands,6,,[30. -2.],[ 5.75 52.5 ]
+474,2008,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,10,,[38.  8.],[-95.  60.]
+475,2008,SOM,Somalia,TZA,United Rep. of Tanzania,USA,United States of America,3,[49. 10.],,
+476,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,FRA,France,13,,[32.  1.],[ 2. 46.]
+477,2008,ERI,Eritrea,UGA,Uganda,CAN,Canada,3,[39. 15.],[32.  1.],[-95.  60.]
+478,2008,SOM,Somalia,ERI,Eritrea,FIN,Finland,6,[49. 10.],[39. 15.],[26. 64.]
+479,2008,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,7190,[39. 15.],[38.  8.],
+480,2008,SOM,Somalia,UGA,Uganda,NOR,Norway,8,[49. 10.],[32.  1.],[10. 62.]
+481,2008,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NLD,Netherlands,66,,,[ 5.75 52.5 ]
+482,2008,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,10,[39. 15.],[38.  8.],[-95.  60.]
+483,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,142,,[32.  1.],
+484,2008,SOM,Somalia,UGA,Uganda,CAN,Canada,12,[49. 10.],[32.  1.],[-95.  60.]
+485,2008,SOM,Somalia,ERI,Eritrea,AUS,Australia,300,[49. 10.],[39. 15.],[133. -27.]
+486,2008,SOM,Somalia,ETH,Ethiopia,FIN,Finland,12,[49. 10.],[38.  8.],[26. 64.]
+487,2008,SOM,Somalia,ETH,Ethiopia,USA,United States of America,2111,[49. 10.],[38.  8.],
+488,2008,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,10,,[32.  1.],[ 5.75 52.5 ]
+489,2008,SOM,Somalia,ETH,Ethiopia,CAN,Canada,9,[49. 10.],[38.  8.],[-95.  60.]
+490,2008,SDN,Sudan,KEN,Kenya,NZL,New Zealand,1,[30. 15.],[38.  1.],[174. -41.]
+491,2008,ERI,Eritrea,UGA,Uganda,USA,United States of America,1,[39. 15.],[32.  1.],
+492,2008,SDN,Sudan,UGA,Uganda,CAN,Canada,9,[30. 15.],[32.  1.],[-95.  60.]
+493,2008,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,6,,[38.  8.],[133. -27.]
+494,2008,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,168,,[30. -2.],[26. 64.]
+495,2009,SOM,Somalia,SDN,Sudan,CAN,Canada,13,[49. 10.],[30. 15.],[-95.  60.]
+496,2009,SDN,Sudan,UGA,Uganda,NZL,New Zealand,23,[30. 15.],[32.  1.],[174. -41.]
+497,2009,SDN,Sudan,TZA,United Rep. of Tanzania,USA,United States of America,3,[30. 15.],,
+498,2009,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,87,[39. 15.],[38.  8.],[10. 62.]
+499,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,1,,[32.  1.],[10. 56.]
+500,2009,SOM,Somalia,ETH,Ethiopia,AUS,Australia,5,[49. 10.],[38.  8.],[133. -27.]
+501,2009,SDN,Sudan,KEN,Kenya,SWE,Sweden,14,[30. 15.],[38.  1.],[15. 62.]
+502,2009,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,72,,[30.  -3.5],[-95.  60.]
+503,2009,SOM,Somalia,ETH,Ethiopia,USA,United States of America,5549,[49. 10.],[38.  8.],
+504,2009,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,1,,,[-95.  60.]
+505,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,57,,[32.  1.],
+506,2009,SOM,Somalia,ETH,Ethiopia,NOR,Norway,14,[49. 10.],[38.  8.],[10. 62.]
+507,2009,SOM,Somalia,UGA,Uganda,DNK,Denmark,3,[49. 10.],[32.  1.],[10. 56.]
+508,2009,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NLD,Netherlands,3,,[38.  8.],[ 5.75 52.5 ]
+509,2009,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,11,,[38.  1.],[133. -27.]
+510,2009,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,1,,[30. -2.],[15. 62.]
+511,2009,SOM,Somalia,ERI,Eritrea,CAN,Canada,303,[49. 10.],[39. 15.],[-95.  60.]
+512,2009,SDN,Sudan,ETH,Ethiopia,USA,United States of America,28,[30. 15.],[38.  8.],
+513,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,46,,[32.  1.],[-95.  60.]
+514,2009,ERI,Eritrea,UGA,Uganda,USA,United States of America,10,[39. 15.],[32.  1.],
+515,2009,SOM,Somalia,KEN,Kenya,NOR,Norway,5,[49. 10.],[38.  1.],[10. 62.]
+516,2009,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,105,,[30.  -3.5],
+517,2009,COD,Dem. Rep. of the Congo,KEN,Kenya,NLD,Netherlands,7,,[38.  1.],[ 5.75 52.5 ]
+518,2009,ERI,Eritrea,KEN,Kenya,AUS,Australia,7,[39. 15.],[38.  1.],[133. -27.]
+519,2009,ERI,Eritrea,SDN,Sudan,SWE,Sweden,211,[39. 15.],[30. 15.],[15. 62.]
+520,2009,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,6,,[38.  8.],[-95.  60.]
+521,2009,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,55,,[38.  1.],
+522,2009,SOM,Somalia,KEN,Kenya,FIN,Finland,1,[49. 10.],[38.  1.],[26. 64.]
+523,2009,SDN,Sudan,KEN,Kenya,NOR,Norway,8,[30. 15.],[38.  1.],[10. 62.]
+524,2009,SOM,Somalia,UGA,Uganda,CAN,Canada,4,[49. 10.],[32.  1.],[-95.  60.]
+525,2009,SOM,Somalia,UGA,Uganda,USA,United States of America,821,[49. 10.],[32.  1.],
+526,2009,SOM,Somalia,BDI,Burundi,USA,United States of America,1,[49. 10.],[30.  -3.5],
+527,2009,ERI,Eritrea,KEN,Kenya,NLD,Netherlands,13,[39. 15.],[38.  1.],[ 5.75 52.5 ]
+528,2009,IRQ,Iraq,KEN,Kenya,AUS,Australia,1,[44. 33.],[38.  1.],[133. -27.]
+529,2009,ERI,Eritrea,KEN,Kenya,USA,United States of America,40,[39. 15.],[38.  1.],
+530,2009,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,162,,[30. -2.],[26. 64.]
+531,2009,COD,Dem. Rep. of the Congo,COG,Congo,DNK,Denmark,6,,[15. -1.],[10. 56.]
+532,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,10,,[32.  1.],[15. 62.]
+533,2009,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,2,[39. 15.],[38.  8.],[-95.  60.]
+534,2009,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,29,,[30. -2.],[10. 62.]
+535,2009,SDN,Sudan,UGA,Uganda,USA,United States of America,50,[30. 15.],[32.  1.],
+536,2009,SOM,Somalia,KEN,Kenya,AUS,Australia,49,[49. 10.],[38.  1.],[133. -27.]
+537,2009,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,13,,[15. -1.],
+538,2009,IRQ,Iraq,KEN,Kenya,NLD,Netherlands,1,[44. 33.],[38.  1.],[ 5.75 52.5 ]
+539,2009,IRN,Iran (Islamic Rep. of),KEN,Kenya,USA,United States of America,4,,[38.  1.],
+540,2009,SDN,Sudan,RWA,Rwanda,FIN,Finland,2,[30. 15.],[30. -2.],[26. 64.]
+541,2009,SOM,Somalia,DJI,Djibouti,DNK,Denmark,6,[49. 10.],[43.  11.5],[10. 56.]
+542,2009,SOM,Somalia,UGA,Uganda,SWE,Sweden,2,[49. 10.],[32.  1.],[15. 62.]
+543,2009,SOM,Somalia,ETH,Ethiopia,CAN,Canada,2,[49. 10.],[38.  8.],[-95.  60.]
+544,2009,ERI,Eritrea,SDN,Sudan,NOR,Norway,147,[39. 15.],[30. 15.],[10. 62.]
+545,2009,SDN,Sudan,KEN,Kenya,AUS,Australia,17,[30. 15.],[38.  1.],[133. -27.]
+546,2009,SDN,Sudan,COD,Dem. Rep. of the Congo,USA,United States of America,1,[30. 15.],,
+547,2009,SOM,Somalia,KEN,Kenya,NLD,Netherlands,25,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+548,2009,SOM,Somalia,KEN,Kenya,USA,United States of America,9351,[49. 10.],[38.  1.],
+549,2009,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,3,[49. 10.],[38.  8.],[10. 56.]
+550,2009,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,17,,[38.  1.],[-95.  60.]
+551,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,9,,[32.  1.],[10. 62.]
+552,2009,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,2,[49. 10.],[38.  1.],
+553,2009,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,14,,[30.  -3.5],[15. 62.]
+554,2009,ERI,Eritrea,SDN,Sudan,AUS,Australia,82,[39. 15.],[30. 15.],[133. -27.]
+555,2009,ERI,Eritrea,DJI,Djibouti,USA,United States of America,180,[39. 15.],[43.  11.5],
+556,2009,SDN,Sudan,KEN,Kenya,NLD,Netherlands,7,[30. 15.],[38.  1.],[ 5.75 52.5 ]
+557,2009,ERI,Eritrea,KEN,Kenya,CAN,Canada,3,[39. 15.],[38.  1.],[-95.  60.]
+558,2009,SDN,Sudan,KEN,Kenya,USA,United States of America,134,[30. 15.],[38.  1.],
+559,2009,SOM,Somalia,KEN,Kenya,DNK,Denmark,2,[49. 10.],[38.  1.],[10. 56.]
+560,2009,SDN,Sudan,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,6,[30. 15.],[38.  1.],
+561,2009,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,6,,[15. -1.],[15. 62.]
+562,2009,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,27,,,[133. -27.]
+563,2009,SOM,Somalia,DJI,Djibouti,USA,United States of America,204,[49. 10.],[43.  11.5],
+564,2009,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,2,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+565,2009,SOM,Somalia,KEN,Kenya,CAN,Canada,98,[49. 10.],[38.  1.],[-95.  60.]
+566,2009,SOM,Somalia,KEN,Kenya,NZL,New Zealand,6,[49. 10.],[38.  1.],[174. -41.]
+567,2009,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,404,,[30. -2.],
+568,2009,COD,Dem. Rep. of the Congo,RWA,Rwanda,DNK,Denmark,165,,[30. -2.],[10. 56.]
+569,2009,SOM,Somalia,ERI,Eritrea,CHE,Switzerland,5,[49. 10.],[39. 15.],[ 8. 47.]
+570,2009,COD,Dem. Rep. of the Congo,COG,Congo,AUS,Australia,44,,[15. -1.],[133. -27.]
+571,2009,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,2,[39. 15.],[30. 15.],
+572,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,4,,[32.  1.],[ 5.75 52.5 ]
+573,2009,SDN,Sudan,COG,Congo,SWE,Sweden,6,[30. 15.],[15. -1.],[15. 62.]
+574,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,17,,[32.  1.],[133. -27.]
+575,2009,SOM,Somalia,ERI,Eritrea,USA,United States of America,920,[49. 10.],[39. 15.],
+576,2009,SDN,Sudan,KEN,Kenya,CAN,Canada,12,[30. 15.],[38.  1.],[-95.  60.]
+577,2009,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,6,[39. 15.],[30. 15.],[174. -41.]
+578,2009,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,2002,,,
+579,2009,SDN,Sudan,RWA,Rwanda,DNK,Denmark,2,[30. 15.],[30. -2.],[10. 56.]
+580,2009,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,11,,[38.  8.],[133. -27.]
+581,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,GBR,United Kingdom of Great Britain and Northern Ireland,148,,[32.  1.],
+582,2009,SOM,Somalia,ERI,Eritrea,FRA,France,9,[49. 10.],[39. 15.],[ 2. 46.]
+583,2009,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,9,[49. 10.],[38.  8.],[15. 62.]
+584,2009,ERI,Eritrea,UGA,Uganda,AUS,Australia,2,[39. 15.],[32.  1.],[133. -27.]
+585,2009,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,68,,[38.  8.],
+586,2009,ERI,Eritrea,SDN,Sudan,CAN,Canada,92,[39. 15.],[30. 15.],[-95.  60.]
+587,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,NZL,New Zealand,115,,[32.  1.],[174. -41.]
+588,2009,SOM,Somalia,TZA,United Rep. of Tanzania,USA,United States of America,2,[49. 10.],,
+589,2009,SOM,Somalia,ERI,Eritrea,NOR,Norway,83,[49. 10.],[39. 15.],[10. 62.]
+590,2009,ERI,Eritrea,SDN,Sudan,DNK,Denmark,3,[39. 15.],[30. 15.],[10. 56.]
+591,2009,COD,Dem. Rep. of the Congo,UGA,Uganda,FRA,France,6,,[32.  1.],[ 2. 46.]
+592,2009,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,8,[39. 15.],[38.  8.],[133. -27.]
+593,2009,SOM,Somalia,KEN,Kenya,SWE,Sweden,13,[49. 10.],[38.  1.],[15. 62.]
+594,2009,SOM,Somalia,UGA,Uganda,AUS,Australia,44,[49. 10.],[32.  1.],[133. -27.]
+595,2009,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,213,[39. 15.],[38.  8.],
+596,2010,IRN,Iran (Islamic Rep. of),KEN,Kenya,SWE,Sweden,3,,[38.  1.],[15. 62.]
+597,2010,COD,Dem. Rep. of the Congo,SDN,Sudan,AUS,Australia,1,,[30. 15.],[133. -27.]
+598,2010,SOM,Somalia,UGA,Uganda,FIN,Finland,2,[49. 10.],[32.  1.],[26. 64.]
+599,2010,ERI,Eritrea,SDN,Sudan,CAN,Canada,59,[39. 15.],[30. 15.],[-95.  60.]
+600,2010,COD,Dem. Rep. of the Congo,BDI,Burundi,FRA,France,8,,[30.  -3.5],[ 2. 46.]
+601,2010,SOM,Somalia,ERI,Eritrea,USA,United States of America,1125,[49. 10.],[39. 15.],
+602,2010,COD,Dem. Rep. of the Congo,ETH,Ethiopia,NOR,Norway,5,,[38.  8.],[10. 62.]
+603,2010,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,242,[49. 10.],[38.  1.],
+604,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,248,,,
+605,2010,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,99,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+606,2010,SOM,Somalia,ERI,Eritrea,AUS,Australia,36,[49. 10.],[39. 15.],[133. -27.]
+607,2010,SOM,Somalia,KEN,Kenya,SWE,Sweden,342,[49. 10.],[38.  1.],[15. 62.]
+608,2010,ERI,Eritrea,SDN,Sudan,AUS,Australia,37,[39. 15.],[30. 15.],[133. -27.]
+609,2010,SOM,Somalia,ETH,Ethiopia,NZL,New Zealand,4,[49. 10.],[38.  8.],[174. -41.]
+610,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,8,,,[-95.  60.]
+611,2010,COD,Dem. Rep. of the Congo,COG,Congo,FRA,France,5,,[15. -1.],[ 2. 46.]
+612,2010,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,21,,[38.  8.],
+613,2010,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,6,[39. 15.],[38.  8.],[10. 62.]
+614,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,GBR,United Kingdom of Great Britain and Northern Ireland,121,,[30. -2.],
+615,2010,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,219,,[32.  1.],
+616,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NLD,Netherlands,6,,,[ 5.75 52.5 ]
+617,2010,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,5,,[38.  8.],[133. -27.]
+618,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,16,,[30. -2.],[15. 62.]
+619,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,187,,,[133. -27.]
+620,2010,SOM,Somalia,KEN,Kenya,NZL,New Zealand,5,[49. 10.],[38.  1.],[174. -41.]
+621,2010,SOM,Somalia,DJI,Djibouti,DNK,Denmark,5,[49. 10.],[43.  11.5],[10. 56.]
+622,2010,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,12,,[32.  1.],[-95.  60.]
+623,2010,SOM,Somalia,ERI,Eritrea,FRA,France,15,[49. 10.],[39. 15.],[ 2. 46.]
+624,2010,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,222,[39. 15.],[38.  8.],
+625,2010,SOM,Somalia,ETH,Ethiopia,NOR,Norway,6,[49. 10.],[38.  8.],[10. 62.]
+626,2010,ERI,Eritrea,UGA,Uganda,USA,United States of America,10,[39. 15.],[32.  1.],
+627,2010,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,49,[39. 15.],[38.  8.],[133. -27.]
+628,2010,SDN,Sudan,DJI,Djibouti,DNK,Denmark,3,[30. 15.],[43.  11.5],[10. 56.]
+629,2010,ERI,Eritrea,SOM,Somalia,SWE,Sweden,1,[39. 15.],[49. 10.],[15. 62.]
+630,2010,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,74,,[32.  1.],[133. -27.]
+631,2010,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,2,[39. 15.],[30. 15.],[174. -41.]
+632,2010,SOM,Somalia,UGA,Uganda,CAN,Canada,5,[49. 10.],[32.  1.],[-95.  60.]
+633,2010,SOM,Somalia,ETH,Ethiopia,FRA,France,5,[49. 10.],[38.  8.],[ 2. 46.]
+634,2010,SOM,Somalia,ETH,Ethiopia,USA,United States of America,1131,[49. 10.],[38.  8.],
+635,2010,IRN,Iran (Islamic Rep. of),KEN,Kenya,NOR,Norway,3,,[38.  1.],[10. 62.]
+636,2010,IRN,Iran (Islamic Rep. of),UGA,Uganda,USA,United States of America,1,,[32.  1.],
+637,2010,SOM,Somalia,ETH,Ethiopia,AUS,Australia,6,[49. 10.],[38.  8.],[133. -27.]
+638,2010,ERI,Eritrea,ETH,Ethiopia,DNK,Denmark,1,[39. 15.],[38.  8.],[10. 56.]
+639,2010,ERI,Eritrea,SDN,Sudan,SWE,Sweden,307,[39. 15.],[30. 15.],[15. 62.]
+640,2010,ERI,Eritrea,UGA,Uganda,AUS,Australia,1,[39. 15.],[32.  1.],[133. -27.]
+641,2010,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,1,,[30.  -3.5],[-95.  60.]
+642,2010,COD,Dem. Rep. of the Congo,KEN,Kenya,FRA,France,1,,[38.  1.],[ 2. 46.]
+643,2010,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,82,,[38.  1.],
+644,2010,SOM,Somalia,KEN,Kenya,NOR,Norway,13,[49. 10.],[38.  1.],[10. 62.]
+645,2010,SOM,Somalia,UGA,Uganda,USA,United States of America,2577,[49. 10.],[32.  1.],
+646,2010,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,14,,[38.  1.],[133. -27.]
+647,2010,COD,Dem. Rep. of the Congo,KEN,Kenya,DNK,Denmark,124,,[38.  1.],[10. 56.]
+648,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,SWE,Sweden,19,,,[15. 62.]
+649,2010,SOM,Somalia,UGA,Uganda,AUS,Australia,39,[49. 10.],[32.  1.],[133. -27.]
+650,2010,SOM,Somalia,ERI,Eritrea,CAN,Canada,222,[49. 10.],[39. 15.],[-95.  60.]
+651,2010,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,51,,[30.  -3.5],
+652,2010,SDN,Sudan,KEN,Kenya,FRA,France,1,[30. 15.],[38.  1.],[ 2. 46.]
+653,2010,ERI,Eritrea,KEN,Kenya,USA,United States of America,32,[39. 15.],[38.  1.],
+654,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,14,,[30. -2.],[10. 62.]
+655,2010,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,8,,[30.  -3.5],[26. 64.]
+656,2010,SDN,Sudan,UGA,Uganda,USA,United States of America,11,[30. 15.],[32.  1.],
+657,2010,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,44,,[30.  -3.5],[15. 62.]
+658,2010,ERI,Eritrea,KEN,Kenya,AUS,Australia,31,[39. 15.],[38.  1.],[133. -27.]
+659,2010,IRN,Iran (Islamic Rep. of),KEN,Kenya,DNK,Denmark,2,,[38.  1.],[10. 56.]
+660,2010,SOM,Somalia,UGA,Uganda,SWE,Sweden,2,[49. 10.],[32.  1.],[15. 62.]
+661,2010,SDN,Sudan,UGA,Uganda,AUS,Australia,12,[30. 15.],[32.  1.],[133. -27.]
+662,2010,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,2,[39. 15.],[38.  8.],[-95.  60.]
+663,2010,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,63,,[15. -1.],
+664,2010,COD,Dem. Rep. of the Congo,SDN,Sudan,NOR,Norway,1,,[30. 15.],[10. 62.]
+665,2010,ERI,Eritrea,SOM,Somalia,FRA,France,8,[39. 15.],[49. 10.],[ 2. 46.]
+666,2010,IRN,Iran (Islamic Rep. of),KEN,Kenya,USA,United States of America,2,,[38.  1.],
+667,2010,COD,Dem. Rep. of the Congo,ETH,Ethiopia,FIN,Finland,8,,[38.  8.],[26. 64.]
+668,2010,ERI,Eritrea,DJI,Djibouti,SWE,Sweden,4,[39. 15.],[43.  11.5],[15. 62.]
+669,2010,IRN,Iran (Islamic Rep. of),KEN,Kenya,AUS,Australia,2,,[38.  1.],[133. -27.]
+670,2010,SDN,Sudan,COD,Dem. Rep. of the Congo,USA,United States of America,5,[30. 15.],,
+671,2010,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,48,,[30.  -3.5],[10. 62.]
+672,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,DNK,Denmark,3,,[30. -2.],[10. 56.]
+673,2010,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,2,,[38.  1.],[-95.  60.]
+674,2010,ERI,Eritrea,SDN,Sudan,NOR,Norway,255,[39. 15.],[30. 15.],[10. 62.]
+675,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,FRA,France,4,,,[ 2. 46.]
+676,2010,SOM,Somalia,KEN,Kenya,USA,United States of America,7242,[49. 10.],[38.  1.],
+677,2010,ERI,Eritrea,ETH,Ethiopia,FIN,Finland,2,[39. 15.],[38.  8.],[26. 64.]
+678,2010,SOM,Somalia,DJI,Djibouti,SWE,Sweden,4,[49. 10.],[43.  11.5],[15. 62.]
+679,2010,SOM,Somalia,KEN,Kenya,AUS,Australia,286,[49. 10.],[38.  1.],[133. -27.]
+680,2010,ERI,Eritrea,DJI,Djibouti,USA,United States of America,98,[39. 15.],[43.  11.5],
+681,2010,ERI,Eritrea,DJI,Djibouti,NOR,Norway,1,[39. 15.],[43.  11.5],[10. 62.]
+682,2010,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,5,,[32.  1.],[10. 56.]
+683,2010,SOM,Somalia,KEN,Kenya,CAN,Canada,11,[49. 10.],[38.  1.],[-95.  60.]
+684,2010,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NOR,Norway,30,,,[10. 62.]
+685,2010,COD,Dem. Rep. of the Congo,UGA,Uganda,FRA,France,5,,[32.  1.],[ 2. 46.]
+686,2010,SDN,Sudan,KEN,Kenya,USA,United States of America,559,[30. 15.],[38.  1.],
+687,2010,SDN,Sudan,KEN,Kenya,AUS,Australia,37,[30. 15.],[38.  1.],[133. -27.]
+688,2010,SOM,Somalia,ETH,Ethiopia,FIN,Finland,5,[49. 10.],[38.  8.],[26. 64.]
+689,2010,SOM,Somalia,ERI,Eritrea,SWE,Sweden,49,[49. 10.],[39. 15.],[15. 62.]
+690,2010,SOM,Somalia,DJI,Djibouti,USA,United States of America,831,[49. 10.],[43.  11.5],
+691,2010,SOM,Somalia,DJI,Djibouti,NOR,Norway,4,[49. 10.],[43.  11.5],[10. 62.]
+692,2010,SDN,Sudan,KEN,Kenya,CAN,Canada,5,[30. 15.],[38.  1.],[-95.  60.]
+693,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,510,,[30. -2.],
+694,2010,IRN,Iran (Islamic Rep. of),KEN,Kenya,NLD,Netherlands,3,,[38.  1.],[ 5.75 52.5 ]
+695,2010,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,6,,[32.  1.],[10. 62.]
+696,2010,ERI,Eritrea,KEN,Kenya,SWE,Sweden,1,[39. 15.],[38.  1.],[15. 62.]
+697,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,96,,[30. -2.],[133. -27.]
+698,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,162,,[30. -2.],[26. 64.]
+699,2010,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,7,,[30. -2.],[-95.  60.]
+700,2010,SDN,Sudan,DJI,Djibouti,USA,United States of America,1,[30. 15.],[43.  11.5],
+701,2010,SOM,Somalia,ERI,Eritrea,NOR,Norway,5,[49. 10.],[39. 15.],[10. 62.]
+702,2010,ERI,Eritrea,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,3,[39. 15.],[38.  1.],
+703,2010,ERI,Eritrea,SDN,Sudan,USA,United States of America,220,[39. 15.],[30. 15.],
+704,2010,SOM,Somalia,KEN,Kenya,NLD,Netherlands,2,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+705,2011,SDN,Sudan,DJI,Djibouti,USA,United States of America,4,[30. 15.],[43.  11.5],
+706,2011,SOM,Somalia,KEN,Kenya,DNK,Denmark,1,[49. 10.],[38.  1.],[10. 56.]
+707,2011,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,280,,,
+708,2011,SOM,Somalia,ERI,Eritrea,SWE,Sweden,10,[49. 10.],[39. 15.],[15. 62.]
+709,2011,ERI,Eritrea,KEN,Kenya,AUS,Australia,1,[39. 15.],[38.  1.],[133. -27.]
+710,2011,SOM,Somalia,ERI,Eritrea,NOR,Norway,8,[49. 10.],[39. 15.],[10. 62.]
+711,2011,COD,Dem. Rep. of the Congo,KEN,Kenya,FRA,France,8,,[38.  1.],[ 2. 46.]
+712,2011,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,152,,[30. -2.],[26. 64.]
+713,2011,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,158,,[38.  8.],
+714,2011,SOM,Somalia,KEN,Kenya,AUS,Australia,219,[49. 10.],[38.  1.],[133. -27.]
+715,2011,ERI,Eritrea,UGA,Uganda,DNK,Denmark,1,[39. 15.],[32.  1.],[10. 56.]
+716,2011,ERI,Eritrea,TZA,United Rep. of Tanzania,USA,United States of America,13,[39. 15.],,
+717,2011,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,2,[39. 15.],[38.  8.],[15. 62.]
+718,2011,SOM,Somalia,ETH,Ethiopia,NOR,Norway,8,[49. 10.],[38.  8.],[10. 62.]
+719,2011,SOM,Somalia,KEN,Kenya,FRA,France,7,[49. 10.],[38.  1.],[ 2. 46.]
+720,2011,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,410,[39. 15.],[38.  8.],
+721,2011,SOM,Somalia,KEN,Kenya,SWE,Sweden,388,[49. 10.],[38.  1.],[15. 62.]
+722,2011,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,122,,[30. -2.],[133. -27.]
+723,2011,SOM,Somalia,UGA,Uganda,DNK,Denmark,1,[49. 10.],[32.  1.],[10. 56.]
+724,2011,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,315,,[32.  1.],
+725,2011,COD,Dem. Rep. of the Congo,ETH,Ethiopia,GBR,United Kingdom of Great Britain and Northern Ireland,34,,[38.  8.],
+726,2011,COD,Dem. Rep. of the Congo,KEN,Kenya,NLD,Netherlands,23,,[38.  1.],[ 5.75 52.5 ]
+727,2011,SOM,Somalia,KEN,Kenya,NOR,Norway,70,[49. 10.],[38.  1.],[10. 62.]
+728,2011,SOM,Somalia,ETH,Ethiopia,USA,United States of America,867,[49. 10.],[38.  8.],
+729,2011,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,353,[49. 10.],[38.  1.],
+730,2011,SDN,Sudan,KEN,Kenya,SWE,Sweden,3,[30. 15.],[38.  1.],[15. 62.]
+731,2011,ERI,Eritrea,SDN,Sudan,AUS,Australia,48,[39. 15.],[30. 15.],[133. -27.]
+732,2011,ERI,Eritrea,UGA,Uganda,USA,United States of America,21,[39. 15.],[32.  1.],
+733,2011,ERI,Eritrea,KEN,Kenya,NLD,Netherlands,1,[39. 15.],[38.  1.],[ 5.75 52.5 ]
+734,2011,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,11,,[30. -2.],[10. 62.]
+735,2011,SDN,Sudan,ETH,Ethiopia,USA,United States of America,7,[30. 15.],[38.  8.],
+736,2011,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,7,,[30. -2.],[15. 62.]
+737,2011,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,55,,,[133. -27.]
+738,2011,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,37,,[38.  1.],[-95.  60.]
+739,2011,SOM,Somalia,UGA,Uganda,USA,United States of America,1154,[49. 10.],[32.  1.],
+740,2011,ERI,Eritrea,SDN,Sudan,ESP,Spain,1,[39. 15.],[30. 15.],[-4. 40.]
+741,2011,SOM,Somalia,KEN,Kenya,NLD,Netherlands,2,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+742,2011,ERI,Eritrea,SDN,Sudan,NOR,Norway,242,[39. 15.],[30. 15.],[10. 62.]
+743,2011,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,133,,[38.  1.],
+744,2011,SDN,Sudan,UGA,Uganda,USA,United States of America,22,[30. 15.],[32.  1.],
+745,2011,ERI,Eritrea,SOM,Somalia,SWE,Sweden,2,[39. 15.],[49. 10.],[15. 62.]
+746,2011,SOM,Somalia,KEN,Kenya,CAN,Canada,7,[49. 10.],[38.  1.],[-95.  60.]
+747,2011,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,5,,[32.  1.],[10. 62.]
+748,2011,ERI,Eritrea,KEN,Kenya,USA,United States of America,23,[39. 15.],[38.  1.],
+749,2011,MMR,Myanmar,SOM,Somalia,SWE,Sweden,1,[98. 22.],[49. 10.],[15. 62.]
+750,2011,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,3,,[30. -2.],[-95.  60.]
+751,2011,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,252,,[30.  -3.5],
+752,2011,ERI,Eritrea,UGA,Uganda,NOR,Norway,1,[39. 15.],[32.  1.],[10. 62.]
+753,2011,SOM,Somalia,KEN,Kenya,USA,United States of America,7392,[49. 10.],[38.  1.],
+754,2011,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,26,,[30.  -3.5],[15. 62.]
+755,2011,SOM,Somalia,ERI,Eritrea,AUS,Australia,446,[49. 10.],[39. 15.],[133. -27.]
+756,2011,ERI,Eritrea,SDN,Sudan,SWE,Sweden,241,[39. 15.],[30. 15.],[15. 62.]
+757,2011,ERI,Eritrea,SDN,Sudan,CAN,Canada,87,[39. 15.],[30. 15.],[-95.  60.]
+758,2011,SOM,Somalia,BDI,Burundi,USA,United States of America,6,[49. 10.],[30.  -3.5],
+759,2011,SOM,Somalia,UGA,Uganda,NOR,Norway,1,[49. 10.],[32.  1.],[10. 62.]
+760,2011,SDN,Sudan,KEN,Kenya,USA,United States of America,172,[30. 15.],[38.  1.],
+761,2011,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,10,,[15. -1.],[15. 62.]
+762,2011,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,24,,[38.  8.],[133. -27.]
+763,2011,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,2,,[32.  1.],[15. 62.]
+764,2011,ERI,Eritrea,DJI,Djibouti,USA,United States of America,44,[39. 15.],[43.  11.5],
+765,2011,SOM,Somalia,ERI,Eritrea,DNK,Denmark,5,[49. 10.],[39. 15.],[10. 56.]
+766,2011,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,1020,,[30. -2.],
+767,2011,ERI,Eritrea,DJI,Djibouti,SWE,Sweden,11,[39. 15.],[43.  11.5],[15. 62.]
+768,2011,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,6,[39. 15.],[38.  8.],[133. -27.]
+769,2011,SOM,Somalia,UGA,Uganda,SWE,Sweden,4,[49. 10.],[32.  1.],[15. 62.]
+770,2011,SOM,Somalia,ERI,Eritrea,FRA,France,46,[49. 10.],[39. 15.],[ 2. 46.]
+771,2011,SOM,Somalia,DJI,Djibouti,USA,United States of America,462,[49. 10.],[43.  11.5],
+772,2011,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,7,[49. 10.],[38.  8.],[10. 56.]
+773,2011,ERI,Eritrea,SDN,Sudan,USA,United States of America,361,[39. 15.],[30. 15.],
+774,2011,SOM,Somalia,DJI,Djibouti,SWE,Sweden,118,[49. 10.],[43.  11.5],[15. 62.]
+775,2011,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,17,,[38.  1.],[133. -27.]
+776,2011,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,14,,[30.  -3.5],[10. 62.]
+777,2011,SOM,Somalia,ETH,Ethiopia,FRA,France,5,[49. 10.],[38.  8.],[ 2. 46.]
+778,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,NOR,Norway,8,,[38.  1.],[10. 62.]
+779,2012,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,1047,,[32.  1.],
+780,2012,COD,Dem. Rep. of the Congo,SDN,Sudan,CAN,Canada,1,,[30. 15.],[-95.  60.]
+781,2012,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,1,,[32.  1.],[ 5.75 52.5 ]
+782,2012,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,489,[39. 15.],[38.  8.],
+783,2012,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,1,,[15. -1.],[15. 62.]
+784,2012,SOM,Somalia,KEN,Kenya,AUS,Australia,7,[49. 10.],[38.  1.],[133. -27.]
+785,2012,SOM,Somalia,DJI,Djibouti,CAN,Canada,23,[49. 10.],[43.  11.5],[-95.  60.]
+786,2012,SOM,Somalia,KEN,Kenya,NOR,Norway,210,[49. 10.],[38.  1.],[10. 62.]
+787,2012,ERI,Eritrea,UGA,Uganda,USA,United States of America,17,[39. 15.],[32.  1.],
+788,2012,ERI,Eritrea,SDN,Sudan,CAN,Canada,97,[39. 15.],[30. 15.],[-95.  60.]
+789,2012,SOM,Somalia,ETH,Ethiopia,USA,United States of America,1295,[49. 10.],[38.  8.],
+790,2012,ERI,Eritrea,DJI,Djibouti,SWE,Sweden,12,[39. 15.],[43.  11.5],[15. 62.]
+791,2012,ERI,Eritrea,SDN,Sudan,AUS,Australia,54,[39. 15.],[30. 15.],[133. -27.]
+792,2012,SOM,Somalia,ERI,Eritrea,CAN,Canada,279,[49. 10.],[39. 15.],[-95.  60.]
+793,2012,SOM,Somalia,ETH,Ethiopia,PRT,Portugal,1,[49. 10.],[38.  8.],[-8.  39.5]
+794,2012,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,19,,[30. -2.],[10. 62.]
+795,2012,SOM,Somalia,UGA,Uganda,USA,United States of America,140,[49. 10.],[32.  1.],
+796,2012,ERI,Eritrea,ETH,Ethiopia,FIN,Finland,6,[39. 15.],[38.  8.],[26. 64.]
+797,2012,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,32,,,[-95.  60.]
+798,2012,SDN,Sudan,ERI,Eritrea,CAN,Canada,13,[30. 15.],[39. 15.],[-95.  60.]
+799,2012,SDN,Sudan,ETH,Ethiopia,PRT,Portugal,2,[30. 15.],[38.  8.],[-8.  39.5]
+800,2012,SOM,Somalia,ERI,Eritrea,FRA,France,24,[49. 10.],[39. 15.],[ 2. 46.]
+801,2012,SDN,Sudan,ETH,Ethiopia,USA,United States of America,123,[30. 15.],[38.  8.],
+802,2012,SOM,Somalia,DJI,Djibouti,SWE,Sweden,92,[49. 10.],[43.  11.5],[15. 62.]
+803,2012,SDN,Sudan,SDN,Sudan,AUS,Australia,1,[30. 15.],[30. 15.],[133. -27.]
+804,2012,ERI,Eritrea,SDN,Sudan,NOR,Norway,42,[39. 15.],[30. 15.],[10. 62.]
+805,2012,SOM,Somalia,ETH,Ethiopia,FIN,Finland,8,[49. 10.],[38.  8.],[26. 64.]
+806,2012,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,292,,[32.  1.],[-95.  60.]
+807,2012,COD,Dem. Rep. of the Congo,COG,Congo,DNK,Denmark,5,,[15. -1.],[10. 56.]
+808,2012,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,37,[39. 15.],[38.  8.],[-95.  60.]
+809,2012,SOM,Somalia,KEN,Kenya,PRT,Portugal,1,[49. 10.],[38.  1.],[-8.  39.5]
+810,2012,SOM,Somalia,KEN,Kenya,FRA,France,3,[49. 10.],[38.  1.],[ 2. 46.]
+811,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,110,,[38.  1.],
+812,2012,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,12,[39. 15.],[38.  8.],[15. 62.]
+813,2012,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,104,,[32.  1.],[133. -27.]
+814,2012,ERI,Eritrea,KEN,Kenya,SWE,Sweden,1,[39. 15.],[38.  1.],[15. 62.]
+815,2012,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,3,,[32.  1.],[10. 62.]
+816,2012,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,4,[39. 15.],[30. 15.],[174. -41.]
+817,2012,SOM,Somalia,KEN,Kenya,FIN,Finland,8,[49. 10.],[38.  1.],[26. 64.]
+818,2012,ERI,Eritrea,UGA,Uganda,CAN,Canada,12,[39. 15.],[32.  1.],[-95.  60.]
+819,2012,ERI,Eritrea,ETH,Ethiopia,GBR,United Kingdom of Great Britain and Northern Ireland,1,[39. 15.],[38.  8.],
+820,2012,SOM,Somalia,DJI,Djibouti,DNK,Denmark,11,[49. 10.],[43.  11.5],[10. 56.]
+821,2012,SOM,Somalia,ETH,Ethiopia,CAN,Canada,30,[49. 10.],[38.  8.],[-95.  60.]
+822,2012,ERI,Eritrea,SDN,Sudan,FRA,France,1,[39. 15.],[30. 15.],[ 2. 46.]
+823,2012,ERI,Eritrea,KEN,Kenya,USA,United States of America,14,[39. 15.],[38.  1.],
+824,2012,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,12,[49. 10.],[38.  8.],[15. 62.]
+825,2012,SOM,Somalia,KEN,Kenya,SWE,Sweden,393,[49. 10.],[38.  1.],[15. 62.]
+826,2012,SDN,Sudan,UGA,Uganda,NZL,New Zealand,3,[30. 15.],[32.  1.],[174. -41.]
+827,2012,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,180,,[30. -2.],[26. 64.]
+828,2012,SOM,Somalia,UGA,Uganda,CAN,Canada,16,[49. 10.],[32.  1.],[-95.  60.]
+829,2012,SOM,Somalia,ETH,Ethiopia,GBR,United Kingdom of Great Britain and Northern Ireland,4,[49. 10.],[38.  8.],
+830,2012,SOM,Somalia,ERI,Eritrea,AUS,Australia,1,[49. 10.],[39. 15.],[133. -27.]
+831,2012,ERI,Eritrea,ETH,Ethiopia,DNK,Denmark,8,[39. 15.],[38.  8.],[10. 56.]
+832,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,6,,[38.  1.],[15. 62.]
+833,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,54,,[38.  1.],[-95.  60.]
+834,2012,ERI,Eritrea,SDN,Sudan,ESP,Spain,2,[39. 15.],[30. 15.],[-4. 40.]
+835,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,NLD,Netherlands,44,,[38.  1.],[ 5.75 52.5 ]
+836,2012,SOM,Somalia,KEN,Kenya,USA,United States of America,615,[49. 10.],[38.  1.],
+837,2012,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,16,,[30. -2.],[15. 62.]
+838,2012,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,8,[49. 10.],[38.  8.],[10. 56.]
+839,2012,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,192,,[30.  -3.5],
+840,2012,ERI,Eritrea,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,1,[39. 15.],[38.  1.],
+841,2012,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,16,,[38.  8.],[133. -27.]
+842,2012,ERI,Eritrea,KEN,Kenya,CAN,Canada,2,[39. 15.],[38.  1.],[-95.  60.]
+843,2012,ERI,Eritrea,KEN,Kenya,NLD,Netherlands,2,[39. 15.],[38.  1.],[ 5.75 52.5 ]
+844,2012,SDN,Sudan,KEN,Kenya,USA,United States of America,24,[30. 15.],[38.  1.],
+845,2012,ERI,Eritrea,SDN,Sudan,SWE,Sweden,189,[39. 15.],[30. 15.],[15. 62.]
+846,2012,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,IRL,Ireland,20,,,[-8. 53.]
+847,2012,SDN,Sudan,ETH,Ethiopia,DNK,Denmark,1,[30. 15.],[38.  8.],[10. 56.]
+848,2012,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,8,,[15. -1.],
+849,2012,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,343,[49. 10.],[38.  1.],
+850,2012,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,249,[39. 15.],[38.  8.],[133. -27.]
+851,2012,SOM,Somalia,KEN,Kenya,CAN,Canada,573,[49. 10.],[38.  1.],[-95.  60.]
+852,2012,SOM,Somalia,KEN,Kenya,NLD,Netherlands,5,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+853,2012,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,1897,,[30. -2.],
+854,2012,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,SWE,Sweden,10,,,[15. 62.]
+855,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,DNK,Denmark,1,,[38.  1.],[10. 56.]
+856,2012,ERI,Eritrea,DJI,Djibouti,USA,United States of America,14,[39. 15.],[43.  11.5],
+857,2012,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,8,[39. 15.],[30. 15.],
+858,2012,SOM,Somalia,ETH,Ethiopia,AUS,Australia,20,[49. 10.],[38.  8.],[133. -27.]
+859,2012,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,212,,[30.  -3.5],[-95.  60.]
+860,2012,ERI,Eritrea,SDN,Sudan,USA,United States of America,65,[39. 15.],[30. 15.],
+861,2012,SDN,Sudan,KEN,Kenya,CAN,Canada,3,[30. 15.],[38.  1.],[-95.  60.]
+862,2012,SDN,Sudan,KEN,Kenya,NLD,Netherlands,3,[30. 15.],[38.  1.],[ 5.75 52.5 ]
+863,2012,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,5,[39. 15.],[38.  8.],[10. 62.]
+864,2012,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,4,,[32.  1.],[15. 62.]
+865,2012,SOM,Somalia,KEN,Kenya,DNK,Denmark,12,[49. 10.],[38.  1.],[10. 56.]
+866,2012,SOM,Somalia,DJI,Djibouti,USA,United States of America,174,[49. 10.],[43.  11.5],
+867,2012,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,GBR,United Kingdom of Great Britain and Northern Ireland,318,,,
+868,2012,SDN,Sudan,ETH,Ethiopia,AUS,Australia,1,[30. 15.],[38.  8.],[133. -27.]
+869,2012,IRQ,Iraq,COD,Dem. Rep. of the Congo,CAN,Canada,1,[44. 33.],,[-95.  60.]
+870,2012,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,221,,,
+871,2012,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,48,,[30. -2.],[-95.  60.]
+872,2012,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,17,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+873,2012,SOM,Somalia,ETH,Ethiopia,NOR,Norway,15,[49. 10.],[38.  8.],[10. 62.]
+874,2012,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,93,,[38.  8.],
+875,2012,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,2,,[30.  -3.5],[15. 62.]
+876,2012,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,7,,[38.  1.],[133. -27.]
+877,2012,ERI,Eritrea,DJI,Djibouti,CAN,Canada,14,[39. 15.],[43.  11.5],[-95.  60.]
+878,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,2356,,[30. -2.],
+879,2013,SOM,Somalia,KEN,Kenya,FRA,France,20,[49. 10.],[38.  1.],[ 2. 46.]
+880,2013,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,BEL,Belgium,7,,,[ 4.     50.8333]
+881,2013,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,98,,[38.  1.],[-95.  60.]
+882,2013,ERI,Eritrea,COD,Dem. Rep. of the Congo,SWE,Sweden,1,[39. 15.],,[15. 62.]
+883,2013,ERI,Eritrea,UGA,Uganda,NLD,Netherlands,34,[39. 15.],[32.  1.],[ 5.75 52.5 ]
+884,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,8,,[30. -2.],[10. 62.]
+885,2013,SDN,Sudan,ETH,Ethiopia,USA,United States of America,134,[30. 15.],[38.  8.],
+886,2013,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,NOR,Norway,3,,,[10. 62.]
+887,2013,COD,Dem. Rep. of the Congo,COG,Congo,DNK,Denmark,12,,[15. -1.],[10. 56.]
+888,2013,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,6,,,[133. -27.]
+889,2013,ERI,Eritrea,UGA,Uganda,SWE,Sweden,4,[39. 15.],[32.  1.],[15. 62.]
+890,2013,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,152,[49. 10.],[38.  1.],
+891,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,157,,[30. -2.],[-95.  60.]
+892,2013,COD,Dem. Rep. of the Congo,COG,Congo,NLD,Netherlands,12,,[15. -1.],[ 5.75 52.5 ]
+893,2013,ERI,Eritrea,SDN,Sudan,USA,United States of America,66,[39. 15.],[30. 15.],
+894,2013,ERI,Eritrea,SDN,Sudan,FRA,France,2,[39. 15.],[30. 15.],[ 2. 46.]
+895,2013,SOM,Somalia,DJI,Djibouti,SWE,Sweden,5,[49. 10.],[43.  11.5],[15. 62.]
+896,2013,COD,Dem. Rep. of the Congo,SOM,Somalia,CAN,Canada,4,,[49. 10.],[-95.  60.]
+897,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,191,,[32.  1.],[10. 62.]
+898,2013,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,12,[49. 10.],[38.  8.],[10. 56.]
+899,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,73,,[32.  1.],[133. -27.]
+900,2013,SOM,Somalia,UGA,Uganda,SWE,Sweden,20,[49. 10.],[32.  1.],[15. 62.]
+901,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,GBR,United Kingdom of Great Britain and Northern Ireland,3,,[32.  1.],
+902,2013,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,1,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+903,2013,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,312,,,
+904,2013,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,14,[39. 15.],[38.  8.],[15. 62.]
+905,2013,ERI,Eritrea,SDN,Sudan,CAN,Canada,463,[39. 15.],[30. 15.],[-95.  60.]
+906,2013,SOM,Somalia,UGA,Uganda,NOR,Norway,9,[49. 10.],[32.  1.],[10. 62.]
+907,2013,SOM,Somalia,KEN,Kenya,DNK,Denmark,15,[49. 10.],[38.  1.],[10. 56.]
+908,2013,ERI,Eritrea,UGA,Uganda,AUS,Australia,6,[39. 15.],[32.  1.],[133. -27.]
+909,2013,SDN,Sudan,ETH,Ethiopia,NLD,Netherlands,5,[30. 15.],[38.  8.],[ 5.75 52.5 ]
+910,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,726,,[30.  -3.5],
+911,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,2483,,[32.  1.],
+912,2013,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,8,[49. 10.],[38.  8.],[15. 62.]
+913,2013,SOM,Somalia,SDN,Sudan,CAN,Canada,5,[49. 10.],[30. 15.],[-95.  60.]
+914,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,DNK,Denmark,6,,[30. -2.],[10. 56.]
+915,2013,COD,Dem. Rep. of the Congo,KEN,Kenya,NLD,Netherlands,44,,[38.  1.],[ 5.75 52.5 ]
+916,2013,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,21,,[15. -1.],
+917,2013,ERI,Eritrea,UGA,Uganda,USA,United States of America,29,[39. 15.],[32.  1.],
+918,2013,SDN,Sudan,ETH,Ethiopia,SWE,Sweden,2,[30. 15.],[38.  8.],[15. 62.]
+919,2013,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,393,,[38.  1.],[133. -27.]
+920,2013,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,3,,,[-95.  60.]
+921,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,133,,[32.  1.],[10. 56.]
+922,2013,ERI,Eritrea,KEN,Kenya,NLD,Netherlands,5,[39. 15.],[38.  1.],[ 5.75 52.5 ]
+923,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,4,,[30.  -3.5],[10. 62.]
+924,2013,COD,Dem. Rep. of the Congo,COD,Dem. Rep. of the Congo,USA,United States of America,3,,,
+925,2013,SOM,Somalia,UGA,Uganda,USA,United States of America,77,[49. 10.],[32.  1.],
+926,2013,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,5,,[38.  1.],[15. 62.]
+927,2013,ERI,Eritrea,KEN,Kenya,AUS,Australia,29,[39. 15.],[38.  1.],[133. -27.]
+928,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,FRA,France,3,,[30.  -3.5],[ 2. 46.]
+929,2013,SOM,Somalia,KEN,Kenya,NLD,Netherlands,4,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+930,2013,COD,Dem. Rep. of the Congo,COG,Congo,NOR,Norway,4,,[15. -1.],[10. 62.]
+931,2013,ERI,Eritrea,DJI,Djibouti,USA,United States of America,2,[39. 15.],[43.  11.5],
+932,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,NZL,New Zealand,9,,[32.  1.],[174. -41.]
+933,2013,SDN,Sudan,UGA,Uganda,USA,United States of America,23,[30. 15.],[32.  1.],
+934,2013,SOM,Somalia,DJI,Djibouti,FIN,Finland,1,[49. 10.],[43.  11.5],[26. 64.]
+935,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,83,,[30.  -3.5],[-95.  60.]
+936,2013,SOM,Somalia,KEN,Kenya,SWE,Sweden,327,[49. 10.],[38.  1.],[15. 62.]
+937,2013,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,1234,,[38.  1.],
+938,2013,SOM,Somalia,ERI,Eritrea,FRA,France,17,[49. 10.],[39. 15.],[ 2. 46.]
+939,2013,ERI,Eritrea,ETH,Ethiopia,FIN,Finland,1,[39. 15.],[38.  8.],[26. 64.]
+940,2013,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,4,,[38.  8.],[-95.  60.]
+941,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,NLD,Netherlands,71,,[30. -2.],[ 5.75 52.5 ]
+942,2013,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,3,[39. 15.],[38.  8.],[10. 62.]
+943,2013,SOM,Somalia,DJI,Djibouti,USA,United States of America,12,[49. 10.],[43.  11.5],
+944,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,7,,[30. -2.],[15. 62.]
+945,2013,ERI,Eritrea,KEN,Kenya,USA,United States of America,56,[39. 15.],[38.  1.],
+946,2013,ERI,Eritrea,ETH,Ethiopia,FRA,France,12,[39. 15.],[38.  8.],[ 2. 46.]
+947,2013,ERI,Eritrea,ETH,Ethiopia,ISL,Iceland,1,[39. 15.],[38.  8.],[-18.  65.]
+948,2013,ERI,Eritrea,KEN,Kenya,FIN,Finland,1,[39. 15.],[38.  1.],[26. 64.]
+949,2013,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,544,[39. 15.],[38.  8.],[-95.  60.]
+950,2013,COD,Dem. Rep. of the Congo,SOM,Somalia,NLD,Netherlands,4,,[49. 10.],[ 5.75 52.5 ]
+951,2013,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,IRL,Ireland,31,,,[-8. 53.]
+952,2013,SOM,Somalia,ETH,Ethiopia,NOR,Norway,10,[49. 10.],[38.  8.],[10. 62.]
+953,2013,SOM,Somalia,ERI,Eritrea,USA,United States of America,3,[49. 10.],[39. 15.],
+954,2013,COD,Dem. Rep. of the Congo,SOM,Somalia,SWE,Sweden,3,,[49. 10.],[15. 62.]
+955,2013,SOM,Somalia,KEN,Kenya,USA,United States of America,3208,[49. 10.],[38.  1.],
+956,2013,SOM,Somalia,ETH,Ethiopia,FRA,France,4,[49. 10.],[38.  8.],[ 2. 46.]
+957,2013,SOM,Somalia,KEN,Kenya,ISL,Iceland,1,[49. 10.],[38.  1.],[-18.  65.]
+958,2013,SOM,Somalia,KEN,Kenya,FIN,Finland,4,[49. 10.],[38.  1.],[26. 64.]
+959,2013,SOM,Somalia,ETH,Ethiopia,CAN,Canada,21,[49. 10.],[38.  8.],[-95.  60.]
+960,2013,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,139,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+961,2013,COD,Dem. Rep. of the Congo,KEN,Kenya,NOR,Norway,2,,[38.  1.],[10. 62.]
+962,2013,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,1004,[39. 15.],[38.  8.],
+963,2013,SDN,Sudan,SSD,South Sudan,NOR,Norway,3,[30. 15.],,[10. 62.]
+964,2013,SOM,Somalia,KEN,Kenya,AUS,Australia,32,[49. 10.],[38.  1.],[133. -27.]
+965,2013,ERI,Eritrea,SDN,Sudan,SWE,Sweden,285,[39. 15.],[30. 15.],[15. 62.]
+966,2013,ERI,Eritrea,KEN,Kenya,CAN,Canada,16,[39. 15.],[38.  1.],[-95.  60.]
+967,2013,SDN,Sudan,KEN,Kenya,USA,United States of America,29,[30. 15.],[38.  1.],
+968,2013,ERI,Eritrea,KEN,Kenya,FRA,France,4,[39. 15.],[38.  1.],[ 2. 46.]
+969,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,BEL,Belgium,67,,[30.  -3.5],[ 4.     50.8333]
+970,2013,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,1,,[30. -2.],[26. 64.]
+971,2013,SDN,Sudan,ETH,Ethiopia,CAN,Canada,93,[30. 15.],[38.  8.],[-95.  60.]
+972,2013,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,9,,[15. -1.],[15. 62.]
+973,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,72,,[32.  1.],[ 5.75 52.5 ]
+974,2013,SOM,Somalia,KEN,Kenya,NOR,Norway,212,[49. 10.],[38.  1.],[10. 62.]
+975,2013,SOM,Somalia,ETH,Ethiopia,USA,United States of America,2253,[49. 10.],[38.  8.],
+976,2013,ERI,Eritrea,SDN,Sudan,NOR,Norway,259,[39. 15.],[30. 15.],[10. 62.]
+977,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,DNK,Denmark,9,,[30.  -3.5],[10. 56.]
+978,2013,ERI,Eritrea,SDN,Sudan,AUS,Australia,180,[39. 15.],[30. 15.],[133. -27.]
+979,2013,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,242,,[32.  1.],[15. 62.]
+980,2013,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,172,,[30.  -3.5],
+981,2013,SOM,Somalia,KEN,Kenya,CAN,Canada,21,[49. 10.],[38.  1.],[-95.  60.]
+982,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,120,,[32.  1.],[10. 56.]
+983,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,139,,[32.  1.],[15. 62.]
+984,2014,ERI,Eritrea,KEN,Kenya,CAN,Canada,11,[39. 15.],[38.  1.],[-95.  60.]
+985,2014,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,739,[39. 15.],[38.  8.],
+986,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,3,,[30.  -3.5],[26. 64.]
+987,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,MCO,Monaco,5,,[30.  -3.5],[ 7.4    43.7333]
+988,2014,ERI,Eritrea,SDN,Sudan,USA,United States of America,458,[39. 15.],[30. 15.],
+989,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,BEL,Belgium,85,,[30.  -3.5],[ 4.     50.8333]
+990,2014,SOM,Somalia,KEN,Kenya,CAN,Canada,14,[49. 10.],[38.  1.],[-95.  60.]
+991,2014,SOM,Somalia,ETH,Ethiopia,USA,United States of America,1958,[49. 10.],[38.  8.],
+992,2014,SOM,Somalia,ERI,Eritrea,FIN,Finland,8,[49. 10.],[39. 15.],[26. 64.]
+993,2014,COD,Dem. Rep. of the Congo,COG,Congo,MCO,Monaco,5,,[15. -1.],[ 7.4    43.7333]
+994,2014,SOM,Somalia,SDN,Sudan,USA,United States of America,4,[49. 10.],[30. 15.],
+995,2014,SOM,Somalia,ERI,Eritrea,FRA,France,7,[49. 10.],[39. 15.],[ 2. 46.]
+996,2014,SDN,Sudan,KEN,Kenya,CAN,Canada,74,[30. 15.],[38.  1.],[-95.  60.]
+997,2014,SDN,Sudan,ETH,Ethiopia,USA,United States of America,121,[30. 15.],[38.  8.],
+998,2014,SOM,Somalia,KEN,Kenya,FIN,Finland,1,[49. 10.],[38.  1.],[26. 64.]
+999,2014,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,3382,,,
+1000,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,13,,[30.  -3.5],[15. 62.]
+1001,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,246,,[30.  -3.5],
+1002,2014,ERI,Eritrea,ETH,Ethiopia,FRA,France,7,[39. 15.],[38.  8.],[ 2. 46.]
+1003,2014,SOM,Somalia,SOM,Somalia,CAN,Canada,1,[49. 10.],[49. 10.],[-95.  60.]
+1004,2014,AFG,Afghanistan,KEN,Kenya,USA,United States of America,3,[65. 33.],[38.  1.],
+1005,2014,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,1,,[30. -2.],[26. 64.]
+1006,2014,SOM,Somalia,TZA,United Rep. of Tanzania,USA,United States of America,1,[49. 10.],,
+1007,2014,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,12,[39. 15.],[38.  8.],[10. 62.]
+1008,2014,SOM,Somalia,ERI,Eritrea,AUS,Australia,4,[49. 10.],[39. 15.],[133. -27.]
+1009,2014,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,3,[39. 15.],[38.  8.],[15. 62.]
+1010,2014,COD,Dem. Rep. of the Congo,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,3,,[38.  1.],
+1011,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,82,,[30.  -3.5],[ 5.75 52.5 ]
+1012,2014,ERI,Eritrea,SDN,Sudan,CAN,Canada,548,[39. 15.],[30. 15.],[-95.  60.]
+1013,2014,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,797,,[38.  1.],
+1014,2014,ERI,Eritrea,SDN,Sudan,FIN,Finland,2,[39. 15.],[30. 15.],[26. 64.]
+1015,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,3410,,[32.  1.],
+1016,2014,SOM,Somalia,ETH,Ethiopia,NOR,Norway,9,[49. 10.],[38.  8.],[10. 62.]
+1017,2014,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,7,,[38.  1.],[133. -27.]
+1018,2014,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,12,,[38.  1.],[15. 62.]
+1019,2014,IRN,Iran (Islamic Rep. of),KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,1,,[38.  1.],
+1020,2014,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,441,,,[-95.  60.]
+1021,2014,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,7,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+1022,2014,ERI,Eritrea,KEN,Kenya,USA,United States of America,52,[39. 15.],[38.  1.],
+1023,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,FIN,Finland,3,,[32.  1.],[26. 64.]
+1024,2014,ERI,Eritrea,UGA,Uganda,USA,United States of America,4,[39. 15.],[32.  1.],
+1025,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,790,,[30.  -3.5],[-95.  60.]
+1026,2014,SOM,Somalia,KEN,Kenya,NOR,Norway,9,[49. 10.],[38.  1.],[10. 62.]
+1027,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,DNK,Denmark,6,,[30.  -3.5],[10. 56.]
+1028,2014,SOM,Somalia,KEN,Kenya,AUS,Australia,3,[49. 10.],[38.  1.],[133. -27.]
+1029,2014,ERI,Eritrea,KEN,Kenya,SWE,Sweden,6,[39. 15.],[38.  1.],[15. 62.]
+1030,2014,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,207,[49. 10.],[38.  1.],
+1031,2014,ERI,Eritrea,SDN,Sudan,NLD,Netherlands,85,[39. 15.],[30. 15.],[ 5.75 52.5 ]
+1032,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,100,,[32.  1.],[-95.  60.]
+1033,2014,IRN,Iran (Islamic Rep. of),KEN,Kenya,USA,United States of America,1,,[38.  1.],
+1034,2014,SOM,Somalia,UGA,Uganda,USA,United States of America,364,[49. 10.],[32.  1.],
+1035,2014,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,13,,[38.  8.],[-95.  60.]
+1036,2014,COD,Dem. Rep. of the Congo,RWA,Rwanda,NOR,Norway,5,,[30. -2.],[10. 62.]
+1037,2014,ERI,Eritrea,ETH,Ethiopia,DNK,Denmark,1,[39. 15.],[38.  8.],[10. 56.]
+1038,2014,ERI,Eritrea,SDN,Sudan,AUS,Australia,88,[39. 15.],[30. 15.],[133. -27.]
+1039,2014,SOM,Somalia,KEN,Kenya,SWE,Sweden,355,[49. 10.],[38.  1.],[15. 62.]
+1040,2014,SOM,Somalia,UGA,Uganda,CAN,Canada,1,[49. 10.],[32.  1.],[-95.  60.]
+1041,2014,ERI,Eritrea,ETH,Ethiopia,NZL,New Zealand,5,[39. 15.],[38.  8.],[174. -41.]
+1042,2014,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,2546,,[30.  -3.5],
+1043,2014,SOM,Somalia,KEN,Kenya,USA,United States of America,3721,[49. 10.],[38.  1.],
+1044,2014,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,814,[39. 15.],[38.  8.],[-95.  60.]
+1045,2014,ERI,Eritrea,SDN,Sudan,NOR,Norway,8,[39. 15.],[30. 15.],[10. 62.]
+1046,2014,SOM,Somalia,ETH,Ethiopia,DNK,Denmark,4,[49. 10.],[38.  8.],[10. 56.]
+1047,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,14,,[32.  1.],[133. -27.]
+1048,2014,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,7,,[30. -2.],[15. 62.]
+1049,2014,SDN,Sudan,UGA,Uganda,CAN,Canada,2,[30. 15.],[32.  1.],[-95.  60.]
+1050,2014,SOM,Somalia,KEN,Kenya,NZL,New Zealand,5,[49. 10.],[38.  1.],[174. -41.]
+1051,2014,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,253,,[15. -1.],
+1052,2014,SDN,Sudan,KEN,Kenya,USA,United States of America,84,[30. 15.],[38.  1.],
+1053,2014,SDN,Sudan,SSD,South Sudan,SWE,Sweden,8,[30. 15.],,[15. 62.]
+1054,2014,SOM,Somalia,ETH,Ethiopia,CAN,Canada,6,[49. 10.],[38.  8.],[-95.  60.]
+1055,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,242,,[32.  1.],[10. 62.]
+1056,2014,ERI,Eritrea,KEN,Kenya,DNK,Denmark,4,[39. 15.],[38.  1.],[10. 56.]
+1057,2014,COD,Dem. Rep. of the Congo,COD,Dem. Rep. of the Congo,USA,United States of America,1,,,
+1058,2014,ERI,Eritrea,SDN,Sudan,NZL,New Zealand,7,[39. 15.],[30. 15.],[174. -41.]
+1059,2014,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,2686,,[30. -2.],
+1060,2014,SOM,Somalia,KEN,Kenya,DNK,Denmark,10,[49. 10.],[38.  1.],[10. 56.]
+1061,2014,ERI,Eritrea,SDN,Sudan,SWE,Sweden,82,[39. 15.],[30. 15.],[15. 62.]
+1062,2014,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,313,,[38.  1.],[-95.  60.]
+1063,2014,COD,Dem. Rep. of the Congo,UGA,Uganda,NZL,New Zealand,4,,[32.  1.],[174. -41.]
+1064,2014,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,2,,[38.  8.],
+1065,2014,COD,Dem. Rep. of the Congo,SDN,Sudan,USA,United States of America,13,,[30. 15.],
+1066,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,47,,[38.  1.],[133. -27.]
+1067,2015,SOM,Somalia,DJI,Djibouti,USA,United States of America,53,[49. 10.],[43.  11.5],
+1068,2015,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,2,[39. 15.],[38.  8.],[10. 62.]
+1069,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,NZL,New Zealand,9,,[30.  -3.5],[174. -41.]
+1070,2015,SYR,Syrian Arab Rep.,KEN,Kenya,NLD,Netherlands,5,,[38.  1.],[ 5.75 52.5 ]
+1071,2015,AFG,Afghanistan,RWA,Rwanda,USA,United States of America,1,[65. 33.],[30. -2.],
+1072,2015,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,47,[39. 15.],[38.  8.],[-95.  60.]
+1073,2015,COD,Dem. Rep. of the Congo,SDN,Sudan,SWE,Sweden,1,,[30. 15.],[15. 62.]
+1074,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,DNK,Denmark,17,,[30.  -3.5],[10. 56.]
+1075,2015,ERI,Eritrea,KEN,Kenya,AUS,Australia,7,[39. 15.],[38.  1.],[133. -27.]
+1076,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,3,,[30.  -3.5],[15. 62.]
+1077,2015,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,1,,[38.  8.],
+1078,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,NOR,Norway,3,,[38.  1.],[10. 62.]
+1079,2015,ERI,Eritrea,SDN,Sudan,SWE,Sweden,99,[39. 15.],[30. 15.],[15. 62.]
+1080,2015,SOM,Somalia,ERI,Eritrea,NZL,New Zealand,154,[49. 10.],[39. 15.],[174. -41.]
+1081,2015,SDN,Sudan,SSD,South Sudan,NLD,Netherlands,2,[30. 15.],,[ 5.75 52.5 ]
+1082,2015,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,2555,,[30. -2.],
+1083,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,34,,[38.  1.],[-95.  60.]
+1084,2015,SDN,Sudan,SSD,South Sudan,NOR,Norway,1,[30. 15.],,[10. 62.]
+1085,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,DNK,Denmark,3,,[38.  1.],[10. 56.]
+1086,2015,SOM,Somalia,KEN,Kenya,AUS,Australia,23,[49. 10.],[38.  1.],[133. -27.]
+1087,2015,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,1,,[15. -1.],[15. 62.]
+1088,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,BEL,Belgium,14,,[30.  -3.5],[ 4.     50.8333]
+1089,2015,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,1856,[39. 15.],[38.  8.],
+1090,2015,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,79,,[32.  1.],[15. 62.]
+1091,2015,SOM,Somalia,KEN,Kenya,NZL,New Zealand,3,[49. 10.],[38.  1.],[174. -41.]
+1092,2015,ERI,Eritrea,SDN,Sudan,USA,United States of America,453,[39. 15.],[30. 15.],
+1093,2015,ERI,Eritrea,KEN,Kenya,CAN,Canada,6,[39. 15.],[38.  1.],[-95.  60.]
+1094,2015,IRN,Iran (Islamic Rep. of),KEN,Kenya,DNK,Denmark,4,,[38.  1.],[10. 56.]
+1095,2015,SDN,Sudan,KEN,Kenya,AUS,Australia,4,[30. 15.],[38.  1.],[133. -27.]
+1096,2015,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,3,[39. 15.],[38.  8.],[15. 62.]
+1097,2015,SOM,Somalia,ETH,Ethiopia,USA,United States of America,3458,[49. 10.],[38.  8.],
+1098,2015,SDN,Sudan,UGA,Uganda,SWE,Sweden,2,[30. 15.],[32.  1.],[15. 62.]
+1099,2015,SOM,Somalia,SDN,Sudan,USA,United States of America,12,[49. 10.],[30. 15.],
+1100,2015,SOM,Somalia,KEN,Kenya,CAN,Canada,9,[49. 10.],[38.  1.],[-95.  60.]
+1101,2015,SOM,Somalia,KEN,Kenya,DNK,Denmark,13,[49. 10.],[38.  1.],[10. 56.]
+1102,2015,ERI,Eritrea,SDN,Sudan,AUS,Australia,2,[39. 15.],[30. 15.],[133. -27.]
+1103,2015,SDN,Sudan,ETH,Ethiopia,SWE,Sweden,4,[30. 15.],[38.  8.],[15. 62.]
+1104,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,FRA,France,18,,[30.  -3.5],[ 2. 46.]
+1105,2015,SDN,Sudan,ETH,Ethiopia,USA,United States of America,431,[30. 15.],[38.  8.],
+1106,2015,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,6428,,,
+1107,2015,SDN,Sudan,KEN,Kenya,CAN,Canada,1,[30. 15.],[38.  1.],[-95.  60.]
+1108,2015,ERI,Eritrea,SDN,Sudan,DEU,Germany,195,[39. 15.],[30. 15.],[ 9. 51.]
+1109,2015,SYR,Syrian Arab Rep.,ETH,Ethiopia,USA,United States of America,6,,[38.  8.],
+1110,2015,COD,Dem. Rep. of the Congo,UGA,Uganda,DNK,Denmark,115,,[32.  1.],[10. 56.]
+1111,2015,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,105,,[32.  1.],[133. -27.]
+1112,2015,IRN,Iran (Islamic Rep. of),KEN,Kenya,SWE,Sweden,6,,[38.  1.],[15. 62.]
+1113,2015,SDN,Sudan,ERI,Eritrea,FRA,France,14,[30. 15.],[39. 15.],[ 2. 46.]
+1114,2015,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,3924,,[32.  1.],
+1115,2015,ERI,Eritrea,SDN,Sudan,CAN,Canada,62,[39. 15.],[30. 15.],[-95.  60.]
+1116,2015,SYR,Syrian Arab Rep.,SDN,Sudan,DEU,Germany,5,,[30. 15.],[ 9. 51.]
+1117,2015,ERI,Eritrea,ETH,Ethiopia,FRA,France,15,[39. 15.],[38.  8.],[ 2. 46.]
+1118,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,1190,,[38.  1.],
+1119,2015,ERI,Eritrea,UGA,Uganda,AUS,Australia,4,[39. 15.],[32.  1.],[133. -27.]
+1120,2015,SOM,Somalia,KEN,Kenya,SWE,Sweden,71,[49. 10.],[38.  1.],[15. 62.]
+1121,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,7,,[30.  -3.5],[26. 64.]
+1122,2015,ERI,Eritrea,UGA,Uganda,USA,United States of America,25,[39. 15.],[32.  1.],
+1123,2015,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,210,,,[-95.  60.]
+1124,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,186,,[30.  -3.5],
+1125,2015,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,3,,[30. -2.],[26. 64.]
+1126,2015,ERI,Eritrea,ETH,Ethiopia,NLD,Netherlands,2,[39. 15.],[38.  8.],[ 5.75 52.5 ]
+1127,2015,ERI,Eritrea,SDN,Sudan,FRA,France,9,[39. 15.],[30. 15.],[ 2. 46.]
+1128,2015,ERI,Eritrea,KEN,Kenya,USA,United States of America,100,[39. 15.],[38.  1.],
+1129,2015,SDN,Sudan,KEN,Kenya,SWE,Sweden,1,[30. 15.],[38.  1.],[15. 62.]
+1130,2015,SOM,Somalia,ETH,Ethiopia,FIN,Finland,1,[49. 10.],[38.  8.],[26. 64.]
+1131,2015,SOM,Somalia,UGA,Uganda,USA,United States of America,196,[49. 10.],[32.  1.],
+1132,2015,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,14,,[32.  1.],[-95.  60.]
+1133,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,4,,[38.  1.],
+1134,2015,COD,Dem. Rep. of the Congo,UGA,Uganda,FIN,Finland,10,,[32.  1.],[26. 64.]
+1135,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,3009,,[30.  -3.5],
+1136,2015,COD,Dem. Rep. of the Congo,KEN,Kenya,NLD,Netherlands,45,,[38.  1.],[ 5.75 52.5 ]
+1137,2015,IRN,Iran (Islamic Rep. of),KEN,Kenya,USA,United States of America,1,,[38.  1.],
+1138,2015,SYR,Syrian Arab Rep.,KEN,Kenya,SWE,Sweden,2,,[38.  1.],[15. 62.]
+1139,2015,SDN,Sudan,UGA,Uganda,USA,United States of America,4,[30. 15.],[32.  1.],
+1140,2015,SOM,Somalia,UGA,Uganda,CAN,Canada,1,[49. 10.],[32.  1.],[-95.  60.]
+1141,2015,SOM,Somalia,KEN,Kenya,FIN,Finland,6,[49. 10.],[38.  1.],[26. 64.]
+1142,2015,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,182,[49. 10.],[38.  1.],
+1143,2015,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,99,,[15. -1.],
+1144,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,AUS,Australia,8,,[30.  -3.5],[133. -27.]
+1145,2015,ERI,Eritrea,KEN,Kenya,NLD,Netherlands,3,[39. 15.],[38.  1.],[ 5.75 52.5 ]
+1146,2015,SOM,Somalia,KEN,Kenya,USA,United States of America,3598,[49. 10.],[38.  1.],
+1147,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,33,,[30.  -3.5],[-95.  60.]
+1148,2015,ERI,Eritrea,SDN,Sudan,ITA,Italy,64,[39. 15.],[30. 15.],[12.8333 42.8333]
+1149,2015,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,10,,[30. -2.],[15. 62.]
+1150,2015,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,21,[39. 15.],[38.  8.],[133. -27.]
+1151,2015,ERI,Eritrea,DJI,Djibouti,USA,United States of America,77,[39. 15.],[43.  11.5],
+1152,2015,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,6,,[30.  -3.5],[10. 62.]
+1153,2015,SOM,Somalia,KEN,Kenya,NLD,Netherlands,3,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+1154,2015,SDN,Sudan,KEN,Kenya,USA,United States of America,535,[30. 15.],[38.  1.],
+1155,2015,COD,Dem. Rep. of the Congo,COG,Congo,CAN,Canada,1,,[15. -1.],[-95.  60.]
+1156,2015,ERI,Eritrea,SSD,South Sudan,SWE,Sweden,1,[39. 15.],,[15. 62.]
+1157,2016,COD,Dem. Rep. of the Congo,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,19,,[38.  1.],
+1158,2016,ERI,Eritrea,DJI,Djibouti,USA,United States of America,30,[39. 15.],[43.  11.5],
+1159,2016,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,4033,,[30. -2.],
+1160,2016,ERI,Eritrea,SDN,Sudan,FRA,France,88,[39. 15.],[30. 15.],[ 2. 46.]
+1161,2016,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,48,,[38.  1.],[133. -27.]
+1162,2016,COD,Dem. Rep. of the Congo,COD,Dem. Rep. of the Congo,CAN,Canada,1,,,[-95.  60.]
+1163,2016,SOM,Somalia,KEN,Kenya,SWE,Sweden,222,[49. 10.],[38.  1.],[15. 62.]
+1164,2016,ERI,Eritrea,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,3,[39. 15.],[38.  1.],
+1165,2016,SOM,Somalia,DJI,Djibouti,USA,United States of America,194,[49. 10.],[43.  11.5],
+1166,2016,ERI,Eritrea,SDN,Sudan,USA,United States of America,214,[39. 15.],[30. 15.],
+1167,2016,ERI,Eritrea,KEN,Kenya,AUS,Australia,23,[39. 15.],[38.  1.],[133. -27.]
+1168,2016,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,1,[39. 15.],[38.  8.],[-95.  60.]
+1169,2016,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,13,,[30. -2.],[15. 62.]
+1170,2016,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,200,[49. 10.],[38.  1.],
+1171,2016,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,20,,[38.  8.],
+1172,2016,SOM,Somalia,KEN,Kenya,AUS,Australia,54,[49. 10.],[38.  1.],[133. -27.]
+1173,2016,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,7365,,,
+1174,2016,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,17,,[38.  1.],[-95.  60.]
+1175,2016,ERI,Eritrea,SSD,South Sudan,SWE,Sweden,6,[39. 15.],,[15. 62.]
+1176,2016,COD,Dem. Rep. of the Congo,BDI,Burundi,NOR,Norway,1,,[30.  -3.5],[10. 62.]
+1177,2016,SDN,Sudan,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,1,[30. 15.],[38.  1.],
+1178,2016,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,1929,[39. 15.],[38.  8.],
+1179,2016,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,1,,[30. -2.],[133. -27.]
+1180,2016,SOM,Somalia,ERI,Eritrea,NZL,New Zealand,88,[49. 10.],[39. 15.],[174. -41.]
+1181,2016,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,4752,,[32.  1.],
+1182,2016,SOM,Somalia,KEN,Kenya,CAN,Canada,22,[49. 10.],[38.  1.],[-95.  60.]
+1183,2016,ERI,Eritrea,SDN,Sudan,SWE,Sweden,162,[39. 15.],[30. 15.],[15. 62.]
+1184,2016,SDN,Sudan,ERI,Eritrea,NOR,Norway,8,[30. 15.],[39. 15.],[10. 62.]
+1185,2016,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,1,[39. 15.],[30. 15.],
+1186,2016,SOM,Somalia,ETH,Ethiopia,USA,United States of America,4119,[49. 10.],[38.  8.],
+1187,2016,ERI,Eritrea,SDN,Sudan,AUS,Australia,66,[39. 15.],[30. 15.],[133. -27.]
+1188,2016,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,17,,[30.  -3.5],[15. 62.]
+1189,2016,ERI,Eritrea,UGA,Uganda,USA,United States of America,14,[39. 15.],[32.  1.],
+1190,2016,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,SWE,Sweden,6,,,[15. 62.]
+1191,2016,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,45,,[30. -2.],[-95.  60.]
+1192,2016,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,2,[39. 15.],[38.  8.],[10. 62.]
+1193,2016,SOM,Somalia,UGA,Uganda,GBR,United Kingdom of Great Britain and Northern Ireland,4,[49. 10.],[32.  1.],
+1194,2016,SDN,Sudan,ETH,Ethiopia,USA,United States of America,430,[30. 15.],[38.  8.],
+1195,2016,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,2,,,[133. -27.]
+1196,2016,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,2,,[15. -1.],[15. 62.]
+1197,2016,IRN,Iran (Islamic Rep. of),UGA,Uganda,USA,United States of America,2,,[32.  1.],
+1198,2016,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,265,,[32.  1.],[15. 62.]
+1199,2016,ERI,Eritrea,SDN,Sudan,CAN,Canada,248,[39. 15.],[30. 15.],[-95.  60.]
+1200,2016,SOM,Somalia,ETH,Ethiopia,NOR,Norway,1,[49. 10.],[38.  8.],[10. 62.]
+1201,2016,COD,Dem. Rep. of the Congo,COG,Congo,DNK,Denmark,2,,[15. -1.],[10. 56.]
+1202,2016,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,1035,,[38.  1.],
+1203,2016,SDN,Sudan,ERI,Eritrea,SWE,Sweden,1,[30. 15.],[39. 15.],[15. 62.]
+1204,2016,SOM,Somalia,UGA,Uganda,USA,United States of America,242,[49. 10.],[32.  1.],
+1205,2016,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,1499,,[30.  -3.5],
+1206,2016,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,108,,,[-95.  60.]
+1207,2016,ERI,Eritrea,SDN,Sudan,NOR,Norway,6,[39. 15.],[30. 15.],[10. 62.]
+1208,2016,SOM,Somalia,KEN,Kenya,DNK,Denmark,6,[49. 10.],[38.  1.],[10. 56.]
+1209,2016,COD,Dem. Rep. of the Congo,BDI,Burundi,AUS,Australia,258,,[30.  -3.5],[133. -27.]
+1210,2016,ERI,Eritrea,KEN,Kenya,USA,United States of America,25,[39. 15.],[38.  1.],
+1211,2016,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,3,[39. 15.],[38.  8.],[15. 62.]
+1212,2016,SDN,Sudan,UGA,Uganda,USA,United States of America,6,[30. 15.],[32.  1.],
+1213,2016,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,21,,[15. -1.],
+1214,2016,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,95,,[32.  1.],[-95.  60.]
+1215,2016,SOM,Somalia,KEN,Kenya,USA,United States of America,3643,[49. 10.],[38.  1.],
+1216,2016,COD,Dem. Rep. of the Congo,COD,Dem. Rep. of the Congo,FRA,France,3,,,[ 2. 46.]
+1217,2016,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,11,,[32.  1.],[10. 62.]
+1218,2016,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,116,[39. 15.],[38.  8.],[133. -27.]
+1219,2016,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,11,[49. 10.],[38.  8.],[15. 62.]
+1220,2016,COD,Dem. Rep. of the Congo,COD,Dem. Rep. of the Congo,USA,United States of America,18,,,
+1221,2016,ERI,Eritrea,UGA,Uganda,CAN,Canada,1,[39. 15.],[32.  1.],[-95.  60.]
+1222,2016,SDN,Sudan,KEN,Kenya,USA,United States of America,103,[30. 15.],[38.  1.],
+1223,2016,ERI,Eritrea,ETH,Ethiopia,FRA,France,10,[39. 15.],[38.  8.],[ 2. 46.]
+1224,2016,SOM,Somalia,ETH,Ethiopia,AUS,Australia,19,[49. 10.],[38.  8.],[133. -27.]
+1225,2016,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,136,,[30.  -3.5],[-95.  60.]
+1226,2016,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,24,,[38.  1.],[15. 62.]
+1227,2016,ERI,Eritrea,UGA,Uganda,SWE,Sweden,3,[39. 15.],[32.  1.],[15. 62.]
+1228,2016,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,215,,[30.  -3.5],
+1229,2016,SDN,Sudan,COD,Dem. Rep. of the Congo,USA,United States of America,3,[30. 15.],,
+1230,2016,SYR,Syrian Arab Rep.,KEN,Kenya,USA,United States of America,5,,[38.  1.],
+1231,2016,COD,Dem. Rep. of the Congo,RWA,Rwanda,FRA,France,4,,[30. -2.],[ 2. 46.]
+1232,2016,SDN,Sudan,ETH,Ethiopia,AUS,Australia,6,[30. 15.],[38.  8.],[133. -27.]
+1233,2016,COD,Dem. Rep. of the Congo,COG,Congo,CAN,Canada,35,,[15. -1.],[-95.  60.]
+1234,2016,ERI,Eritrea,KEN,Kenya,SWE,Sweden,4,[39. 15.],[38.  1.],[15. 62.]
+1235,2016,SOM,Somalia,UGA,Uganda,SWE,Sweden,3,[49. 10.],[32.  1.],[15. 62.]
+1236,2017,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,3,,[30. -2.],[26. 64.]
+1237,2017,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,3,[39. 15.],[38.  8.],[15. 62.]
+1238,2017,SDN,Sudan,ETH,Ethiopia,USA,United States of America,299,[30. 15.],[38.  8.],
+1239,2017,SOM,Somalia,UGA,Uganda,CAN,Canada,35,[49. 10.],[32.  1.],[-95.  60.]
+1240,2017,ERI,Eritrea,SSD,South Sudan,NOR,Norway,1,[39. 15.],,[10. 62.]
+1241,2017,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,1,,[30.  -3.5],[-95.  60.]
+1242,2017,ERI,Eritrea,KEN,Kenya,AUS,Australia,24,[39. 15.],[38.  1.],[133. -27.]
+1243,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,583,,[32.  1.],[15. 62.]
+1244,2017,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,4602,,,
+1245,2017,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,33,,,[-95.  60.]
+1246,2017,SOM,Somalia,KEN,Kenya,FIN,Finland,4,[49. 10.],[38.  1.],[26. 64.]
+1247,2017,ERI,Eritrea,DJI,Djibouti,SWE,Sweden,19,[39. 15.],[43.  11.5],[15. 62.]
+1248,2017,ERI,Eritrea,DJI,Djibouti,USA,United States of America,13,[39. 15.],[43.  11.5],
+1249,2017,ERI,Eritrea,SDN,Sudan,FRA,France,9,[39. 15.],[30. 15.],[ 2. 46.]
+1250,2017,COD,Dem. Rep. of the Congo,KEN,Kenya,NOR,Norway,6,,[38.  1.],[10. 62.]
+1251,2017,ERI,Eritrea,UGA,Uganda,SWE,Sweden,1,[39. 15.],[32.  1.],[15. 62.]
+1252,2017,ERI,Eritrea,SDN,Sudan,USA,United States of America,15,[39. 15.],[30. 15.],
+1253,2017,SOM,Somalia,KEN,Kenya,AUS,Australia,48,[49. 10.],[38.  1.],[133. -27.]
+1254,2017,ERI,Eritrea,SDN,Sudan,CAN,Canada,400,[39. 15.],[30. 15.],[-95.  60.]
+1255,2017,ERI,Eritrea,ETH,Ethiopia,FIN,Finland,3,[39. 15.],[38.  8.],[26. 64.]
+1256,2017,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,177,,[30.  -3.5],[15. 62.]
+1257,2017,SOM,Somalia,DJI,Djibouti,USA,United States of America,77,[49. 10.],[43.  11.5],
+1258,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,182,,[32.  1.],[ 5.75 52.5 ]
+1259,2017,SDN,Sudan,SDN,Sudan,FRA,France,4,[30. 15.],[30. 15.],[ 2. 46.]
+1260,2017,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,2,[39. 15.],[38.  8.],[10. 62.]
+1261,2017,SOM,Somalia,UGA,Uganda,SWE,Sweden,18,[49. 10.],[32.  1.],[15. 62.]
+1262,2017,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,2715,,[30. -2.],
+1263,2017,SDN,Sudan,KEN,Kenya,AUS,Australia,1,[30. 15.],[38.  1.],[133. -27.]
+1264,2017,SDN,Sudan,SDN,Sudan,CAN,Canada,1,[30. 15.],[30. 15.],[-95.  60.]
+1265,2017,SOM,Somalia,ETH,Ethiopia,FIN,Finland,7,[49. 10.],[38.  8.],[26. 64.]
+1266,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,BEL,Belgium,169,,[32.  1.],[ 4.     50.8333]
+1267,2017,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,382,,[30.  -3.5],
+1268,2017,SOM,Somalia,UGA,Uganda,NLD,Netherlands,7,[49. 10.],[32.  1.],[ 5.75 52.5 ]
+1269,2017,COD,Dem. Rep. of the Congo,KEN,Kenya,FRA,France,7,,[38.  1.],[ 2. 46.]
+1270,2017,COD,Dem. Rep. of the Congo,COG,Congo,NOR,Norway,1,,[15. -1.],[10. 62.]
+1271,2017,ERI,Eritrea,SDN,Sudan,SWE,Sweden,461,[39. 15.],[30. 15.],[15. 62.]
+1272,2017,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,52,,[38.  1.],
+1273,2017,COD,Dem. Rep. of the Congo,ETH,Ethiopia,AUS,Australia,22,,[38.  8.],[133. -27.]
+1274,2017,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,11,,[38.  1.],[-95.  60.]
+1275,2017,SDN,Sudan,ETH,Ethiopia,FIN,Finland,8,[30. 15.],[38.  8.],[26. 64.]
+1276,2017,SDN,Sudan,UGA,Uganda,BEL,Belgium,1,[30. 15.],[32.  1.],[ 4.     50.8333]
+1277,2017,COD,Dem. Rep. of the Congo,BDI,Burundi,NZL,New Zealand,3,,[30.  -3.5],[174. -41.]
+1278,2017,SDN,Sudan,UGA,Uganda,NLD,Netherlands,7,[30. 15.],[32.  1.],[ 5.75 52.5 ]
+1279,2017,SOM,Somalia,KEN,Kenya,FRA,France,43,[49. 10.],[38.  1.],[ 2. 46.]
+1280,2017,COD,Dem. Rep. of the Congo,SSD,South Sudan,SWE,Sweden,7,,,[15. 62.]
+1281,2017,ERI,Eritrea,KEN,Kenya,USA,United States of America,2,[39. 15.],[38.  1.],
+1282,2017,ERI,Eritrea,ETH,Ethiopia,AUS,Australia,68,[39. 15.],[38.  8.],[133. -27.]
+1283,2017,SOM,Somalia,KEN,Kenya,CAN,Canada,123,[49. 10.],[38.  1.],[-95.  60.]
+1284,2017,SDN,Sudan,KEN,Kenya,FRA,France,2,[30. 15.],[38.  1.],[ 2. 46.]
+1285,2017,COD,Dem. Rep. of the Congo,BDI,Burundi,AUS,Australia,280,,[30.  -3.5],[133. -27.]
+1286,2017,SDN,Sudan,SSD,South Sudan,SWE,Sweden,15,[30. 15.],,[15. 62.]
+1287,2017,SOM,Somalia,KEN,Kenya,USA,United States of America,219,[49. 10.],[38.  1.],
+1288,2017,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,4,,[38.  8.],[-95.  60.]
+1289,2017,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,171,[49. 10.],[38.  1.],
+1290,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,363,,[32.  1.],[133. -27.]
+1291,2017,ERI,Eritrea,ETH,Ethiopia,FRA,France,5,[39. 15.],[38.  8.],[ 2. 46.]
+1292,2017,ERI,Eritrea,SSD,South Sudan,SWE,Sweden,3,[39. 15.],,[15. 62.]
+1293,2017,SDN,Sudan,KEN,Kenya,USA,United States of America,1,[30. 15.],[38.  1.],
+1294,2017,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,93,[39. 15.],[38.  8.],[-95.  60.]
+1295,2017,ERI,Eritrea,ETH,Ethiopia,GBR,United Kingdom of Great Britain and Northern Ireland,2,[39. 15.],[38.  8.],
+1296,2017,ERI,Eritrea,UGA,Uganda,AUS,Australia,5,[39. 15.],[32.  1.],[133. -27.]
+1297,2017,SOM,Somalia,ETH,Ethiopia,FRA,France,64,[49. 10.],[38.  8.],[ 2. 46.]
+1298,2017,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,26,,[30. -2.],[15. 62.]
+1299,2017,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,8,,[38.  8.],
+1300,2017,SOM,Somalia,ETH,Ethiopia,CAN,Canada,161,[49. 10.],[38.  8.],[-95.  60.]
+1301,2017,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,261,,[30.  -3.5],
+1302,2017,ERI,Eritrea,SDN,Sudan,AUS,Australia,216,[39. 15.],[30. 15.],[133. -27.]
+1303,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,1178,,[32.  1.],
+1304,2017,SDN,Sudan,ETH,Ethiopia,FRA,France,16,[30. 15.],[38.  8.],[ 2. 46.]
+1305,2017,ERI,Eritrea,SSD,South Sudan,FIN,Finland,1,[39. 15.],,[26. 64.]
+1306,2017,SOM,Somalia,KEN,Kenya,SWE,Sweden,321,[49. 10.],[38.  1.],[15. 62.]
+1307,2017,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,862,[39. 15.],[38.  8.],
+1308,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,13,,[32.  1.],[10. 62.]
+1309,2017,SDN,Sudan,ETH,Ethiopia,CAN,Canada,17,[30. 15.],[38.  8.],[-95.  60.]
+1310,2017,SOM,Somalia,DJI,Djibouti,FRA,France,6,[49. 10.],[43.  11.5],[ 2. 46.]
+1311,2017,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,40,,[30. -2.],[133. -27.]
+1312,2017,ERI,Eritrea,UGA,Uganda,USA,United States of America,10,[39. 15.],[32.  1.],
+1313,2017,SDN,Sudan,SSD,South Sudan,FIN,Finland,4,[30. 15.],,[26. 64.]
+1314,2017,COD,Dem. Rep. of the Congo,ETH,Ethiopia,SWE,Sweden,5,,[38.  8.],[15. 62.]
+1315,2017,SOM,Somalia,ETH,Ethiopia,USA,United States of America,668,[49. 10.],[38.  8.],
+1316,2017,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,57,,[32.  1.],[-95.  60.]
+1317,2017,SDN,Sudan,SSD,South Sudan,NOR,Norway,8,[30. 15.],,[10. 62.]
+1318,2017,COD,Dem. Rep. of the Congo,COG,Congo,CAN,Canada,8,,[15. -1.],[-95.  60.]
+1319,2017,ERI,Eritrea,SDN,Sudan,ITA,Italy,270,[39. 15.],[30. 15.],[12.8333 42.8333]
+1320,2017,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,348,,[38.  1.],[133. -27.]
+1321,2017,SOM,Somalia,UGA,Uganda,USA,United States of America,16,[49. 10.],[32.  1.],
+1322,2018,SDN,Sudan,KEN,Kenya,ISL,Iceland,2,[30. 15.],[38.  1.],[-18.  65.]
+1323,2018,SOM,Somalia,SDN,Sudan,AUS,Australia,1,[49. 10.],[30. 15.],[133. -27.]
+1324,2018,COD,Dem. Rep. of the Congo,ETH,Ethiopia,CAN,Canada,13,,[38.  8.],[-95.  60.]
+1325,2018,ERI,Eritrea,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,4,[39. 15.],[38.  1.],
+1326,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,1,,[38.  1.],[15. 62.]
+1327,2018,ERI,Eritrea,KEN,Kenya,USA,United States of America,6,[39. 15.],[38.  1.],
+1328,2018,ERI,Eritrea,UGA,Uganda,CAN,Canada,9,[39. 15.],[32.  1.],[-95.  60.]
+1329,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,FRA,France,7,,[38.  1.],[ 2. 46.]
+1330,2018,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,230,,[30. -2.],[133. -27.]
+1331,2018,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,12,[39. 15.],[38.  8.],[-95.  60.]
+1332,2018,SOM,Somalia,KEN,Kenya,SWE,Sweden,97,[49. 10.],[38.  1.],[15. 62.]
+1333,2018,SOM,Somalia,KEN,Kenya,USA,United States of America,67,[49. 10.],[38.  1.],
+1334,2018,IRN,Iran (Islamic Rep. of),UGA,Uganda,CAN,Canada,2,,[32.  1.],[-95.  60.]
+1335,2018,SOM,Somalia,ETH,Ethiopia,FRA,France,19,[49. 10.],[38.  8.],[ 2. 46.]
+1336,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,802,,[38.  1.],[133. -27.]
+1337,2018,SOM,Somalia,ETH,Ethiopia,CAN,Canada,668,[49. 10.],[38.  8.],[-95.  60.]
+1338,2018,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,230,[39. 15.],[38.  8.],[15. 62.]
+1339,2018,SDN,Sudan,KEN,Kenya,USA,United States of America,9,[30. 15.],[38.  1.],
+1340,2018,SDN,Sudan,UGA,Uganda,CAN,Canada,5,[30. 15.],[32.  1.],[-95.  60.]
+1341,2018,ERI,Eritrea,KEN,Kenya,AUS,Australia,27,[39. 15.],[38.  1.],[133. -27.]
+1342,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,286,,[32.  1.],[15. 62.]
+1343,2018,SDN,Sudan,ETH,Ethiopia,CAN,Canada,57,[30. 15.],[38.  8.],[-95.  60.]
+1344,2018,SOM,Somalia,DJI,Djibouti,SWE,Sweden,21,[49. 10.],[43.  11.5],[15. 62.]
+1345,2018,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,149,,[38.  8.],
+1346,2018,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,250,,,[-95.  60.]
+1347,2018,SOM,Somalia,DJI,Djibouti,CAN,Canada,223,[49. 10.],[43.  11.5],[-95.  60.]
+1348,2018,SOM,Somalia,KEN,Kenya,AUS,Australia,10,[49. 10.],[38.  1.],[133. -27.]
+1349,2018,ERI,Eritrea,UGA,Uganda,SWE,Sweden,2,[39. 15.],[32.  1.],[15. 62.]
+1350,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,2619,,[32.  1.],
+1351,2018,COD,Dem. Rep. of the Congo,COG,Congo,SWE,Sweden,29,,[15. -1.],[15. 62.]
+1352,2018,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,769,[39. 15.],[38.  8.],
+1353,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,1178,,[32.  1.],[10. 62.]
+1354,2018,ERI,Eritrea,SDN,Sudan,CAN,Canada,11,[39. 15.],[30. 15.],[-95.  60.]
+1355,2018,SDN,Sudan,UGA,Uganda,SWE,Sweden,3,[30. 15.],[32.  1.],[15. 62.]
+1356,2018,SOM,Somalia,UGA,Uganda,USA,United States of America,4,[49. 10.],[32.  1.],
+1357,2018,ERI,Eritrea,DJI,Djibouti,CAN,Canada,19,[39. 15.],[43.  11.5],[-95.  60.]
+1358,2018,SDN,Sudan,KEN,Kenya,AUS,Australia,2,[30. 15.],[38.  1.],[133. -27.]
+1359,2018,COD,Dem. Rep. of the Congo,RWA,Rwanda,NZL,New Zealand,106,,[30. -2.],[174. -41.]
+1360,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,NLD,Netherlands,183,,[32.  1.],[ 5.75 52.5 ]
+1361,2018,SDN,Sudan,ETH,Ethiopia,USA,United States of America,17,[30. 15.],[38.  8.],
+1362,2018,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,288,,[30. -2.],[-95.  60.]
+1363,2018,SOM,Somalia,UGA,Uganda,SWE,Sweden,1,[49. 10.],[32.  1.],[15. 62.]
+1364,2018,ERI,Eritrea,UGA,Uganda,USA,United States of America,6,[39. 15.],[32.  1.],
+1365,2018,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,301,,[30.  -3.5],[-95.  60.]
+1366,2018,COD,Dem. Rep. of the Congo,BDI,Burundi,AUS,Australia,336,,[30.  -3.5],[133. -27.]
+1367,2018,ERI,Eritrea,ETH,Ethiopia,NZL,New Zealand,173,[39. 15.],[38.  8.],[174. -41.]
+1368,2018,SDN,Sudan,SSD,South Sudan,NLD,Netherlands,8,[30. 15.],,[ 5.75 52.5 ]
+1369,2018,SOM,Somalia,ETH,Ethiopia,USA,United States of America,27,[49. 10.],[38.  8.],
+1370,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,333,,[32.  1.],[133. -27.]
+1371,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,44,,[38.  1.],[-95.  60.]
+1372,2018,ERI,Eritrea,SDN,Sudan,SWE,Sweden,25,[39. 15.],[30. 15.],[15. 62.]
+1373,2018,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,5672,,,
+1374,2018,SOM,Somalia,ETH,Ethiopia,NZL,New Zealand,17,[49. 10.],[38.  8.],[174. -41.]
+1375,2018,COD,Dem. Rep. of the Congo,BDI,Burundi,NLD,Netherlands,1,,[30.  -3.5],[ 5.75 52.5 ]
+1376,2018,ERI,Eritrea,COD,Dem. Rep. of the Congo,USA,United States of America,3,[39. 15.],,
+1377,2018,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,411,,,[133. -27.]
+1378,2018,ERI,Eritrea,KEN,Kenya,CAN,Canada,2,[39. 15.],[38.  1.],[-95.  60.]
+1379,2018,SOM,Somalia,SDN,Sudan,SWE,Sweden,4,[49. 10.],[30. 15.],[15. 62.]
+1380,2018,ERI,Eritrea,SDN,Sudan,USA,United States of America,729,[39. 15.],[30. 15.],
+1381,2018,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,1628,,[30.  -3.5],
+1382,2018,ERI,Eritrea,TZA,United Rep. of Tanzania,AUS,Australia,3,[39. 15.],,[133. -27.]
+1383,2018,SOM,Somalia,KEN,Kenya,CAN,Canada,674,[49. 10.],[38.  1.],[-95.  60.]
+1384,2018,ERI,Eritrea,SSD,South Sudan,SWE,Sweden,1,[39. 15.],,[15. 62.]
+1385,2018,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,3025,,[30. -2.],
+1386,2018,ERI,Eritrea,SDN,Sudan,GBR,United Kingdom of Great Britain and Northern Ireland,32,[39. 15.],[30. 15.],
+1387,2018,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,220,[49. 10.],[38.  1.],
+1388,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,320,,[32.  1.],[-95.  60.]
+1389,2018,ERI,Eritrea,SDN,Sudan,AUS,Australia,145,[39. 15.],[30. 15.],[133. -27.]
+1390,2018,SDN,Sudan,KEN,Kenya,CAN,Canada,21,[30. 15.],[38.  1.],[-95.  60.]
+1391,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,ISL,Iceland,3,,[38.  1.],[-18.  65.]
+1392,2018,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,16,,[30. -2.],[15. 62.]
+1393,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,345,,[38.  1.],
+1394,2018,COD,Dem. Rep. of the Congo,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,1,,[38.  1.],
+1395,2018,COD,Dem. Rep. of the Congo,UGA,Uganda,FRA,France,5,,[32.  1.],[ 2. 46.]
+1396,2018,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,162,,[30.  -3.5],
+1397,2018,SOM,Somalia,UGA,Uganda,CAN,Canada,303,[49. 10.],[32.  1.],[-95.  60.]
+1398,2019,COD,Dem. Rep. of the Congo,KEN,Kenya,AUS,Australia,165,,[38.  1.],[133. -27.]
+1399,2019,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,CAN,Canada,176,,,[-95.  60.]
+1400,2019,SOM,Somalia,KEN,Kenya,SWE,Sweden,486,[49. 10.],[38.  1.],[15. 62.]
+1401,2019,ERI,Eritrea,DJI,Djibouti,CAN,Canada,32,[39. 15.],[43.  11.5],[-95.  60.]
+1402,2019,COD,Dem. Rep. of the Congo,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,17,,[38.  1.],
+1403,2019,ERI,Eritrea,DJI,Djibouti,USA,United States of America,14,[39. 15.],[43.  11.5],
+1404,2019,COD,Dem. Rep. of the Congo,UGA,Uganda,USA,United States of America,1260,,[32.  1.],
+1405,2019,SDN,Sudan,TZA,United Rep. of Tanzania,CAN,Canada,1,[30. 15.],,[-95.  60.]
+1406,2019,ERI,Eritrea,KEN,Kenya,SWE,Sweden,6,[39. 15.],[38.  1.],[15. 62.]
+1407,2019,COD,Dem. Rep. of the Congo,BDI,Burundi,CAN,Canada,1,,[30.  -3.5],[-95.  60.]
+1408,2019,ERI,Eritrea,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,3,[39. 15.],[38.  1.],
+1409,2019,SOM,Somalia,DJI,Djibouti,USA,United States of America,7,[49. 10.],[43.  11.5],
+1410,2019,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,USA,United States of America,2753,,,
+1411,2019,COD,Dem. Rep. of the Congo,RWA,Rwanda,CAN,Canada,327,,[30. -2.],[-95.  60.]
+1412,2019,COD,Dem. Rep. of the Congo,COG,Congo,USA,United States of America,18,,[15. -1.],
+1413,2019,ERI,Eritrea,ETH,Ethiopia,SWE,Sweden,6,[39. 15.],[38.  8.],[15. 62.]
+1414,2019,COD,Dem. Rep. of the Congo,ETH,Ethiopia,FRA,France,4,,[38.  8.],[ 2. 46.]
+1415,2019,SOM,Somalia,KEN,Kenya,GBR,United Kingdom of Great Britain and Northern Ireland,225,[49. 10.],[38.  1.],
+1416,2019,COD,Dem. Rep. of the Congo,RWA,Rwanda,USA,United States of America,1591,,[30. -2.],
+1417,2019,AFG,Afghanistan,KEN,Kenya,CAN,Canada,1,[65. 33.],[38.  1.],[-95.  60.]
+1418,2019,COD,Dem. Rep. of the Congo,BDI,Burundi,USA,United States of America,2225,,[30.  -3.5],
+1419,2019,SOM,Somalia,ETH,Ethiopia,SWE,Sweden,15,[49. 10.],[38.  8.],[15. 62.]
+1420,2019,ERI,Eritrea,ETH,Ethiopia,FRA,France,5,[39. 15.],[38.  8.],[ 2. 46.]
+1421,2019,COD,Dem. Rep. of the Congo,BDI,Burundi,GBR,United Kingdom of Great Britain and Northern Ireland,1,,[30.  -3.5],
+1422,2019,COD,Dem. Rep. of the Congo,KEN,Kenya,USA,United States of America,164,,[38.  1.],
+1423,2019,COD,Dem. Rep. of the Congo,KEN,Kenya,CAN,Canada,20,,[38.  1.],[-95.  60.]
+1424,2019,SOM,Somalia,DJI,Djibouti,SWE,Sweden,33,[49. 10.],[43.  11.5],[15. 62.]
+1425,2019,SOM,Somalia,ETH,Ethiopia,FRA,France,7,[49. 10.],[38.  8.],[ 2. 46.]
+1426,2019,COD,Dem. Rep. of the Congo,RWA,Rwanda,FIN,Finland,6,,[30. -2.],[26. 64.]
+1427,2019,COD,Dem. Rep. of the Congo,UGA,Uganda,NOR,Norway,1100,,[32.  1.],[10. 62.]
+1428,2019,ERI,Eritrea,KEN,Kenya,USA,United States of America,4,[39. 15.],[38.  1.],
+1429,2019,COD,Dem. Rep. of the Congo,UGA,Uganda,SWE,Sweden,390,,[32.  1.],[15. 62.]
+1430,2019,IRQ,Iraq,KEN,Kenya,CAN,Canada,1,[44. 33.],[38.  1.],[-95.  60.]
+1431,2019,COD,Dem. Rep. of the Congo,BDI,Burundi,SWE,Sweden,1,,[30.  -3.5],[15. 62.]
+1432,2019,COD,Dem. Rep. of the Congo,BDI,Burundi,FIN,Finland,9,,[30.  -3.5],[26. 64.]
+1433,2019,SOM,Somalia,UGA,Uganda,NOR,Norway,10,[49. 10.],[32.  1.],[10. 62.]
+1434,2019,SOM,Somalia,KEN,Kenya,USA,United States of America,11,[49. 10.],[38.  1.],
+1435,2019,ERI,Eritrea,UGA,Uganda,SWE,Sweden,3,[39. 15.],[32.  1.],[15. 62.]
+1436,2019,SOM,Somalia,KEN,Kenya,CAN,Canada,773,[49. 10.],[38.  1.],[-95.  60.]
+1437,2019,ERI,Eritrea,KEN,Kenya,AUS,Australia,7,[39. 15.],[38.  1.],[133. -27.]
+1438,2019,SOM,Somalia,ETH,Ethiopia,DEU,Germany,552,[49. 10.],[38.  8.],[ 9. 51.]
+1439,2019,COD,Dem. Rep. of the Congo,UGA,Uganda,CAN,Canada,186,,[32.  1.],[-95.  60.]
+1440,2019,COD,Dem. Rep. of the Congo,UGA,Uganda,AUS,Australia,21,,[32.  1.],[133. -27.]
+1441,2019,ERI,Eritrea,ETH,Ethiopia,CAN,Canada,24,[39. 15.],[38.  8.],[-95.  60.]
+1442,2019,SOM,Somalia,KEN,Kenya,NOR,Norway,11,[49. 10.],[38.  1.],[10. 62.]
+1443,2019,COD,Dem. Rep. of the Congo,ETH,Ethiopia,USA,United States of America,77,,[38.  8.],
+1444,2019,SOM,Somalia,UGA,Uganda,SWE,Sweden,2,[49. 10.],[32.  1.],[15. 62.]
+1445,2019,SOM,Somalia,KEN,Kenya,AUS,Australia,5,[49. 10.],[38.  1.],[133. -27.]
+1446,2019,ERI,Eritrea,UGA,Uganda,CAN,Canada,11,[39. 15.],[32.  1.],[-95.  60.]
+1447,2019,SOM,Somalia,KEN,Kenya,DNK,Denmark,10,[49. 10.],[38.  1.],[10. 56.]
+1448,2019,COD,Dem. Rep. of the Congo,TZA,United Rep. of Tanzania,AUS,Australia,310,,,[133. -27.]
+1449,2019,ERI,Eritrea,SOM,Somalia,SWE,Sweden,6,[39. 15.],[49. 10.],[15. 62.]
+1450,2019,SOM,Somalia,ETH,Ethiopia,CAN,Canada,777,[49. 10.],[38.  8.],[-95.  60.]
+1451,2019,ERI,Eritrea,ETH,Ethiopia,NOR,Norway,1,[39. 15.],[38.  8.],[10. 62.]
+1452,2019,COD,Dem. Rep. of the Congo,RWA,Rwanda,NZL,New Zealand,3,,[30. -2.],[174. -41.]
+1453,2019,ERI,Eritrea,ETH,Ethiopia,USA,United States of America,958,[39. 15.],[38.  8.],
+1454,2019,ERI,Eritrea,UGA,Uganda,NLD,Netherlands,4,[39. 15.],[32.  1.],[ 5.75 52.5 ]
+1455,2019,COD,Dem. Rep. of the Congo,BDI,Burundi,AUS,Australia,436,,[30.  -3.5],[133. -27.]
+1456,2019,ERI,Eritrea,SDN,Sudan,AUS,Australia,1,[39. 15.],[30. 15.],[133. -27.]
+1457,2019,SOM,Somalia,UGA,Uganda,CAN,Canada,27,[49. 10.],[32.  1.],[-95.  60.]
+1458,2019,SOM,Somalia,KEN,Kenya,NLD,Netherlands,7,[49. 10.],[38.  1.],[ 5.75 52.5 ]
+1459,2019,COD,Dem. Rep. of the Congo,RWA,Rwanda,SWE,Sweden,6,,[30. -2.],[15. 62.]
+1460,2019,SDN,Sudan,ETH,Ethiopia,CAN,Canada,41,[30. 15.],[38.  8.],[-95.  60.]
+1461,2019,SOM,Somalia,ETH,Ethiopia,NOR,Norway,5,[49. 10.],[38.  8.],[10. 62.]
+1462,2019,ERI,Eritrea,ETH,Ethiopia,NZL,New Zealand,2,[39. 15.],[38.  8.],[174. -41.]
+1463,2019,SOM,Somalia,ETH,Ethiopia,USA,United States of America,19,[49. 10.],[38.  8.],
+1464,2019,COD,Dem. Rep. of the Congo,RWA,Rwanda,AUS,Australia,394,,[30. -2.],[133. -27.]
+1465,2019,SDN,Sudan,UGA,Uganda,CAN,Canada,3,[30. 15.],[32.  1.],[-95.  60.]
+1466,2019,COD,Dem. Rep. of the Congo,KEN,Kenya,SWE,Sweden,11,,[38.  1.],[15. 62.]
+1467,2019,SOM,Somalia,DJI,Djibouti,CAN,Canada,265,[49. 10.],[43.  11.5],[-95.  60.]
+1468,2019,SOM,Somalia,ETH,Ethiopia,NZL,New Zealand,1,[49. 10.],[38.  8.],[174. -41.]
+1469,2019,SDN,Sudan,ETH,Ethiopia,USA,United States of America,4,[30. 15.],[38.  8.],

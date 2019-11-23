@@ -1,0 +1,576 @@
+,Year,Country of Origin (ISO),Country of Origin,Country of Asylum (ISO),Country of Asylum,Country of Resettlement (ISO),Country of Resettlement,Total submissions (persons),Country of Origin Coordinates,Country of Asylum Coordinates,Country of Resettlement Coordinates
+0,2003,SOM,Somalia,ZAF,South Africa,AUT,Austria,1,[49. 10.],[ 24. -29.],[13.3333 47.3333]
+1,2003,COD,Dem. Rep. of the Congo,AGO,Angola,NLD,Netherlands,2,0.0,[ 18.5 -12.5],[ 5.75 52.5 ]
+2,2003,COD,Dem. Rep. of the Congo,AGO,Angola,USA,United States of America,2,,[ 18.5 -12.5],
+3,2003,SDN,Sudan,ZMB,Zambia,USA,United States of America,1,[30. 15.],[ 30. -15.],
+4,2003,SDN,Sudan,ZAF,South Africa,NLD,Netherlands,4,[30. 15.],[ 24. -29.],[ 5.75 52.5 ]
+5,2003,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,8,,[ 24. -29.],
+6,2003,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,12,,[ 18.5 -12.5],[-95.  60.]
+7,2003,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,72,,[ 30. -15.],
+8,2003,COD,Dem. Rep. of the Congo,MOZ,Mozambique,CAN,Canada,5,,[ 35.   -18.25],[-95.  60.]
+9,2003,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,15,,[ 17. -22.],[-95.  60.]
+10,2003,COD,Dem. Rep. of the Congo,AGO,Angola,SWE,Sweden,4,,[ 18.5 -12.5],[15. 62.]
+11,2003,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,9,,[ 24. -29.],[-95.  60.]
+12,2003,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,47,,[ 30. -15.],[133. -27.]
+13,2003,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,6,,[ 17. -22.],[15. 62.]
+14,2003,SDN,Sudan,ZAF,South Africa,CAN,Canada,1,[30. 15.],[ 24. -29.],[-95.  60.]
+15,2003,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,4,,[ 24. -29.],[15. 62.]
+16,2003,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,75,,[ 30. -15.],[-95.  60.]
+17,2003,SDN,Sudan,ZAF,South Africa,SWE,Sweden,4,[30. 15.],[ 24. -29.],[15. 62.]
+18,2003,SDN,Sudan,ZMB,Zambia,CAN,Canada,3,[30. 15.],[ 30. -15.],[-95.  60.]
+19,2003,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUT,Austria,2,,[ 24. -29.],[13.3333 47.3333]
+20,2004,SOM,Somalia,ZMB,Zambia,AUS,Australia,4,[49. 10.],[ 30. -15.],[133. -27.]
+21,2004,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,4,,[ 17. -22.],[-95.  60.]
+22,2004,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,5,,[ 24. -29.],[15. 62.]
+23,2004,SDN,Sudan,ZMB,Zambia,AUS,Australia,8,[30. 15.],[ 30. -15.],[133. -27.]
+24,2004,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,44,,[ 24. -29.],[-95.  60.]
+25,2004,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,43,,[ 30. -15.],[10. 62.]
+26,2004,COD,Dem. Rep. of the Congo,AGO,Angola,USA,United States of America,13,,[ 18.5 -12.5],
+27,2004,SOM,Somalia,ZAF,South Africa,CAN,Canada,4,[49. 10.],[ 24. -29.],[-95.  60.]
+28,2004,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,6,,[ 17. -22.],
+29,2004,SDN,Sudan,ZAF,South Africa,CAN,Canada,8,[30. 15.],[ 24. -29.],[-95.  60.]
+30,2004,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,6,,[ 24. -29.],
+31,2004,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,20,,[ 30. -15.],[-95.  60.]
+32,2004,SDN,Sudan,ZAF,South Africa,DNK,Denmark,4,[30. 15.],[ 24. -29.],[10. 56.]
+33,2004,SOM,Somalia,ZAF,South Africa,USA,United States of America,8,[49. 10.],[ 24. -29.],
+34,2004,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,152,,[ 30. -15.],[10. 56.]
+35,2004,SDN,Sudan,ZAF,South Africa,USA,United States of America,1,[30. 15.],[ 24. -29.],
+36,2004,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,34,,[ 30. -15.],
+37,2004,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,34,,[ 24. -29.],[133. -27.]
+38,2004,SDN,Sudan,ZMB,Zambia,USA,United States of America,7,[30. 15.],[ 30. -15.],
+39,2004,SOM,Somalia,ZAF,South Africa,AUS,Australia,3,[49. 10.],[ 24. -29.],[133. -27.]
+40,2004,SOM,Somalia,ZMB,Zambia,CHE,Switzerland,7,[49. 10.],[ 30. -15.],[ 8. 47.]
+41,2004,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,86,,[ 30. -15.],[133. -27.]
+42,2004,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,1,,[ 18.5 -12.5],[-95.  60.]
+43,2004,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,5,,[ 17. -22.],[15. 62.]
+44,2005,SDN,Sudan,MOZ,Mozambique,USA,United States of America,10,[30. 15.],[ 35.   -18.25],
+45,2005,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,6,,[ 17. -22.],[15. 62.]
+46,2005,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,82,,[ 17. -22.],
+47,2005,COD,Dem. Rep. of the Congo,MOZ,Mozambique,AUS,Australia,7,,[ 35.   -18.25],[133. -27.]
+48,2005,COD,Dem. Rep. of the Congo,ZMB,Zambia,GBR,United Kingdom of Great Britain and Northern Ireland,132,,[ 30. -15.],
+49,2005,COD,Dem. Rep. of the Congo,ZMB,Zambia,NLD,Netherlands,8,,[ 30. -15.],[ 5.75 52.5 ]
+50,2005,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,4,,[ 24. -29.],
+51,2005,COD,Dem. Rep. of the Congo,MWI,Malawi,NOR,Norway,104,,[ 34.  -13.5],[10. 62.]
+52,2005,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,5,,[ 24. -29.],[133. -27.]
+53,2005,SDN,Sudan,ZAF,South Africa,USA,United States of America,1,[30. 15.],[ 24. -29.],
+54,2005,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,108,,[ 30. -15.],[10. 62.]
+55,2005,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,53,,[ 30. -15.],
+56,2005,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,12,,[ 18.5 -12.5],[-95.  60.]
+57,2005,SOM,Somalia,ZMB,Zambia,USA,United States of America,7,[49. 10.],[ 30. -15.],
+58,2005,SOM,Somalia,BWA,Botswana,CAN,Canada,2,[49. 10.],[ 24. -22.],[-95.  60.]
+59,2005,COD,Dem. Rep. of the Congo,MOZ,Mozambique,CAN,Canada,82,,[ 35.   -18.25],[-95.  60.]
+60,2005,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,30,,[ 17. -22.],[-95.  60.]
+61,2005,SOM,Somalia,BWA,Botswana,USA,United States of America,17,[49. 10.],[ 24. -22.],
+62,2005,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,24,,[ 24. -29.],[-95.  60.]
+63,2005,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,123,,[ 35.   -18.25],
+64,2005,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,3,,[ 30. -15.],[-95.  60.]
+65,2006,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,12,,[ 30. -15.],
+66,2006,COD,Dem. Rep. of the Congo,MDG,Madagascar,CAN,Canada,10,,[ 47. -20.],[-95.  60.]
+67,2006,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,6,,[ 30. -20.],
+68,2006,SDN,Sudan,MDG,Madagascar,CAN,Canada,1,[30. 15.],[ 47. -20.],[-95.  60.]
+69,2006,COD,Dem. Rep. of the Congo,MWI,Malawi,SWE,Sweden,69,,[ 34.  -13.5],[15. 62.]
+70,2006,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,23,,[ 24. -29.],[-95.  60.]
+71,2006,COD,Dem. Rep. of the Congo,ZMB,Zambia,GBR,United Kingdom of Great Britain and Northern Ireland,270,,[ 30. -15.],
+72,2006,COD,Dem. Rep. of the Congo,AGO,Angola,NZL,New Zealand,3,,[ 18.5 -12.5],[174. -41.]
+73,2006,SOM,Somalia,BWA,Botswana,NLD,Netherlands,18,[49. 10.],[ 24. -22.],[ 5.75 52.5 ]
+74,2006,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,7,,[ 17. -22.],[15. 62.]
+75,2006,SOM,Somalia,ZAF,South Africa,CAN,Canada,3,[49. 10.],[ 24. -29.],[-95.  60.]
+76,2006,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,62,,[ 34.  -13.5],[133. -27.]
+77,2006,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,NLD,Netherlands,4,,[ 30. -20.],[ 5.75 52.5 ]
+78,2006,SDN,Sudan,ZAF,South Africa,SWE,Sweden,1,[30. 15.],[ 24. -29.],[15. 62.]
+79,2006,COD,Dem. Rep. of the Congo,MWI,Malawi,NOR,Norway,80,,[ 34.  -13.5],[10. 62.]
+80,2006,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,2,,[ 30. -15.],[-95.  60.]
+81,2006,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,9,,[ 24. -29.],[133. -27.]
+82,2006,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,3,,[ 30. -15.],[15. 62.]
+83,2006,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,187,,[ 30. -15.],[10. 62.]
+84,2006,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,39,,[ 30. -20.],[-95.  60.]
+85,2006,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,189,,[ 30. -15.],[133. -27.]
+86,2006,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,SWE,Sweden,4,,[ 30. -20.],[15. 62.]
+87,2006,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,1,,[ 24. -29.],
+88,2006,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,AUS,Australia,112,,[ 30. -20.],[133. -27.]
+89,2006,COD,Dem. Rep. of the Congo,MWI,Malawi,DNK,Denmark,91,,[ 34.  -13.5],[10. 56.]
+90,2006,ERI,Eritrea,ZAF,South Africa,USA,United States of America,2,[39. 15.],[ 24. -29.],
+91,2006,SOM,Somalia,ZWE,Zimbabwe,AUS,Australia,2,[49. 10.],[ 30. -20.],[133. -27.]
+92,2006,SDN,Sudan,MWI,Malawi,DNK,Denmark,6,[30. 15.],[ 34.  -13.5],[10. 56.]
+93,2006,SOM,Somalia,ZAF,South Africa,USA,United States of America,1,[49. 10.],[ 24. -29.],
+94,2006,SOM,Somalia,BWA,Botswana,FIN,Finland,5,[49. 10.],[ 24. -22.],[26. 64.]
+95,2006,SDN,Sudan,ZWE,Zimbabwe,AUS,Australia,17,[30. 15.],[ 30. -20.],[133. -27.]
+96,2006,SDN,Sudan,ZAF,South Africa,USA,United States of America,1,[30. 15.],[ 24. -29.],
+97,2007,SDN,Sudan,ZAF,South Africa,CAN,Canada,1,[30. 15.],[ 24. -29.],[-95.  60.]
+98,2007,SDN,Sudan,ZWE,Zimbabwe,USA,United States of America,7,[30. 15.],[ 30. -20.],
+99,2007,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,15,,[ 24. -29.],[133. -27.]
+100,2007,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,29,,[ 30. -15.],[-95.  60.]
+101,2007,SOM,Somalia,ZAF,South Africa,AUS,Australia,14,[49. 10.],[ 24. -29.],[133. -27.]
+102,2007,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,8,,[ 24. -22.],
+103,2007,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,51,,[ 30. -20.],[-95.  60.]
+104,2007,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,AUS,Australia,7,,[ 30. -20.],[133. -27.]
+105,2007,SOM,Somalia,BWA,Botswana,USA,United States of America,32,[49. 10.],[ 24. -22.],
+106,2007,ERI,Eritrea,ZWE,Zimbabwe,CAN,Canada,2,[39. 15.],[ 30. -20.],[-95.  60.]
+107,2007,ERI,Eritrea,AGO,Angola,PRT,Portugal,6,[39. 15.],[ 18.5 -12.5],[-8.  39.5]
+108,2007,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,6,,[ 24. -29.],
+109,2007,COD,Dem. Rep. of the Congo,ZMB,Zambia,GBR,United Kingdom of Great Britain and Northern Ireland,201,,[ 30. -15.],
+110,2007,SOM,Somalia,ZAF,South Africa,USA,United States of America,1,[49. 10.],[ 24. -29.],
+111,2007,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,406,,[ 30. -15.],
+112,2007,SOM,Somalia,BWA,Botswana,NOR,Norway,1,[49. 10.],[ 24. -22.],[10. 62.]
+113,2007,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,1,,[ 24. -22.],[-95.  60.]
+114,2007,SOM,Somalia,ZMB,Zambia,USA,United States of America,1,[49. 10.],[ 30. -15.],
+115,2007,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,SWE,Sweden,6,,[ 30. -20.],[15. 62.]
+116,2007,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,315,,[ 30. -15.],[10. 62.]
+117,2007,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,20,,[ 24. -29.],[-95.  60.]
+118,2007,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,128,,[ 30. -20.],
+119,2007,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,NOR,Norway,6,,[ 30. -20.],[10. 62.]
+120,2007,ERI,Eritrea,ZAF,South Africa,CAN,Canada,1,[39. 15.],[ 24. -29.],[-95.  60.]
+121,2007,ERI,Eritrea,ZWE,Zimbabwe,USA,United States of America,2,[39. 15.],[ 30. -20.],
+122,2007,ERI,Eritrea,ZWE,Zimbabwe,NOR,Norway,1,[39. 15.],[ 30. -20.],[10. 62.]
+123,2007,SOM,Somalia,ZAF,South Africa,CAN,Canada,1,[49. 10.],[ 24. -29.],[-95.  60.]
+124,2007,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,FIN,Finland,4,,[ 30. -20.],[26. 64.]
+125,2007,SOM,Somalia,ZWE,Zimbabwe,USA,United States of America,7,[49. 10.],[ 30. -20.],
+126,2007,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,6,,[ 34.  -13.5],[133. -27.]
+127,2008,SOM,Somalia,BWA,Botswana,NOR,Norway,3,[49. 10.],[ 24. -22.],[10. 62.]
+128,2008,SOM,Somalia,ZWE,Zimbabwe,SWE,Sweden,4,[49. 10.],[ 30. -20.],[15. 62.]
+129,2008,COD,Dem. Rep. of the Congo,ZMB,Zambia,BEL,Belgium,12,,[ 30. -15.],[ 4.     50.8333]
+130,2008,SOM,Somalia,ZMB,Zambia,NOR,Norway,1,[49. 10.],[ 30. -15.],[10. 62.]
+131,2008,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,31,,[ 35.   -18.25],
+132,2008,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,92,,[ 24. -29.],
+133,2008,SOM,Somalia,ZAF,South Africa,USA,United States of America,177,[49. 10.],[ 24. -29.],
+134,2008,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,88,,[ 34.  -13.5],[133. -27.]
+135,2008,SOM,Somalia,ZAF,South Africa,CAN,Canada,3,[49. 10.],[ 24. -29.],[-95.  60.]
+136,2008,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,236,,[ 30. -15.],
+137,2008,SOM,Somalia,MWI,Malawi,AUS,Australia,11,[49. 10.],[ 34.  -13.5],[133. -27.]
+138,2008,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,60,,[ 30. -20.],
+139,2008,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,3,,[ 24. -29.],[133. -27.]
+140,2008,SOM,Somalia,BWA,Botswana,NLD,Netherlands,2,[49. 10.],[ 24. -22.],[ 5.75 52.5 ]
+141,2008,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,12,,[ 30. -15.],[133. -27.]
+142,2008,SOM,Somalia,ZMB,Zambia,NLD,Netherlands,1,[49. 10.],[ 30. -15.],[ 5.75 52.5 ]
+143,2008,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,AUS,Australia,58,,[ 30. -20.],[133. -27.]
+144,2008,COD,Dem. Rep. of the Congo,COM,Comoros,SWE,Sweden,5,,[ 44.25   -12.1667],[15. 62.]
+145,2008,ERI,Eritrea,ZWE,Zimbabwe,AUS,Australia,3,[39. 15.],[ 30. -20.],[133. -27.]
+146,2008,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,173,,[ 30. -15.],[10. 56.]
+147,2008,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,SWE,Sweden,8,,[ 30. -20.],[15. 62.]
+148,2008,ERI,Eritrea,ZWE,Zimbabwe,SWE,Sweden,1,[39. 15.],[ 30. -20.],[15. 62.]
+149,2009,COD,Dem. Rep. of the Congo,MWI,Malawi,FIN,Finland,15,,[ 34.  -13.5],[26. 64.]
+150,2009,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,123,,[ 35.   -18.25],
+151,2009,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,113,,[ 30. -15.],[133. -27.]
+152,2009,SOM,Somalia,MWI,Malawi,FIN,Finland,2,[49. 10.],[ 34.  -13.5],[26. 64.]
+153,2009,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,14,,[ 17. -22.],
+154,2009,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,AUS,Australia,94,,[ 30. -20.],[133. -27.]
+155,2009,COD,Dem. Rep. of the Congo,MWI,Malawi,NOR,Norway,6,,[ 34.  -13.5],[10. 62.]
+156,2009,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,82,,[ 24. -29.],
+157,2009,ERI,Eritrea,ZWE,Zimbabwe,AUS,Australia,1,[39. 15.],[ 30. -20.],[133. -27.]
+158,2009,SOM,Somalia,MWI,Malawi,NOR,Norway,2,[49. 10.],[ 34.  -13.5],[10. 62.]
+159,2009,COD,Dem. Rep. of the Congo,AGO,Angola,FRA,France,3,,[ 18.5 -12.5],[ 2. 46.]
+160,2009,SOM,Somalia,ZAF,South Africa,USA,United States of America,655,[49. 10.],[ 24. -29.],
+161,2009,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,NOR,Norway,5,,[ 30. -20.],[10. 62.]
+162,2009,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,271,,[ 30. -15.],
+163,2009,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,5,,[ 24. -29.],[-95.  60.]
+164,2009,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,97,,[ 30. -20.],
+165,2009,SOM,Somalia,ZAF,South Africa,CAN,Canada,15,[49. 10.],[ 24. -29.],[-95.  60.]
+166,2009,COD,Dem. Rep. of the Congo,AGO,Angola,USA,United States of America,1,,[ 18.5 -12.5],
+167,2009,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,17,,[ 30. -15.],[-95.  60.]
+168,2009,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,12,,[ 24. -22.],
+169,2009,COD,Dem. Rep. of the Congo,NAM,Namibia,NLD,Netherlands,4,,[ 17. -22.],[ 5.75 52.5 ]
+170,2009,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,49,,[ 30. -20.],[-95.  60.]
+171,2009,SOM,Somalia,BWA,Botswana,USA,United States of America,20,[49. 10.],[ 24. -22.],
+172,2009,SOM,Somalia,ZWE,Zimbabwe,CAN,Canada,3,[49. 10.],[ 30. -20.],[-95.  60.]
+173,2009,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,118,,[ 34.  -13.5],
+174,2009,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,6,,[ 24. -29.],[133. -27.]
+175,2009,SOM,Somalia,ZAF,South Africa,AUS,Australia,1,[49. 10.],[ 24. -29.],[133. -27.]
+176,2009,SOM,Somalia,MWI,Malawi,USA,United States of America,3,[49. 10.],[ 34.  -13.5],
+177,2010,ERI,Eritrea,MOZ,Mozambique,USA,United States of America,1,[39. 15.],[ 35.   -18.25],
+178,2010,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,70,,[ 34.  -13.5],[-95.  60.]
+179,2010,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,160,,[ 30. -20.],
+180,2010,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,80,,[ 17. -22.],
+181,2010,SDN,Sudan,MWI,Malawi,CAN,Canada,2,[30. 15.],[ 34.  -13.5],[-95.  60.]
+182,2010,SOM,Somalia,ZWE,Zimbabwe,USA,United States of America,5,[49. 10.],[ 30. -20.],
+183,2010,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,115,,[ 24. -29.],
+184,2010,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,6,,[ 24. -29.],[-95.  60.]
+185,2010,ERI,Eritrea,ZAF,South Africa,USA,United States of America,7,[39. 15.],[ 24. -29.],
+186,2010,SOM,Somalia,ZAF,South Africa,CAN,Canada,23,[49. 10.],[ 24. -29.],[-95.  60.]
+187,2010,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,234,,[ 34.  -13.5],[133. -27.]
+188,2010,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,103,,[ 30. -20.],[-95.  60.]
+189,2010,COD,Dem. Rep. of the Congo,AGO,Angola,FRA,France,6,,[ 18.5 -12.5],[ 2. 46.]
+190,2010,SOM,Somalia,MWI,Malawi,AUS,Australia,36,[49. 10.],[ 34.  -13.5],[133. -27.]
+191,2010,COD,Dem. Rep. of the Congo,MOZ,Mozambique,PRT,Portugal,7,,[ 35.   -18.25],[-8.  39.5]
+192,2010,SOM,Somalia,BWA,Botswana,NOR,Norway,5,[49. 10.],[ 24. -22.],[10. 62.]
+193,2010,COD,Dem. Rep. of the Congo,MOZ,Mozambique,FRA,France,4,,[ 35.   -18.25],[ 2. 46.]
+194,2010,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,12,,[ 24. -29.],[133. -27.]
+195,2010,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,NOR,Norway,5,,[ 30. -20.],[10. 62.]
+196,2010,COD,Dem. Rep. of the Congo,NAM,Namibia,FRA,France,4,,[ 17. -22.],[ 2. 46.]
+197,2010,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,5,,[ 24. -22.],
+198,2010,SOM,Somalia,ZAF,South Africa,AUS,Australia,2,[49. 10.],[ 24. -29.],[133. -27.]
+199,2010,SOM,Somalia,BWA,Botswana,USA,United States of America,57,[49. 10.],[ 24. -22.],
+200,2010,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,39,,[ 30. -15.],[133. -27.]
+201,2010,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,33,,[ 34.  -13.5],
+202,2010,SOM,Somalia,ZAF,South Africa,USA,United States of America,628,[49. 10.],[ 24. -29.],
+203,2010,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,137,,[ 35.   -18.25],
+204,2010,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,22,,[ 18.5 -12.5],[-95.  60.]
+205,2010,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,22,,[ 30. -15.],
+206,2011,SOM,Somalia,ZAF,South Africa,AUS,Australia,26,[49. 10.],[ 24. -29.],[133. -27.]
+207,2011,SOM,Somalia,ZAF,South Africa,USA,United States of America,1125,[49. 10.],[ 24. -29.],
+208,2011,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,DNK,Denmark,155,,[ 30. -20.],[10. 56.]
+209,2011,SDN,Sudan,ZAF,South Africa,USA,United States of America,2,[30. 15.],[ 24. -29.],
+210,2011,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,93,,[ 30. -15.],[133. -27.]
+211,2011,COD,Dem. Rep. of the Congo,BWA,Botswana,SWE,Sweden,3,,[ 24. -22.],[15. 62.]
+212,2011,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,168,,[ 30. -15.],
+213,2011,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,FIN,Finland,8,,[ 30. -20.],[26. 64.]
+214,2011,SOM,Somalia,ZMB,Zambia,AUS,Australia,11,[49. 10.],[ 30. -15.],[133. -27.]
+215,2011,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,8,,[ 24. -22.],
+216,2011,SOM,Somalia,BWA,Botswana,SWE,Sweden,6,[49. 10.],[ 24. -22.],[15. 62.]
+217,2011,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,AUS,Australia,47,,[ 30. -20.],[133. -27.]
+218,2011,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,180,,[ 30. -20.],
+219,2011,SOM,Somalia,BWA,Botswana,USA,United States of America,147,[49. 10.],[ 24. -22.],
+220,2011,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,SWE,Sweden,10,,[ 30. -20.],[15. 62.]
+221,2011,ERI,Eritrea,ZWE,Zimbabwe,AUS,Australia,1,[39. 15.],[ 30. -20.],[133. -27.]
+222,2011,SOM,Somalia,ZWE,Zimbabwe,USA,United States of America,2,[49. 10.],[ 30. -20.],
+223,2011,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,59,,[ 34.  -13.5],
+224,2011,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,6,,[ 24. -22.],[-95.  60.]
+225,2011,SOM,Somalia,MWI,Malawi,USA,United States of America,1,[49. 10.],[ 34.  -13.5],
+226,2011,ERI,Eritrea,BWA,Botswana,CAN,Canada,8,[39. 15.],[ 24. -22.],[-95.  60.]
+227,2011,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,161,,[ 35.   -18.25],
+228,2011,SOM,Somalia,ZAF,South Africa,NOR,Norway,8,[49. 10.],[ 24. -29.],[10. 62.]
+229,2011,SOM,Somalia,BWA,Botswana,CAN,Canada,126,[49. 10.],[ 24. -22.],[-95.  60.]
+230,2011,SOM,Somalia,MOZ,Mozambique,USA,United States of America,3,[49. 10.],[ 35.   -18.25],
+231,2011,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,14,,[ 24. -29.],[-95.  60.]
+232,2011,SOM,Somalia,BWA,Botswana,NLD,Netherlands,5,[49. 10.],[ 24. -22.],[ 5.75 52.5 ]
+233,2011,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,161,,[ 34.  -13.5],[133. -27.]
+234,2011,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,114,,[ 24. -29.],
+235,2011,SOM,Somalia,ZAF,South Africa,CAN,Canada,105,[49. 10.],[ 24. -29.],[-95.  60.]
+236,2011,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,22,,[ 24. -29.],[133. -27.]
+237,2011,ERI,Eritrea,ZAF,South Africa,USA,United States of America,12,[39. 15.],[ 24. -29.],
+238,2011,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,6,,[ 30. -15.],[10. 56.]
+239,2012,SOM,Somalia,ZAF,South Africa,USA,United States of America,807,[49. 10.],[ 24. -29.],
+240,2012,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,14,,[ 24. -22.],[-95.  60.]
+241,2012,COD,Dem. Rep. of the Congo,ZAF,South Africa,DNK,Denmark,1,,[ 24. -29.],[10. 56.]
+242,2012,SDN,Sudan,ZAF,South Africa,USA,United States of America,2,[30. 15.],[ 24. -29.],
+243,2012,SOM,Somalia,BWA,Botswana,CAN,Canada,28,[49. 10.],[ 24. -22.],[-95.  60.]
+244,2012,SOM,Somalia,ZAF,South Africa,DNK,Denmark,11,[49. 10.],[ 24. -29.],[10. 56.]
+245,2012,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,224,,[ 30. -15.],
+246,2012,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,32,,[ 34.  -13.5],[-95.  60.]
+247,2012,SOM,Somalia,ZAF,South Africa,FIN,Finland,2,[49. 10.],[ 24. -29.],[26. 64.]
+248,2012,SOM,Somalia,ZMB,Zambia,DNK,Denmark,7,[49. 10.],[ 30. -15.],[10. 56.]
+249,2012,SOM,Somalia,ZMB,Zambia,USA,United States of America,8,[49. 10.],[ 30. -15.],
+250,2012,COD,Dem. Rep. of the Congo,MOZ,Mozambique,CAN,Canada,47,,[ 35.   -18.25],[-95.  60.]
+251,2012,SDN,Sudan,ZMB,Zambia,USA,United States of America,3,[30. 15.],[ 30. -15.],
+252,2012,COD,Dem. Rep. of the Congo,BWA,Botswana,SWE,Sweden,1,,[ 24. -22.],[15. 62.]
+253,2012,AFG,Afghanistan,ZAF,South Africa,CAN,Canada,7,[65. 33.],[ 24. -29.],[-95.  60.]
+254,2012,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,221,,[ 34.  -13.5],[133. -27.]
+255,2012,SOM,Somalia,BWA,Botswana,USA,United States of America,35,[49. 10.],[ 24. -22.],
+256,2012,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,60,,[ 30. -20.],
+257,2012,SOM,Somalia,BWA,Botswana,SWE,Sweden,3,[49. 10.],[ 24. -22.],[15. 62.]
+258,2012,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,46,,[ 24. -29.],[-95.  60.]
+259,2012,COD,Dem. Rep. of the Congo,MOZ,Mozambique,AUS,Australia,83,,[ 35.   -18.25],[133. -27.]
+260,2012,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,171,,[ 34.  -13.5],
+261,2012,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,1,,[ 24. -29.],[15. 62.]
+262,2012,SOM,Somalia,ZAF,South Africa,CAN,Canada,134,[49. 10.],[ 24. -29.],[-95.  60.]
+263,2012,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,6,,[ 24. -29.],[133. -27.]
+264,2012,SOM,Somalia,MWI,Malawi,USA,United States of America,3,[49. 10.],[ 34.  -13.5],
+265,2012,SOM,Somalia,ZAF,South Africa,SWE,Sweden,1,[49. 10.],[ 24. -29.],[15. 62.]
+266,2012,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,278,,[ 30. -15.],[-95.  60.]
+267,2012,COD,Dem. Rep. of the Congo,MWI,Malawi,NOR,Norway,4,,[ 34.  -13.5],[10. 62.]
+268,2012,ERI,Eritrea,ZAF,South Africa,AUS,Australia,1,[39. 15.],[ 24. -29.],[133. -27.]
+269,2012,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,60,,[ 35.   -18.25],
+270,2012,SOM,Somalia,ZMB,Zambia,CAN,Canada,1,[49. 10.],[ 30. -15.],[-95.  60.]
+271,2012,COD,Dem. Rep. of the Congo,ZAF,South Africa,NOR,Norway,15,,[ 24. -29.],[10. 62.]
+272,2012,SOM,Somalia,ZAF,South Africa,IRL,Ireland,2,[49. 10.],[ 24. -29.],[-8. 53.]
+273,2012,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,60,,[ 24. -29.],
+274,2012,AFG,Afghanistan,ZAF,South Africa,NLD,Netherlands,8,[65. 33.],[ 24. -29.],[ 5.75 52.5 ]
+275,2012,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,11,,[ 30. -20.],[-95.  60.]
+276,2012,SOM,Somalia,ZAF,South Africa,NOR,Norway,9,[49. 10.],[ 24. -29.],[10. 62.]
+277,2012,ERI,Eritrea,ZAF,South Africa,USA,United States of America,4,[39. 15.],[ 24. -29.],
+278,2012,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,18,,[ 18.5 -12.5],[-95.  60.]
+279,2013,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,19,,[ 24. -22.],[-95.  60.]
+280,2013,SOM,Somalia,ZWE,Zimbabwe,USA,United States of America,1,[49. 10.],[ 30. -20.],
+281,2013,SOM,Somalia,ZAF,South Africa,NOR,Norway,4,[49. 10.],[ 24. -29.],[10. 62.]
+282,2013,COD,Dem. Rep. of the Congo,NAM,Namibia,AUS,Australia,51,,[ 17. -22.],[133. -27.]
+283,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,NLD,Netherlands,12,,[ 30. -15.],[ 5.75 52.5 ]
+284,2013,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,134,,[ 35.   -18.25],
+285,2013,SOM,Somalia,BWA,Botswana,CAN,Canada,15,[49. 10.],[ 24. -22.],[-95.  60.]
+286,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,1,,[ 30. -15.],[10. 62.]
+287,2013,SDN,Sudan,NAM,Namibia,AUS,Australia,2,[30. 15.],[ 17. -22.],[133. -27.]
+288,2013,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,245,,[ 17. -22.],
+289,2013,SOM,Somalia,MWI,Malawi,CAN,Canada,1,[49. 10.],[ 34.  -13.5],[-95.  60.]
+290,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,BEL,Belgium,2,,[ 30. -15.],[ 4.     50.8333]
+291,2013,COD,Dem. Rep. of the Congo,ZAF,South Africa,AUS,Australia,28,,[ 24. -29.],[133. -27.]
+292,2013,ERI,Eritrea,NAM,Namibia,USA,United States of America,1,[39. 15.],[ 17. -22.],
+293,2013,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,90,,[ 24. -29.],[-95.  60.]
+294,2013,ERI,Eritrea,ZAF,South Africa,AUS,Australia,1,[39. 15.],[ 24. -29.],[133. -27.]
+295,2013,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,320,,[ 24. -29.],
+296,2013,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CHL,Chile,3,,[ 30. -20.],[-71. -30.]
+297,2013,ERI,Eritrea,ZAF,South Africa,CAN,Canada,3,[39. 15.],[ 24. -29.],[-95.  60.]
+298,2013,COD,Dem. Rep. of the Congo,MWI,Malawi,FIN,Finland,105,,[ 34.  -13.5],[26. 64.]
+299,2013,COD,Dem. Rep. of the Congo,NAM,Namibia,DNK,Denmark,4,,[ 17. -22.],[10. 56.]
+300,2013,SOM,Somalia,ZAF,South Africa,AUS,Australia,2,[49. 10.],[ 24. -29.],[133. -27.]
+301,2013,ERI,Eritrea,ZAF,South Africa,USA,United States of America,8,[39. 15.],[ 24. -29.],
+302,2013,SOM,Somalia,ZAF,South Africa,CAN,Canada,114,[49. 10.],[ 24. -29.],[-95.  60.]
+303,2013,SOM,Somalia,ZAF,South Africa,FIN,Finland,1,[49. 10.],[ 24. -29.],[26. 64.]
+304,2013,COD,Dem. Rep. of the Congo,ZAF,South Africa,GBR,United Kingdom of Great Britain and Northern Ireland,3,,[ 24. -29.],
+305,2013,SOM,Somalia,ZAF,South Africa,DNK,Denmark,1,[49. 10.],[ 24. -29.],[10. 56.]
+306,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,AUS,Australia,99,,[ 30. -15.],[133. -27.]
+307,2013,SOM,Somalia,ZAF,South Africa,USA,United States of America,770,[49. 10.],[ 24. -29.],
+308,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,88,,[ 30. -15.],[-95.  60.]
+309,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,FIN,Finland,61,,[ 30. -15.],[26. 64.]
+310,2013,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,7,,[ 24. -22.],
+311,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,1,,[ 30. -15.],[10. 56.]
+312,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,383,,[ 30. -15.],
+313,2013,SOM,Somalia,ZMB,Zambia,CAN,Canada,4,[49. 10.],[ 30. -15.],[-95.  60.]
+314,2013,SOM,Somalia,ZMB,Zambia,FIN,Finland,7,[49. 10.],[ 30. -15.],[26. 64.]
+315,2013,SOM,Somalia,BWA,Botswana,USA,United States of America,45,[49. 10.],[ 24. -22.],
+316,2013,SOM,Somalia,ZMB,Zambia,USA,United States of America,12,[49. 10.],[ 30. -15.],
+317,2013,COD,Dem. Rep. of the Congo,ZAF,South Africa,ISL,Iceland,1,,[ 24. -29.],[-18.  65.]
+318,2013,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,76,,[ 30. -20.],[-95.  60.]
+319,2013,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,333,,[ 34.  -13.5],
+320,2013,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,312,,[ 30. -20.],
+321,2013,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,3,,[ 30. -15.],[15. 62.]
+322,2013,COD,Dem. Rep. of the Congo,BWA,Botswana,AUS,Australia,70,,[ 24. -22.],[133. -27.]
+323,2013,SOM,Somalia,MWI,Malawi,USA,United States of America,8,[49. 10.],[ 34.  -13.5],
+324,2013,ERI,Eritrea,ZWE,Zimbabwe,USA,United States of America,4,[39. 15.],[ 30. -20.],
+325,2013,SOM,Somalia,ZMB,Zambia,IRL,Ireland,5,[49. 10.],[ 30. -15.],[-8. 53.]
+326,2013,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,124,,[ 34.  -13.5],[133. -27.]
+327,2013,COD,Dem. Rep. of the Congo,ZAF,South Africa,NLD,Netherlands,5,,[ 24. -29.],[ 5.75 52.5 ]
+328,2013,SDN,Sudan,MWI,Malawi,USA,United States of America,1,[30. 15.],[ 34.  -13.5],
+329,2014,COD,Dem. Rep. of the Congo,MWI,Malawi,SWE,Sweden,6,,[ 34.  -13.5],[15. 62.]
+330,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,CHE,Switzerland,2,,[ 30. -15.],[ 8. 47.]
+331,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,FIN,Finland,83,,[ 30. -15.],[26. 64.]
+332,2014,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,36,,[ 24. -22.],[-95.  60.]
+333,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,817,,[ 30. -15.],
+334,2014,SOM,Somalia,ZMB,Zambia,DNK,Denmark,1,[49. 10.],[ 30. -15.],[10. 56.]
+335,2014,SDN,Sudan,ZAF,South Africa,CAN,Canada,2,[30. 15.],[ 24. -29.],[-95.  60.]
+336,2014,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,5,,[ 17. -22.],[15. 62.]
+337,2014,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,11,,[ 24. -22.],
+338,2014,SOM,Somalia,BWA,Botswana,CAN,Canada,28,[49. 10.],[ 24. -22.],[-95.  60.]
+339,2014,COD,Dem. Rep. of the Congo,NAM,Namibia,NLD,Netherlands,4,,[ 17. -22.],[ 5.75 52.5 ]
+340,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,131,,[ 30. -15.],[-95.  60.]
+341,2014,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,4,,[ 24. -29.],[15. 62.]
+342,2014,SOM,Somalia,BWA,Botswana,USA,United States of America,16,[49. 10.],[ 24. -22.],
+343,2014,SDN,Sudan,BWA,Botswana,CAN,Canada,7,[30. 15.],[ 24. -22.],[-95.  60.]
+344,2014,SOM,Somalia,BWA,Botswana,NOR,Norway,4,[49. 10.],[ 24. -22.],[10. 62.]
+345,2014,COD,Dem. Rep. of the Congo,ZAF,South Africa,NLD,Netherlands,1,,[ 24. -29.],[ 5.75 52.5 ]
+346,2014,SOM,Somalia,ZMB,Zambia,CAN,Canada,6,[49. 10.],[ 30. -15.],[-95.  60.]
+347,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,21,,[ 30. -15.],[15. 62.]
+348,2014,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,443,,[ 34.  -13.5],
+349,2014,AFG,Afghanistan,MDG,Madagascar,CAN,Canada,1,[65. 33.],[ 47. -20.],[-95.  60.]
+350,2014,SOM,Somalia,ZAF,South Africa,NOR,Norway,3,[49. 10.],[ 24. -29.],[10. 62.]
+351,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,NLD,Netherlands,13,,[ 30. -15.],[ 5.75 52.5 ]
+352,2014,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,65,,[ 30. -20.],[-95.  60.]
+353,2014,SOM,Somalia,MWI,Malawi,USA,United States of America,9,[49. 10.],[ 34.  -13.5],
+354,2014,COD,Dem. Rep. of the Congo,MDG,Madagascar,CAN,Canada,1,,[ 47. -20.],[-95.  60.]
+355,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,6,,[ 30. -15.],[10. 62.]
+356,2014,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,17,,[ 35.   -18.25],
+357,2014,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,35,,[ 34.  -13.5],[-95.  60.]
+358,2014,SOM,Somalia,ZMB,Zambia,NOR,Norway,6,[49. 10.],[ 30. -15.],[10. 62.]
+359,2014,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,124,,[ 17. -22.],
+360,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,GBR,United Kingdom of Great Britain and Northern Ireland,4,,[ 30. -15.],
+361,2014,COD,Dem. Rep. of the Congo,BWA,Botswana,AUS,Australia,2,,[ 24. -22.],[133. -27.]
+362,2014,COD,Dem. Rep. of the Congo,MOZ,Mozambique,CAN,Canada,70,,[ 35.   -18.25],[-95.  60.]
+363,2014,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,211,,[ 30. -20.],
+364,2014,SOM,Somalia,NAM,Namibia,USA,United States of America,1,[49. 10.],[ 17. -22.],
+365,2014,SOM,Somalia,BWA,Botswana,DNK,Denmark,4,[49. 10.],[ 24. -22.],[10. 56.]
+366,2014,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,139,,[ 34.  -13.5],[133. -27.]
+367,2014,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,263,,[ 17. -22.],[-95.  60.]
+368,2014,SDN,Sudan,ZWE,Zimbabwe,USA,United States of America,3,[30. 15.],[ 30. -20.],
+369,2014,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,181,,[ 24. -29.],
+370,2014,SOM,Somalia,BWA,Botswana,FIN,Finland,3,[49. 10.],[ 24. -22.],[26. 64.]
+371,2014,COD,Dem. Rep. of the Congo,NAM,Namibia,DNK,Denmark,8,,[ 17. -22.],[10. 56.]
+372,2014,SOM,Somalia,NAM,Namibia,CAN,Canada,4,[49. 10.],[ 17. -22.],[-95.  60.]
+373,2014,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,8,,[ 18.5 -12.5],[-95.  60.]
+374,2014,ERI,Eritrea,ZAF,South Africa,USA,United States of America,7,[39. 15.],[ 24. -29.],
+375,2014,COD,Dem. Rep. of the Congo,MWI,Malawi,FIN,Finland,108,,[ 34.  -13.5],[26. 64.]
+376,2014,SOM,Somalia,ZAF,South Africa,DNK,Denmark,6,[49. 10.],[ 24. -29.],[10. 56.]
+377,2014,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,92,,[ 24. -29.],[-95.  60.]
+378,2014,COD,Dem. Rep. of the Congo,BWA,Botswana,SWE,Sweden,6,,[ 24. -22.],[15. 62.]
+379,2014,SOM,Somalia,ZAF,South Africa,FIN,Finland,3,[49. 10.],[ 24. -29.],[26. 64.]
+380,2014,ERI,Eritrea,AGO,Angola,CAN,Canada,1,[39. 15.],[ 18.5 -12.5],[-95.  60.]
+381,2014,SOM,Somalia,ZAF,South Africa,USA,United States of America,1040,[49. 10.],[ 24. -29.],
+382,2014,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,8,,[ 30. -15.],[10. 56.]
+383,2014,SOM,Somalia,ZAF,South Africa,CAN,Canada,154,[49. 10.],[ 24. -29.],[-95.  60.]
+384,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,40,,[ 24. -29.],[-95.  60.]
+385,2015,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,42,,[ 35.   -18.25],
+386,2015,ERI,Eritrea,ZWE,Zimbabwe,USA,United States of America,6,[39. 15.],[ 30. -20.],
+387,2015,ERI,Eritrea,ZAF,South Africa,CAN,Canada,1,[39. 15.],[ 24. -29.],[-95.  60.]
+388,2015,ERI,Eritrea,MOZ,Mozambique,USA,United States of America,1,[39. 15.],[ 35.   -18.25],
+389,2015,COD,Dem. Rep. of the Congo,MWI,Malawi,FIN,Finland,85,,[ 34.  -13.5],[26. 64.]
+390,2015,COD,Dem. Rep. of the Congo,NAM,Namibia,DNK,Denmark,7,,[ 17. -22.],[10. 56.]
+391,2015,SOM,Somalia,ZAF,South Africa,CAN,Canada,34,[49. 10.],[ 24. -29.],[-95.  60.]
+392,2015,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,236,,[ 17. -22.],
+393,2015,SOM,Somalia,ZAF,South Africa,FIN,Finland,2,[49. 10.],[ 24. -29.],[26. 64.]
+394,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,DNK,Denmark,8,,[ 24. -29.],[10. 56.]
+395,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,4,,[ 30. -15.],[-95.  60.]
+396,2015,SOM,Somalia,NAM,Namibia,USA,United States of America,1,[49. 10.],[ 17. -22.],
+397,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,FIN,Finland,127,,[ 30. -15.],[26. 64.]
+398,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,18,,[ 30. -15.],[10. 56.]
+399,2015,COD,Dem. Rep. of the Congo,LSO,Lesotho,SWE,Sweden,2,,[ 28.5 -29.5],[15. 62.]
+400,2015,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,21,,[ 30. -20.],[-95.  60.]
+401,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,166,,[ 24. -29.],
+402,2015,SOM,Somalia,ZMB,Zambia,FIN,Finland,6,[49. 10.],[ 30. -15.],[26. 64.]
+403,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,NLD,Netherlands,2,,[ 24. -29.],[ 5.75 52.5 ]
+404,2015,SOM,Somalia,ZMB,Zambia,DNK,Denmark,1,[49. 10.],[ 30. -15.],[10. 56.]
+405,2015,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,3,,[ 24. -22.],[-95.  60.]
+406,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,5,,[ 24. -29.],[15. 62.]
+407,2015,SOM,Somalia,ZWE,Zimbabwe,CAN,Canada,5,[49. 10.],[ 30. -20.],[-95.  60.]
+408,2015,ERI,Eritrea,ZAF,South Africa,USA,United States of America,15,[39. 15.],[ 24. -29.],
+409,2015,SOM,Somalia,BWA,Botswana,CAN,Canada,11,[49. 10.],[ 24. -22.],[-95.  60.]
+410,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,NLD,Netherlands,1,,[ 30. -15.],[ 5.75 52.5 ]
+411,2015,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,DNK,Denmark,1,,[ 30. -20.],[10. 56.]
+412,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,43,,[ 30. -15.],[15. 62.]
+413,2015,SOM,Somalia,ZAF,South Africa,USA,United States of America,1058,[49. 10.],[ 24. -29.],
+414,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,NOR,Norway,8,,[ 24. -29.],[10. 62.]
+415,2015,SOM,Somalia,MDG,Madagascar,CAN,Canada,1,[49. 10.],[ 47. -20.],[-95.  60.]
+416,2015,COD,Dem. Rep. of the Congo,ZAF,South Africa,GBR,United Kingdom of Great Britain and Northern Ireland,1,,[ 24. -29.],
+417,2015,SDN,Sudan,ZAF,South Africa,USA,United States of America,1,[30. 15.],[ 24. -29.],
+418,2015,SOM,Somalia,ZAF,South Africa,NOR,Norway,1,[49. 10.],[ 24. -29.],[10. 62.]
+419,2015,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,47,,[ 34.  -13.5],[-95.  60.]
+420,2015,COD,Dem. Rep. of the Congo,NAM,Namibia,FRA,France,1,,[ 17. -22.],[ 2. 46.]
+421,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,636,,[ 30. -15.],
+422,2015,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,13,,[ 30. -15.],[10. 62.]
+423,2015,COD,Dem. Rep. of the Congo,MOZ,Mozambique,CAN,Canada,3,,[ 35.   -18.25],[-95.  60.]
+424,2015,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,480,,[ 34.  -13.5],
+425,2015,SOM,Somalia,ZMB,Zambia,USA,United States of America,18,[49. 10.],[ 30. -15.],
+426,2015,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,NOR,Norway,2,,[ 30. -20.],[10. 62.]
+427,2015,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,11,,[ 17. -22.],[-95.  60.]
+428,2015,SOM,Somalia,MWI,Malawi,USA,United States of America,3,[49. 10.],[ 34.  -13.5],
+429,2015,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,227,,[ 30. -20.],
+430,2016,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,6,,[ 24. -29.],[-95.  60.]
+431,2016,COD,Dem. Rep. of the Congo,ZAF,South Africa,NOR,Norway,1,,[ 24. -29.],[10. 62.]
+432,2016,SOM,Somalia,ZAF,South Africa,USA,United States of America,921,[49. 10.],[ 24. -29.],
+433,2016,SOM,Somalia,AGO,Angola,USA,United States of America,3,[49. 10.],[ 18.5 -12.5],
+434,2016,ERI,Eritrea,ZAF,South Africa,CAN,Canada,3,[39. 15.],[ 24. -29.],[-95.  60.]
+435,2016,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,762,,[ 30. -15.],
+436,2016,SOM,Somalia,ZAF,South Africa,NOR,Norway,5,[49. 10.],[ 24. -29.],[10. 62.]
+437,2016,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,13,,[ 24. -22.],
+438,2016,ERI,Eritrea,SYC,Seychelles,CAN,Canada,1,[39. 15.],[55.6667 -4.5833],[-95.  60.]
+439,2016,SOM,Somalia,ZMB,Zambia,USA,United States of America,13,[49. 10.],[ 30. -15.],
+440,2016,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,5,,[ 30. -15.],[10. 62.]
+441,2016,SOM,Somalia,BWA,Botswana,USA,United States of America,27,[49. 10.],[ 24. -22.],
+442,2016,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,71,,[ 30. -15.],[-95.  60.]
+443,2016,SDN,Sudan,ZMB,Zambia,USA,United States of America,4,[30. 15.],[ 30. -15.],
+444,2016,SOM,Somalia,ZMB,Zambia,NOR,Norway,6,[49. 10.],[ 30. -15.],[10. 62.]
+445,2016,SDN,Sudan,BWA,Botswana,USA,United States of America,1,[30. 15.],[ 24. -22.],
+446,2016,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,CAN,Canada,78,,[ 30. -20.],[-95.  60.]
+447,2016,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,309,,[ 30. -20.],
+448,2016,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,NOR,Norway,1,,[ 30. -20.],[10. 62.]
+449,2016,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,743,,[ 34.  -13.5],
+450,2016,SOM,Somalia,ZWE,Zimbabwe,CAN,Canada,5,[49. 10.],[ 30. -20.],[-95.  60.]
+451,2016,ERI,Eritrea,ZWE,Zimbabwe,USA,United States of America,9,[39. 15.],[ 30. -20.],
+452,2016,COD,Dem. Rep. of the Congo,AGO,Angola,CAN,Canada,14,,[ 18.5 -12.5],[-95.  60.]
+453,2016,SOM,Somalia,MWI,Malawi,USA,United States of America,6,[49. 10.],[ 34.  -13.5],
+454,2016,SOM,Somalia,ZWE,Zimbabwe,USA,United States of America,3,[49. 10.],[ 30. -20.],
+455,2016,COD,Dem. Rep. of the Congo,BWA,Botswana,DNK,Denmark,1,,[ 24. -22.],[10. 56.]
+456,2016,COD,Dem. Rep. of the Congo,MWI,Malawi,SWE,Sweden,23,,[ 34.  -13.5],[15. 62.]
+457,2016,ERI,Eritrea,AGO,Angola,CAN,Canada,3,[39. 15.],[ 18.5 -12.5],[-95.  60.]
+458,2016,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,132,,[ 35.   -18.25],
+459,2016,COD,Dem. Rep. of the Congo,ZMB,Zambia,DNK,Denmark,16,,[ 30. -15.],[10. 56.]
+460,2016,COD,Dem. Rep. of the Congo,MOZ,Mozambique,SWE,Sweden,6,,[ 35.   -18.25],[15. 62.]
+461,2016,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,1,,[ 24. -22.],[-95.  60.]
+462,2016,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,98,,[ 17. -22.],
+463,2016,COD,Dem. Rep. of the Congo,ZAF,South Africa,FRA,France,16,,[ 24. -29.],[ 2. 46.]
+464,2016,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,106,,[ 34.  -13.5],[-95.  60.]
+465,2016,SOM,Somalia,ZAF,South Africa,SWE,Sweden,1,[49. 10.],[ 24. -29.],[15. 62.]
+466,2016,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,129,,[ 24. -29.],
+467,2016,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,60,,[ 17. -22.],[-95.  60.]
+468,2016,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,83,,[ 30. -15.],[15. 62.]
+469,2016,ERI,Eritrea,ZAF,South Africa,USA,United States of America,1,[39. 15.],[ 24. -29.],
+470,2016,COD,Dem. Rep. of the Congo,MWI,Malawi,NOR,Norway,14,,[ 34.  -13.5],[10. 62.]
+471,2017,COD,Dem. Rep. of the Congo,ZAF,South Africa,FRA,France,9,,[ 24. -29.],[ 2. 46.]
+472,2017,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,10,,[ 24. -29.],
+473,2017,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,40,,[ 30. -15.],[15. 62.]
+474,2017,SOM,Somalia,ZAF,South Africa,FRA,France,9,[49. 10.],[ 24. -29.],[ 2. 46.]
+475,2017,SOM,Somalia,ZAF,South Africa,USA,United States of America,115,[49. 10.],[ 24. -29.],
+476,2017,COD,Dem. Rep. of the Congo,SWZ,Eswatini,SWE,Sweden,4,,,[15. 62.]
+477,2017,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,233,,[ 34.  -13.5],
+478,2017,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,12,,[ 17. -22.],[15. 62.]
+479,2017,SOM,Somalia,MWI,Malawi,USA,United States of America,5,[49. 10.],[ 34.  -13.5],
+480,2017,COD,Dem. Rep. of the Congo,MWI,Malawi,SWE,Sweden,34,,[ 34.  -13.5],[15. 62.]
+481,2017,SDN,Sudan,MWI,Malawi,USA,United States of America,2,[30. 15.],[ 34.  -13.5],
+482,2017,SOM,Somalia,BWA,Botswana,SWE,Sweden,7,[49. 10.],[ 24. -22.],[15. 62.]
+483,2017,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,1,,[ 24. -22.],
+484,2017,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,FIN,Finland,152,,[ 30. -20.],[26. 64.]
+485,2017,SOM,Somalia,ZMB,Zambia,NOR,Norway,2,[49. 10.],[ 30. -15.],[10. 62.]
+486,2017,COD,Dem. Rep. of the Congo,AGO,Angola,USA,United States of America,3,,[ 18.5 -12.5],
+487,2017,COD,Dem. Rep. of the Congo,ZMB,Zambia,FIN,Finland,10,,[ 30. -15.],[26. 64.]
+488,2017,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,4,,[ 17. -22.],[-95.  60.]
+489,2017,COD,Dem. Rep. of the Congo,NAM,Namibia,NOR,Norway,4,,[ 17. -22.],[10. 62.]
+490,2017,ERI,Eritrea,AGO,Angola,USA,United States of America,7,[39. 15.],[ 18.5 -12.5],
+491,2017,COD,Dem. Rep. of the Congo,SWZ,Eswatini,FIN,Finland,8,,,[26. 64.]
+492,2017,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,9,,[ 34.  -13.5],[-95.  60.]
+493,2017,ERI,Eritrea,ZWE,Zimbabwe,USA,United States of America,1,[39. 15.],[ 30. -20.],
+494,2017,COD,Dem. Rep. of the Congo,MWI,Malawi,NOR,Norway,7,,[ 34.  -13.5],[10. 62.]
+495,2017,SOM,Somalia,AGO,Angola,USA,United States of America,4,[49. 10.],[ 18.5 -12.5],
+496,2017,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,252,,[ 34.  -13.5],[133. -27.]
+497,2017,SOM,Somalia,MWI,Malawi,FIN,Finland,3,[49. 10.],[ 34.  -13.5],[26. 64.]
+498,2017,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,90,,[ 30. -20.],
+499,2017,COD,Dem. Rep. of the Congo,MWI,Malawi,FIN,Finland,7,,[ 34.  -13.5],[26. 64.]
+500,2017,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,FRA,France,6,,[ 30. -20.],[ 2. 46.]
+501,2017,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,474,,[ 30. -15.],
+502,2018,COD,Dem. Rep. of the Congo,BWA,Botswana,NOR,Norway,24,,[ 24. -22.],[10. 62.]
+503,2018,SDN,Sudan,ZMB,Zambia,USA,United States of America,1,[30. 15.],[ 30. -15.],
+504,2018,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,77,,[ 24. -29.],[-95.  60.]
+505,2018,COD,Dem. Rep. of the Congo,AGO,Angola,SWE,Sweden,5,,[ 18.5 -12.5],[15. 62.]
+506,2018,COD,Dem. Rep. of the Congo,MDG,Madagascar,NLD,Netherlands,1,,[ 47. -20.],[ 5.75 52.5 ]
+507,2018,ERI,Eritrea,AGO,Angola,USA,United States of America,7,[39. 15.],[ 18.5 -12.5],
+508,2018,SOM,Somalia,ZMB,Zambia,USA,United States of America,3,[49. 10.],[ 30. -15.],
+509,2018,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,2,,[ 17. -22.],[-95.  60.]
+510,2018,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,433,,[ 24. -29.],
+511,2018,COD,Dem. Rep. of the Congo,MOZ,Mozambique,CAN,Canada,15,,[ 35.   -18.25],[-95.  60.]
+512,2018,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,137,,[ 17. -22.],
+513,2018,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,59,,[ 34.  -13.5],[-95.  60.]
+514,2018,SDN,Sudan,NAM,Namibia,USA,United States of America,1,[30. 15.],[ 17. -22.],
+515,2018,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,39,,[ 24. -22.],[-95.  60.]
+516,2018,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,27,,[ 30. -15.],[15. 62.]
+517,2018,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,60,,[ 35.   -18.25],
+518,2018,SOM,Somalia,ZMB,Zambia,SWE,Sweden,4,[49. 10.],[ 30. -15.],[15. 62.]
+519,2018,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,571,,[ 34.  -13.5],
+520,2018,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,265,,[ 34.  -13.5],[133. -27.]
+521,2018,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,27,,[ 24. -29.],[15. 62.]
+522,2018,AFG,Afghanistan,MDG,Madagascar,USA,United States of America,1,[65. 33.],[ 47. -20.],
+523,2018,COD,Dem. Rep. of the Congo,AGO,Angola,USA,United States of America,19,,[ 18.5 -12.5],
+524,2018,SOM,Somalia,ZAF,South Africa,SWE,Sweden,4,[49. 10.],[ 24. -29.],[15. 62.]
+525,2018,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,4,,[ 30. -15.],[-95.  60.]
+526,2018,COD,Dem. Rep. of the Congo,ZAF,South Africa,NOR,Norway,6,,[ 24. -29.],[10. 62.]
+527,2018,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,556,,[ 30. -20.],
+528,2018,COD,Dem. Rep. of the Congo,MOZ,Mozambique,SWE,Sweden,15,,[ 35.   -18.25],[15. 62.]
+529,2018,COD,Dem. Rep. of the Congo,ZMB,Zambia,NLD,Netherlands,5,,[ 30. -15.],[ 5.75 52.5 ]
+530,2018,SOM,Somalia,ZAF,South Africa,CAN,Canada,12,[49. 10.],[ 24. -29.],[-95.  60.]
+531,2018,AFG,Afghanistan,MDG,Madagascar,NOR,Norway,2,[65. 33.],[ 47. -20.],[10. 62.]
+532,2018,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,447,,[ 30. -15.],
+533,2018,COD,Dem. Rep. of the Congo,MWI,Malawi,SWE,Sweden,29,,[ 34.  -13.5],[15. 62.]
+534,2018,SOM,Somalia,ZAF,South Africa,NLD,Netherlands,6,[49. 10.],[ 24. -29.],[ 5.75 52.5 ]
+535,2018,COD,Dem. Rep. of the Congo,ZMB,Zambia,FIN,Finland,141,,[ 30. -15.],[26. 64.]
+536,2018,ERI,Eritrea,ZAF,South Africa,CAN,Canada,2,[39. 15.],[ 24. -29.],[-95.  60.]
+537,2019,COD,Dem. Rep. of the Congo,MUS,Mauritius,CAN,Canada,10,,[ 57.55   -20.2833],[-95.  60.]
+538,2019,COD,Dem. Rep. of the Congo,ZMB,Zambia,FIN,Finland,120,,[ 30. -15.],[26. 64.]
+539,2019,ERI,Eritrea,MDG,Madagascar,USA,United States of America,1,[39. 15.],[ 47. -20.],
+540,2019,COD,Dem. Rep. of the Congo,ZMB,Zambia,NOR,Norway,7,,[ 30. -15.],[10. 62.]
+541,2019,COD,Dem. Rep. of the Congo,MWI,Malawi,CAN,Canada,113,,[ 34.  -13.5],[-95.  60.]
+542,2019,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,SWE,Sweden,6,,[ 30. -20.],[15. 62.]
+543,2019,COD,Dem. Rep. of the Congo,MUS,Mauritius,FIN,Finland,1,,[ 57.55   -20.2833],[26. 64.]
+544,2019,COD,Dem. Rep. of the Congo,BWA,Botswana,USA,United States of America,15,,[ 24. -22.],
+545,2019,COD,Dem. Rep. of the Congo,MUS,Mauritius,NOR,Norway,1,,[ 57.55   -20.2833],[10. 62.]
+546,2019,COD,Dem. Rep. of the Congo,BWA,Botswana,CAN,Canada,23,,[ 24. -22.],[-95.  60.]
+547,2019,COD,Dem. Rep. of the Congo,ZWE,Zimbabwe,USA,United States of America,310,,[ 30. -20.],
+548,2019,ERI,Eritrea,BWA,Botswana,USA,United States of America,3,[39. 15.],[ 24. -22.],
+549,2019,COD,Dem. Rep. of the Congo,ZMB,Zambia,SWE,Sweden,2,,[ 30. -15.],[15. 62.]
+550,2019,COD,Dem. Rep. of the Congo,MWI,Malawi,FIN,Finland,10,,[ 34.  -13.5],[26. 64.]
+551,2019,ERI,Eritrea,BWA,Botswana,CAN,Canada,2,[39. 15.],[ 24. -22.],[-95.  60.]
+552,2019,COD,Dem. Rep. of the Congo,ZMB,Zambia,USA,United States of America,482,,[ 30. -15.],
+553,2019,COD,Dem. Rep. of the Congo,AGO,Angola,USA,United States of America,64,,[ 18.5 -12.5],
+554,2019,COD,Dem. Rep. of the Congo,ZAF,South Africa,SWE,Sweden,1,,[ 24. -29.],[15. 62.]
+555,2019,COD,Dem. Rep. of the Congo,ZAF,South Africa,USA,United States of America,267,,[ 24. -29.],
+556,2019,ERI,Eritrea,AGO,Angola,USA,United States of America,4,[39. 15.],[ 18.5 -12.5],
+557,2019,COD,Dem. Rep. of the Congo,NAM,Namibia,SWE,Sweden,2,,[ 17. -22.],[15. 62.]
+558,2019,SOM,Somalia,ZAF,South Africa,USA,United States of America,1,[49. 10.],[ 24. -29.],
+559,2019,SYR,Syrian Arab Rep.,MUS,Mauritius,SWE,Sweden,2,,[ 57.55   -20.2833],[15. 62.]
+560,2019,COD,Dem. Rep. of the Congo,ZMB,Zambia,CAN,Canada,13,,[ 30. -15.],[-95.  60.]
+561,2019,COD,Dem. Rep. of the Congo,NAM,Namibia,USA,United States of America,59,,[ 17. -22.],
+562,2019,COD,Dem. Rep. of the Congo,MOZ,Mozambique,SWE,Sweden,7,,[ 35.   -18.25],[15. 62.]
+563,2019,SOM,Somalia,ZMB,Zambia,CAN,Canada,8,[49. 10.],[ 30. -15.],[-95.  60.]
+564,2019,COD,Dem. Rep. of the Congo,MOZ,Mozambique,USA,United States of America,79,,[ 35.   -18.25],
+565,2019,COD,Dem. Rep. of the Congo,MWI,Malawi,AUS,Australia,297,,[ 34.  -13.5],[133. -27.]
+566,2019,COD,Dem. Rep. of the Congo,MWI,Malawi,SWE,Sweden,25,,[ 34.  -13.5],[15. 62.]
+567,2019,COD,Dem. Rep. of the Congo,ZAF,South Africa,CAN,Canada,59,,[ 24. -29.],[-95.  60.]
+568,2019,COD,Dem. Rep. of the Congo,MWI,Malawi,USA,United States of America,229,,[ 34.  -13.5],
+569,2019,SOM,Somalia,MWI,Malawi,AUS,Australia,1,[49. 10.],[ 34.  -13.5],[133. -27.]
+570,2019,SOM,Somalia,MDG,Madagascar,SWE,Sweden,1,[49. 10.],[ 47. -20.],[15. 62.]
+571,2019,ERI,Eritrea,ZAF,South Africa,CAN,Canada,4,[39. 15.],[ 24. -29.],[-95.  60.]
+572,2019,AFG,Afghanistan,MDG,Madagascar,USA,United States of America,6,[65. 33.],[ 47. -20.],
+573,2019,COD,Dem. Rep. of the Congo,NAM,Namibia,CAN,Canada,99,,[ 17. -22.],[-95.  60.]
+574,2019,COD,Dem. Rep. of the Congo,MDG,Madagascar,USA,United States of America,8,,[ 47. -20.],
