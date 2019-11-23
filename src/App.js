@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import { StaticMap } from 'react-map-gl';
-import { AmbientLight, PointLight, LightingEffect } from '@deck.gl/core';
+// import { AmbientLight, PointLight, LightingEffect } from '@deck.gl/core';
 import {ArcLayer} from '@deck.gl/layers';
 import DeckGL from '@deck.gl/react';
 
@@ -11,7 +11,7 @@ import { ControlPanelComponent } from "./components/control-panel";
 const MAPBOX_TOKEN = "pk.eyJ1IjoiaHBiYWxhIiwiYSI6ImNrMXZyNWFscjB2N2szY3FmMHdodXZ2NjMifQ.PZQEuVD4WAHGTPd4yT5YFQ"; // eslint-disable-line
 
 // Source data CSV
-const DATA_URL ='https://raw.githubusercontent.com/hopetambala/dps-deck-refugee/master/data/2_RSQSubmissions_cleaned.json'; // eslint-disable-line
+const DATA_URL ='https://raw.githubusercontent.com/hopetambala/dps-deck-refugee/master/data/cleaned/megaData.json'; // eslint-disable-line
 
 const INITIAL_VIEW_STATE = {
   //longitude: -70.1627,
@@ -74,7 +74,7 @@ class App extends Component {
   
       return [
         new ArcLayer({
-          id: 'arc',
+          id: 'arcOrgAsy',
           data: data,
           getSourcePosition: d => d["Country of Origin Coordinates"],
           getTargetPosition: d => d["Country of Asylum Coordinates"],
@@ -84,7 +84,7 @@ class App extends Component {
           getHeight: strokeHeight
         }),
         new ArcLayer({
-          id: 'arc',
+          id: 'arcAsyRes',
           data: data,
           getSourcePosition: d => d["Country of Asylum Coordinates"],
           getTargetPosition: d => d["Country of Resettlement Coordinates"],
