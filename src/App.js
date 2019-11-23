@@ -69,7 +69,7 @@ class App extends Component {
 
   _renderLayers() {
     const data = this.state.data;
-    const strokeWidth = 2;
+    const strokeWidth = .35;
     const strokeHeight = .25;
   
       return [
